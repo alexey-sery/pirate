@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111" />
+    <title>Сливы курсов | Поиск по курсам</title>
+    <link href="images/favicon.ico" rel="icon" />
+    <link href="images/favicon.ico" rel="apple-touch-icon" />
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/search.css" rel="stylesheet" />
+    <link href="styles/components/nav-2.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/menu-2.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/snow.css" rel="stylesheet" type="text/css" />
+    <link
+      href="styles/components/preloader.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(96890812, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/96890812" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  </head>
+  <body>
+    <div class="preloader">
+      <img src="images/icon.jpg" alt />
+      <span></span>
+    </div>
+    <!--<div id="snow"></div>-->
+    <div class="nav">
+      <div class="nav__items">
+        <a href="/">
+          <img src="images/icon-small.jpg" alt />
+        </a>
+        <a href="search.html">Поиск</a>
+        <a href="channel.html">Свежие курсы</a>
+        <a href="manual.html">Инструкция</a>
+        <a href="https://cloud.mail.ru/public/FcuF/gWe54QQtm" target="_blank">Книги по саморазвитию<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ preserveAspectRatio="xMidYMid meet" class="nav__links">
+
+<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
+fill="white" stroke="none">
+<path d="M574 795 c-13 -34 3 -45 68 -45 l63 0 -159 -159 c-158 -159 -179
+-190 -132 -199 13 -3 65 42 177 154 l158 158 3 -65 c3 -61 4 -64 28 -64 l25 0
+0 115 0 115 -113 3 c-93 2 -113 0 -118 -13z"/>
+<path d="M140 670 c-19 -19 -20 -33 -20 -265 0 -232 1 -246 20 -265 19 -19 33
+-20 265 -20 232 0 246 1 265 20 19 19 20 33 20 217 l0 197 -30 -29 -30 -29 0
+-158 0 -158 -225 0 -225 0 0 225 0 225 158 0 158 0 29 30 29 30 -197 0 c-184
+0 -198 -1 -217 -20z"/>
+</g>
+</svg></a>
+      </div>
+      <div class="nav__items">
+        <a href="https://t.me/pirate_courses_news" target="_blank">
+          <img src="images/tg.svg" alt>
+        </a>
+      </div>
+      <div id="open">
+        <svg
+            width="20"
+            height="16"
+            viewBox="0 0 20 16"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path d="M0 0H20V2H0V0Z" fill="white" />
+            <path d="M0 7H20V9H0V7Z" fill="white" />
+            <path d="M0 14H20V16H0V14Z" fill="white" />
+          </svg>
+      </div>
+    </div>
+    <div class="menu">
+      <div class="menu__container">
+        <a href="search.html">Поиск</a>
+        <a href="channel.html">Свежие курсы</a>
+        <a href="manual.html">Инструкция</a>
+        <a href="https://cloud.mail.ru/public/FcuF/gWe54QQtm" target="_blank">Книги по саморазвитию</a>
+      </div>
+      <div class="menu__container">
+        <a href="https://t.me/pirate_courses_news" target="_blank"
+          >Telegram-канал <img src="images/link.png" alt
+        /></a>
+      </div>
+    </div>
+    <div class="wrapper">
+      <article>
+        <p>Поиск по ключевым словам (от 3-х символов). Заказ/обновление 404 ссылок <a href="https://t.me/async_code">@async_code</a></p>
+        <a href="manual.html#help_1" target="_blank" style="text-align: center;">Как пользоваться поиском</a>
+        <span id="titleCount"></span>
+      </article>
+      <div class="wrapper__search" id="searchBlock">
+        <img src="images/menu.png" alt="" id="menuTab" />
+        <div class="search-wrapper">
+          <input type="text" id="search" placeholder="Искать курсы" />
+          <span id="clearSearch">&times;</span>
+        </div>
+        <img src="images/new-course.png" alt="" class="newfunc">
+        <img src="images/top.png" alt="" class="top">
+      </div>
+      <nav>
+        <form>
+          <label for="list-courses">Выберите категорию:</label>
+          <input type="text" list="listCourses" id="list-courses" placeholder="Например, Бизнес">
+          <datalist id="listCourses">
+            <option value="3D-моделирование" data-category="3D-моделирование">
+            <option value="Арбитраж Трафика" data-category="Арбитраж Трафика">
+            <option value="Бизнес" data-category="Бизнес">
+            <option value="Дети и родители" data-category="Дети и родители">
+            <option value="Дизайн и живопись" data-category="Дизайн и живопись">
+            <option value="Другое" data-category="Другое">
+            <option value="Здоровье и спорт" data-category="Здоровье и спорт">
+            <option value="Имидж и стиль" data-category="Имидж и стиль">
+            <option value="Инвестиции и форекс" data-category="Инвестиции и форекс">
+            <option value="Кулинария" data-category="Кулинария">
+            <option value="Маркетинг и реклама" data-category="Маркетинг и реклама">
+            <option value="Музыка" data-category="Музыка">
+            <option value="Нейросети" data-category="Нейросети">
+            <option value="Пикап, искусство соблазнения" data-category="Пикап, искусство соблазнения">
+            <option value="Покер, ставки, казино" data-category="Покер, ставки, казино">
+            <option value="Программирование и сайтостроение" data-category="Программирование и сайтостроение">
+            <option value="Психология и саморазвитие" data-category="Психология и саморазвитие">
+            <option value="Путешествия" data-category="Путешествия">
+            <option value="Ремонт и строительство" data-category="Ремонт и строительство">
+            <option value="Сделай сам" data-category="Сделай сам">
+            <option value="Схемы заработка" data-category="Схемы заработка">
+            <option value="SEO & SMM" data-category="SEO & SMM">
+            <option value="Фото и видео" data-category="Фото и видео">
+            <option value="Фриланс" data-category="Фриланс">
+            <option value="Хакинг и кибербезопасность" data-category="Хакинг и кибербезопасность">
+            <option value="Эзотерика" data-category="Эзотерика">
+          </datalist>
+        <form>
+      </nav>
+      <div class="wrapper__results" id="resultsBlock">
+        <p></p>
+        <table id="results"></table>
+      </div>
+      <p class="wrapper__notfound"><span>Ничего не найдено 😭</span><br>
+        Убедитесь, что все слова написаны без ошибок.<br>
+        Попробуйте использовать другие ключевые слова или уменьшить кол-во слов в запросе</p>
+    </div>
+    <div class="new">
+      <div class="new__text">
+        <p>Недавно добавленные курсы</p>
+        <svg class="newclose" width="21" height="29" viewBox="0 0 21 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.52 24.824L1.224 23.528L9.096 15.608L1.224 7.688L2.52 6.392L10.392 14.312L18.216 6.392L19.512 7.688L11.64 15.608L19.512 23.528L18.216 24.824L10.392 16.952L2.52 24.824Z" fill="black"/>
+</svg>
+      </div>
+      <table id="new" style="width: 100%"></table>
+    </div>
+    <script src="scripts/search.js" defer></script>
+    <script src="scripts/top.js" defer></script>
+    <script src="scripts/menu.js" defer></script>
+    <script>
+      window.onload = () => {
+        document.body.classList.add("loaded__hiding");
+        window.setTimeout(() => {
+          document.body.classList.add("loaded");
+          document.body.classList.remove("loaded__hiding");
+        }, 500);
+      };
+    </script>
+  </body>
+</html>

@@ -1,0 +1,84 @@
+.menu {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  box-shadow: 8px 0 10px 5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  right: 0;
+  margin-top: 4rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+#open {
+  display: none;
+}
+@media screen and (max-width: 1000px) {
+  #open {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+}
+.menu.show {
+  display: flex !important;
+  opacity: 1;
+}
+.menu ul {
+  list-style-type: none;
+  font-size: 1.25rem;
+  padding: 0 1rem;
+  line-height: 1.5;
+}
+.menu ul li {
+  cursor: pointer;
+}
+.menu ul li a {
+  color: inherit;
+  text-decoration: none;
+}
+.menu ul li:hover {
+  color: #33B0FF;
+  transition: 0.1s;
+}
+.menu ul li a:active {
+  color: #007DFE !important;
+}
+.menu a:not(li a) {
+  text-decoration: none;
+  font-size: 1.1rem;
+  line-height: 1.25;
+  color: inherit;
+  padding: 0 1rem;
+  display: flex;
+  text-align: center;
+}
+.menu a:not(li a):hover {
+  text-decoration: underline;
+}
+.menu a img {
+  height: 20px;
+  margin-left: .25rem;
+}
+.menu__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menu__container:first-child {
+  height: 100%;
+  padding: 1rem;
+}
+.menu__container:first-child a {
+  font-size: 1.5rem;
+  padding: .75rem 1rem;
+}
+.menu__container:last-child {
+  margin-bottom: 5rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

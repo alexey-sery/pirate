@@ -1,0 +1,253 @@
+@import "https://fonts.googleapis.com/css2?family=Mukta:wght@400;500&display=swap";
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #007DFE;
+}
+
+:root {
+  --color: #007DFE;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #f7f7f7;
+  height: 100%;
+  width: 100%;
+  font-family: "Mukta", sans-serif;  
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4.5rem 0 .5rem;
+}
+
+.courses {
+  width: calc(100% - 2rem);
+  max-width: 600px;
+  border-radius: 20px;
+  margin: .5rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.courses img {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+  user-select: none;
+}
+.courses div {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 0 0 20px 20px;
+}
+.courses div p:first-child {
+  color: var(--color);
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+.courses__bold {
+  font-weight: bold;
+}
+.courses div a {
+  background-color: var(--color);
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  padding: .5rem 2rem;
+  user-select: none;
+  font-size: 1.1rem;
+  outline: none;
+}
+.courses div a:first-child {
+  margin-right: .5rem;
+}
+@media screen and (max-width: 345px) {
+  .courses div a {
+    padding: .5rem 1.5rem;
+  }
+}
+.courses div ul, .courses div ol {
+  padding-left: 1.5rem;
+}
+.courses details {
+  margin: 1rem 0;
+  padding: .5rem 1rem;
+  border-radius: 10px;
+  border: solid 1px var(--color);
+  width: 100%;
+}
+.courses details summary {
+  user-select: none;
+  cursor: pointer;
+  outline: none;
+}
+.courses details p {
+  margin: 1rem 0;
+}
+.courses details ul, .courses details ol {
+  padding-left: 1.25rem;
+}
+
+.date {
+  background-color: white;
+  border-radius: 10px;
+  padding: 0.25rem 0;
+  font-weight: bold;
+  text-align: center;
+  min-width: 120px;
+}
+.many {
+  height: 300px;
+  object-fit: cover;
+}
+
+.courses__str {
+  background-color: white;
+  padding: .65rem 1rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 1rem .5rem;
+  user-select: none;
+}
+.courses__str p {
+  margin: 0 1rem;
+  text-wrap: nowrap;
+}
+@media screen and (max-width: 400px) {
+  .courses__str {
+    padding: .65rem 0;
+    font-size: .9rem;
+    width: calc(100% - 2rem);
+  }
+  .courses__str p {
+    margin: 0 .5rem;
+  }
+}
+.courses__str a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+  color: black;
+}
+.courses__str a:not(.courses__str-active):hover {
+  background-color: #33B0FF;
+}
+.courses__str a:not(.courses__str-button) {
+  margin-right: .25rem;
+  width: 25px;
+  height: 25px;
+}
+.courses__str-button {
+  padding: 0 .5rem;
+}
+.courses__str-active {
+  background-color: var(--color);
+  color: white !important;
+}
+
+.back:before {
+  content: "◀︎ Назад";
+}
+.forward:before {
+  content: "Вперёд ▶";
+}
+.page_1:before {
+  content: "Страница 1 из 10";
+}
+.page_2:before {
+  content: "Страница 2 из 10";
+}
+.page_3:before {
+  content: "Страница 3 из 10";
+}
+.page_4:before {
+  content: "Страница 4 из 10";
+}
+.page_5:before {
+  content: "Страница 5 из 10";
+}
+.page_6:before {
+  content: "Страница 6 из 10";
+}
+.page_7:before {
+  content: "Страница 7 из 10";
+}
+.page_8:before {
+  content: "Страница 8 из 10";
+}
+.page_9:before {
+  content: "Страница 9 из 10";
+}
+.page_10:before {
+  content: "Страница 10 из 10";
+}
+@media screen and (max-width: 480px) {
+  .back:before {
+    content: "◀︎";
+  }
+  .forward:before {
+    content: "▶";
+  }
+}
+@media screen and (max-width: 380px) {
+  .page_1:before {
+    content: "Стр. 1 из 10";
+  }
+  .page_2:before {
+    content: "Стр. 2 из 10";
+  }
+  .page_3:before {
+    content: "Стр. 3 из 10";
+  }
+  .page_4:before {
+    content: "Стр. 4 из 10";
+  }
+  .page_5:before {
+    content: "Стр. 5 из 10";
+  }
+  .page_6:before {
+    content: "Стр. 6 из 10";
+  }
+  .page_7:before {
+    content: "Стр. 7 из 10";
+  }
+  .page_8:before {
+    content: "Стр. 8 из 10";
+  }
+  .page_9:before {
+    content: "Стр. 9 из 10";
+  }
+  .page_10:before {
+    content: "Стр. 10 из 10";
+  }
+}
+
+
+.top {
+  height: 50px;
+  width: 50px;
+  margin: 1rem;
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  border-radius: 50px;
+}

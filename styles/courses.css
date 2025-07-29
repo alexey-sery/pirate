@@ -1,0 +1,213 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap";
+
+:root {
+  --color: #007DFE;
+  --color-copy: #1A2E35;
+  --shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #007DFE;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  font-size: 3rem;
+  color: #007DFE;
+}
+@media screen and (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+  }
+}
+
+.bold {
+  font-weight: bold;
+  color: #007DFE;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  width: 100%;
+  user-select: none;
+}
+
+.menu {
+  width: 250px;
+  height: 100%;
+  background-color: white;
+  box-shadow: 8px 0 10px 5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  right: 0;
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+@media screen and (max-width: 480px) {
+  .menu {
+    width: 100%;
+  }
+}
+.menu p {
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+.menu ul {
+  list-style-type: none;
+  font-size: 1.25rem;
+  padding: 0 1rem;
+  overflow-y: scroll;
+  line-height: 1.5;
+}
+.menu ul li {
+  cursor: pointer;
+}
+.menu ul li:hover {
+  color: #33B0FF;
+  transition: 0.1s;
+}
+.menu__active, .menu__active:hover {
+  color: #007DFE !important;
+}
+
+.school {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0 0 2rem;
+  height: 100%;
+  overflow-y: scroll;
+}
+.school__container {
+  height: 100%;
+  width: 100%;
+}
+.school__none {
+  font-size: 2rem;
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+  .school__none {
+    font-size: 1.5rem;
+  } 
+  .data__title-action:hover::after {
+    font-size: 10px !important;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .school {
+    padding: 4rem 0;
+  }
+}
+
+table tr td a {
+  color: blue;
+}
+table tr td a:hover {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--color);
+  margin: 1rem 0;
+}
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+@media screen and (max-width: 400px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+}
+.info {
+  margin: 0 1rem;
+}
+.info span, .info a {
+  color: var(--color);
+}
+.info details {
+  border-radius: 10px;
+  border: solid 1px var(--color);
+  padding: .5rem 1rem;
+  margin-top: 10px;
+  max-width: 750px;
+}
+.info summary {
+  cursor: pointer;
+  outline: none;
+}
+.info details p {
+  margin: .5rem 0;
+  font-size: 1.25rem;
+}
+.info p, .info summary {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+@media screen and (max-width: 768px) {
+  .info p, .info summary, .info details p {
+    font-size: 1.15rem;
+  }
+  .info__list {
+    font-size: 1.15rem !important;
+  }
+  .info__list img {
+    width: 40px !important;
+  }
+}
+.info hr {
+  margin: .5rem 0;
+  max-width: 750px;
+  height: 2px;
+  border: none;
+  background-color: var(--color);
+}
+.info .donate {
+  color: inherit;
+  cursor: pointer;
+  margin: 0 0.35rem;
+}
+.info__list {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0 .5rem;
+  font-size: 1.25rem;
+}
+.info__list img {
+  width: 50px;
+  margin-right: .25rem;
+}
+.data__title {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.data__title-action:hover::after {
+  content: attr(data-title);
+  box-shadow: var(--shadow);
+  background: var(--color);
+  border-radius: 5px;
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  padding: 6px 8px;
+}
+.data__title-action:hover::after {
+  margin-top: 2.5rem;
+}
+.data__title-action--copied:hover::after {
+  background-color: var(--color-copy);
+}

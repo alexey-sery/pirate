@@ -1,0 +1,214 @@
+@import "https://fonts.googleapis.com/css2?family=Mukta:wght@400;500&display=swap";
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --color: #007DFE;
+  --color-copy: #1A2E35;
+  --shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+.title {
+  font-size: 3rem;
+  color: #007DFE;
+}
+@media screen and (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (max-width: 350px) {
+  .title {
+    font-size: 2rem;
+  }
+}
+.bold {
+  font-weight: bold;
+  color: #007DFE;
+}
+
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  font-family: "Mukta", sans-serif;
+  height: 100vh;
+  width: 100%;
+  max-width: 1920px;
+  overflow: hidden;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 4rem);
+  margin: 0 2rem;
+  height: 100%;
+  font-size: 1.5rem;
+  color: #1A2E35;
+}
+@media screen and (max-width: 768px) {
+  .main {
+    /*height: calc(100% - 2rem);*/
+    justify-content: flex-start;
+    width: calc(100% - 2rem);
+    flex-direction: column;
+    font-size: 1.25rem;
+    margin: 0 1rem;
+  }
+}
+.main__items {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.main__items img {
+  user-select: none;
+}
+.main__button a:first-child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main__button a:first-child svg {
+  margin-left: .25rem;
+  width: 20px;
+  height: 20px;
+}
+@media screen and (max-width: 350px) {
+  .main__button a:first-child svg {
+    margin-left: 7px;
+    width: 20px;
+    height: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .main__items:first-child {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+  }
+  .main__items:last-child {
+    display: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .main__items:first-child {
+    margin-bottom: 3rem;
+  }
+  .main__items:last-child {
+    width: 80%;
+    margin: 0 0 2rem;
+  }
+}
+@media screen and (max-width: 529px) {
+  .main__button a:last-child {
+    width: 100%;
+  }
+  .main__button a {
+    width: calc(50% - .5rem);
+  }
+}
+.main__button {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: .5rem;
+}
+.main__button a {
+  background-color: #007DFE;
+  border-radius: 16px;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  padding: 1rem 1.75rem;
+  margin: .5rem .5rem 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  user-select: none;
+}
+@media screen and (max-width: 350px) {
+  .main__button a {
+    font-size: 1.1rem;
+  }
+}
+.main__button a:hover {
+  background-color: #1A2E35;
+  user-select: none;
+  transition: 0.3s;
+}
+.main__items-container {
+  bottom: 0;
+  margin: 1rem 0;
+}
+.main__items-container p {
+  font-size: 1rem;
+}
+.main__items-container p a {
+  text-decoration: none;
+  color: #007DFE;
+}
+.main__items-container p a:hover {
+  text-decoration: underline;
+}
+.main__links {
+  width: 20px;
+  height: 20px;
+  border-radius: 0;
+  margin-left: .25rem;
+}
+@media screen and (max-width: 357px) {
+  .main__links {
+    display: none;
+  }
+}
+.main__items-count {
+  display: flex;
+}
+.main__items-count p {
+  margin-right: 0.35rem;
+  font-weight: bold;
+}
+.donate {
+  display: flex;
+  flex-wrap: wrap;
+}
+.donate .donate__elem {
+  color: inherit;
+  cursor: pointer;
+  margin: 0 0.35rem;
+}
+.data__title {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.data__title-action:hover::after {
+  content: attr(data-title);
+  box-shadow: var(--shadow);
+  background: var(--color);
+  border-radius: 5px;
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  padding: 6px 8px;
+  margin-top: 2.5rem;
+}
+@media screen and (max-width: 767px) {
+  .data__title-action:hover::after {
+    padding: 6px;
+    font-size: 11px;
+  }
+}
+.data__title-action--copied:hover::after {
+  background-color: var(--color-copy);
+}

@@ -1,0 +1,24 @@
+.nav {
+  background-color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  user-select: none;
+  height: 4rem;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  color: white;
+  position: fixed;
+}
+.nav a {
+  display: flex;
+}
+.nav a img {
+  border-radius: 10px;
+  height: 3rem;
+}
+.nav p {
+  cursor: pointer;
+  font-size: 2rem;
+  padding: 0 0.5rem;
+}
