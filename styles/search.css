@@ -101,7 +101,7 @@ table {
   padding: 0 1rem 1rem;
   margin: auto;
 }
-table tr td.checked {
+.checked {
   border-bottom: solid 1px black;
 }
 table tr td:nth-child(2) {

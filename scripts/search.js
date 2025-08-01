@@ -255,6 +255,19 @@ $(document).ready(function () {
                     </tr>`)
     })
 
+    // Режим таблицы
+    if ($('#tableCheckbox').is(':checked')) {
+      $('#results td').addClass('checked')
+    }
+
+    $('#tableCheckbox').change(function () {
+      if ($(this).is(':checked')) {
+        $('#results td').addClass('checked')
+      } else {
+        $('#results td').removeClass('checked')
+      }
+    })
+
     if (results.length === 0 && queryLength >= 3) {
       $('.wrapper__notfound').show()
       $('#resultsBlock').hide()
@@ -399,14 +412,5 @@ $(document).ready(function () {
     }
 
     $('#resultsBlock').css('margin', '0 1rem 0')
-  })
-
-  // Режим таблицы
-  $('#tableCheckbox').change(function () {
-    if ($(this).is(':checked')) {
-      $('td').addClass('checked')
-    } else {
-      $('td').removeClass('checked')
-    }
   })
 })
