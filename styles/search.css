@@ -53,6 +53,7 @@ body {
 }
 .wrapper nav {
   display: none;
+  align-items: center;
   margin: 0.5rem 0 0;
   padding: 1rem;
   border: solid 1px black;
@@ -100,6 +101,9 @@ table {
   padding: 0 1rem 1rem;
   margin: auto;
 }
+table tr td.checked {
+  border-bottom: solid 1px black;
+}
 table tr td:nth-child(2) {
   text-wrap: nowrap;
 }
@@ -144,9 +148,39 @@ table tr td:nth-child(2) {
 }
 
 /* Выбор категории */
+.wrapper nav p {
+  margin: 0 1rem !important;
+  display: flex;
+  align-items: center;
+  text-wrap: nowrap;
+}
+.wrapper nav p input {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}
+form {
+  display: flex;
+  align-items: center;
+}
+form label {
+  text-wrap: nowrap;
+}
+@media screen and (max-width: 700px) {
+  form {
+    margin-bottom: .5rem;
+  }
+  .wrapper nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .wrapper nav p {
+    margin: 0 !important;
+  }
+}
 form input {
   width: 100%;
-  max-width: 300px;
+  min-width: 300px;
   height: 30px;
   margin-left: 0.5rem;
   padding: 0 1rem;
@@ -175,6 +209,7 @@ form input::-webkit-calendar-picker-indicator {
 @media screen and (max-width: 534px) {
   form {
     display: flex;
+    align-items: flex-start;
     flex-direction: column;
   }
   form label {
@@ -182,6 +217,11 @@ form input::-webkit-calendar-picker-indicator {
   }
   form input {
     margin: 0;
+  }
+}
+@media screen and (max-width: calc(300px + 4rem)) {
+  form input {
+    min-width: calc(320px - 4rem);
   }
 }
 

@@ -361,7 +361,9 @@ $(document).ready(function () {
 
   // Открытие меню
   $('#menuTab').click(function () {
-    $('nav').toggle()
+    $('nav').css('display', function (_, value) {
+      return value === 'none' ? 'flex' : 'none'
+    })
 
     // Когда меню закрывается
     if ($(this).attr('src') === 'images/close.png') {
@@ -397,5 +399,14 @@ $(document).ready(function () {
     }
 
     $('#resultsBlock').css('margin', '0 1rem 0')
+  })
+
+  // Режим таблицы
+  $('#tableCheckbox').change(function () {
+    if ($(this).is(':checked')) {
+      $('td').addClass('checked')
+    } else {
+      $('td').removeClass('checked')
+    }
   })
 })
