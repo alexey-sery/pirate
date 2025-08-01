@@ -1,7 +1,138 @@
 [
   {
+    "title": "[МФТИ] Инженер Данных (Data Engineer) (2023)",
+    "url": [
+      "https://cloud.mail.ru/public/dhXn/J1BTcYx5x",
+      "https://cloud.mail.ru/public/B7Pc/KEsrbY6qo",
+      "https://cloud.mail.ru/public/QVTw/eaBLhEiSL",
+      "https://cloud.mail.ru/public/Ekjj/kKNWhfCNg",
+      "https://cloud.mail.ru/public/oz4b/ds1NNEJD2",
+      "https://cloud.mail.ru/public/APXm/3Y49spGEt",
+      "https://cloud.mail.ru/public/fqV1/CmTD2V2GM",
+      "https://cloud.mail.ru/public/TcMm/fp2KbAYEe",
+      "https://cloud.mail.ru/public/RaTq/2GA2k73kq",
+      "https://cloud.mail.ru/public/DRiZ/RNpqYNMXZ"
+    ],
+    "cloud": "Облако"
+  },
+  {
+    "title": "[курсы-по-1с.] Разработка расширений и технологии доработки 1С без снятия с поддержки",
+    "url": "https://cloud.mail.ru/public/D66q/vBfBD4svo",
+    "cloud": "Облако"
+  },
+  {
     "title": "[Максим Мазурин] [Академия Нолим] Верстка на Тильде с нуля до pro. Тариф Базовый (2025)",
     "url": "https://cloud.mail.ru/public/3Y2K/yk5ydQkgJ",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Максим Дуплей] [Stepik] Погружение в Data Science и машинное обучение (2024)",
+    "url": "https://cloud.mail.ru/public/ipgf/dkDCxfYY3",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Евгений Шилов] [Vibecoding] Fullstack ИИ разработка с нуля. Тариф Отдельный курс (2025)",
+    "url": "https://cloud.mail.ru/public/b5hU/Jua1UpcC2",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Дамиан Данелчик, Кристиан Войтарович] [Udemy] n8n - агенты ИИ, автоматизация ИИ и голосовые агенты ИИ (без кода!) (2025)",
+    "url": "https://cloud.mail.ru/public/3KFf/tJe8VZquP",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Илья Чигарев] Идеальный сайт на WordPress 2.0 (2025)",
+    "url": "https://cloud.mail.ru/public/GTHM/ALfqAcbvg",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Сергей Осетров] [RobotsBuilding] Разработка торговых роботов под криптобиржи на языке Python (2025)",
+    "url": "https://cloud.mail.ru/public/4EjP/MzR7moPtn",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Арина Веспер] VesperfinCode. Модуль 1: старт основы Python. Пишем робота сигналов (2025)",
+    "url": "https://cloud.mail.ru/public/QFaK/HRuGHQ3Mm",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Nick Janetakis] [Udemy] [DevOps] Docker и Docker Compose на практике (рекомендовано Docker) (2025)",
+    "url": "https://cloud.mail.ru/public/N8nJ/qLcRRWqu1",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Arnold Oberleiter] [Udemy] ИИ-автоматизация: Создай LLM приложение & ИИ-агентов с помощью n8n & API",
+    "url": "https://cloud.mail.ru/public/xJvM/Wfn6TTefz",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[laravelcreative.ru] Laravel 11 Vue Inertia SPA Магазин - гипермаркет (2025)",
+    "url": "https://cloud.mail.ru/public/YuoT/PT43YCrSJ",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Руслан Брантов] [Stepik] Тайный культ JavaScript: от послушника до просвещенного (2025)",
+    "url": "https://cloud.mail.ru/public/94gk/Z1yK9WXAz",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[it-black] Виктор Черемных ― Администрирование безопасных сетей (ViPNet) (2025)",
+    "url": "https://cloud.mail.ru/public/3MhX/jcLgJiVm1",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Иван Шаматов] [Thinknetica] Тимлид: руководство по выживанию (2025)",
+    "url": "https://cloud.mail.ru/public/9FYG/pSK6ftnNZ",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Игорь Ким] [Stepik] Продуктовые метрики. Визуализация в Python и BI Yandex DataLens (2025)",
+    "url": "https://cloud.mail.ru/public/LEVj/VyDFzxTxe",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Влад Бурмистров] [Stepik] Полный курс Python 3: от новичка до мастера (2025)",
+    "url": "https://cloud.mail.ru/public/Ci1y/TomrVjZcx",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Михаил Якобсен] [Merion Academy] Мини-курс по протоколу BGP (2025)",
+    "url": "https://cloud.mail.ru/public/KCUQ/B5XB1Lymu",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Maximilian Schwarzmüller] [Udemy] [DevOps] Docker & Kubernetes: практический Гайд (2025)",
+    "url": "https://cloud.mail.ru/public/Buzi/X4TvraCeV",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Антон Ларичев] [Purpleschool] НТМL и CSS - полный курс по вёрстке с нуля (2025)",
+    "url": "https://cloud.mail.ru/public/rHtC/QorbgcePn",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[NeuralGo] [Stepik] Полный курс по языку Golang. С нуля до REST API и gRPC (2025)",
+    "url": "https://cloud.mail.ru/public/U6Kd/EG7kbwhHD",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Влад Бурмистров] [Stepik] Начальный курс SQL: от новичка до специалиста (2025)",
+    "url": "https://cloud.mail.ru/public/pUkf/ZYfwnFaw2",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Денис Матвеенко] [dmdev] Microservices (2025)",
+    "url": "https://cloud.mail.ru/public/fx4i/YyEMuKpnn",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Игорь Панасюк] [Balun Courses] Оптимизация Go, как в BigTech (2025)",
+    "url": "https://cloud.mail.ru/public/X1tB/ifzhC9MWA",
+    "cloud": "Облако"
+  },
+  {
+    "title": "[Олег Козырев] Вся база о собеседованиях на Golang (2024)",
+    "url": "https://cloud.mail.ru/public/VYnE/rcu1i4k1j",
     "cloud": "Облако"
   },
   {
