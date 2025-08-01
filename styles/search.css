@@ -219,7 +219,12 @@ form input::-webkit-calendar-picker-indicator {
     margin: 0;
   }
 }
-@media screen and (max-width: calc(300px + 4rem)) {
+@media screen and (max-width: 365px) {
+  form input {
+    min-width: calc(320px - 3rem);
+  }
+}
+@media screen and (max-width: 340px) {
   form input {
     min-width: calc(320px - 4rem);
   }
