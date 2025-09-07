@@ -4,21 +4,77 @@
   align-items: center;
   justify-content: space-between;
   user-select: none;
-  height: 4rem;
-  padding: 0.5rem 1rem;
+  padding: 0 1rem;
   width: 100%;
   color: white;
   position: fixed;
+  z-index: 9999;
 }
 .nav a {
   display: flex;
+  align-items: center;
 }
 .nav a img {
   border-radius: 10px;
-  height: 3rem;
+  height: 46px;
 }
 .nav p {
+  display: none;
   cursor: pointer;
   font-size: 2rem;
   padding: 0 0.5rem;
+}
+.nav__items {
+  display: flex;
+}
+
+/* Пункты навигации */
+.nav__items:first-child a:not(:first-child) {
+  color: #f7f7f7;
+  text-decoration: none;
+  font-size: 1.1rem;
+  padding: 0 1rem;
+}
+.nav__items:first-child a:hover {
+  color: var(--color);
+  transition: transform 0.5s;
+}
+.nav__items:first-child a:not(:first-child) {
+  position: relative;
+}
+.nav__items:first-child a:not(:first-child)::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+.nav__items:first-child a:not(:first-child):hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.nav__items:first-child a:hover svg g {
+  fill: var(--color);
+}
+.nav__items:first-child a:first-child {
+  margin: .5rem 1rem .5rem 0;
+}
+.nav__links {
+  width: 20px;
+  height: 20px;
+  border-radius: 0;
+  margin-left: 0.25rem;
+}
+@media screen and (max-width: 1000px) {
+  .nav p {
+    display: block;
+  }
+  .nav__items a:not(a[href='/']:first-child) {
+    display: none;
+  }
 }
