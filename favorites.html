@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111" />
+    <title>Сливы курсов | Понравившиеся курсы</title>
+    <link href="images/favicon.ico" rel="icon" />
+    <link href="images/favicon.ico" rel="apple-touch-icon" />
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/search.css" rel="stylesheet" />
+    <link href="styles/components/nav.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/menu-2.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/snow.css" rel="stylesheet" type="text/css" />
+    <link
+      href="styles/components/preloader.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="preloader">
+      <img src="images/icon.jpg" alt>
+      <span></span>
+    </div>
+    <div class="wrapper">
+      <div class="new">
+        <p>Понравившиеся курсы</p>
+        <span id="empty-message"><b>Пока пусто 😇</b><br>Нажми на 
+<svg width="16" height="12" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.9263 0.0432318C18.853 0.343763 20.4418 1.48078 21.3144 3.17878C22.0962 4.70147 22.2172 6.59482 21.6372 8.24274C20.6688 10.9876 17.7081 14.1031 13.2191 17.1034C12.0186 17.9048 11.7816 18 10.9998 18C10.2634 18 9.9759 17.8898 9.02262 17.2637C4.42267 14.2383 1.351 11.0377 0.362412 8.24274C-0.101618 6.92541 -0.121793 5.42275 0.311974 4.07537C1.11898 1.54589 3.53496 -0.132078 6.15774 0.00816977C7.28755 0.0682761 8.2257 0.383834 9.20924 1.03499C9.69345 1.35054 10.4853 2.07683 10.8384 2.52262L10.9998 2.72297L11.1612 2.52262C11.489 2.10688 12.3162 1.34554 12.7601 1.05502C13.4813 0.574171 14.1623 0.283657 14.9541 0.113356C15.3879 0.0181875 16.5076 -0.0168745 16.9263 0.0432318ZM15.3728 1.32049C14.5002 1.47076 13.6125 1.89651 12.9114 2.50258C12.5533 2.80812 12.0539 3.39416 11.7412 3.87501C11.4487 4.32581 11.3075 4.45604 11.0654 4.48108C10.7779 4.51615 10.6064 4.38091 10.1877 3.76482C9.31516 2.49757 8.21057 1.69115 6.87396 1.36056C6.35949 1.23033 5.29525 1.24536 4.76565 1.38561C3.08102 1.8314 1.82512 3.12869 1.38126 4.88179C1.31569 5.14726 1.29552 5.43778 1.29552 6.129C1.29552 6.97049 1.3056 7.06065 1.43674 7.48139C1.88564 8.93396 2.79353 10.3064 4.39241 11.9343C5.75424 13.3167 7.51453 14.7492 9.48665 16.0716C10.904 17.0183 11.1057 17.0183 12.5886 16.0165C14.5607 14.6891 16.2403 13.3267 17.6072 11.9343C19.3422 10.1711 20.2653 8.72359 20.6385 7.18086C20.7696 6.6399 20.7696 5.64815 20.6385 5.02705C20.4418 4.08037 20.0484 3.32404 19.4078 2.66287C18.3284 1.54589 16.8708 1.06003 15.3728 1.32049Z" fill="#1A2E35"/>
+</svg>
+, чтобы добавить курс в избранное</span>
+        <table id="favorites"></table>
+      </div>
+    </div>
+    <a href="https://t.me/pirate_courses_news" target="_blank" class="tg">
+      <img src="images/tg.png" alt="">
+    </a>
+    <img src="images/top.png" alt="" class="top">
+    <script src="scripts/header.js" defer></script>
+    <script src="scripts/menu.js" defer></script>
+    <script src="scripts/top.js" defer></script>
+    <script src="scripts/search.js" defer></script>
+    <script>
+      window.onload = () => {
+        document.body.classList.add("loaded__hiding");
+        window.setTimeout(() => {
+          document.body.classList.add("loaded");
+          document.body.classList.remove("loaded__hiding");
+        }, 500);
+      };
+    </script>
+  </body>
+</html>

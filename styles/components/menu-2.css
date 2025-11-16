@@ -21,7 +21,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  } 
+    gap: 1rem;
+  }
+  #open a svg {
+    width: 29px;
+  }
+  #open svg {
+    height: 25px;
+    width: 25px;
+  }
+  .close-icon {
+    height: 33px !important;
+  }
 }
 .menu.show {
   display: flex !important;

@@ -1,13 +1,10 @@
-:root {
-  --color: #007dfe;
-}
-
 ::-webkit-scrollbar {
   width: 5px;
 }
 ::-webkit-scrollbar-thumb {
   background-color: var(--color);
 }
+
 body {
   overflow-y: scroll;
   user-select: none;
@@ -73,15 +70,17 @@ body {
 .wrapper p {
   margin: 1rem 0.5rem 0;
   text-align: center;
+  line-height: 1.65;
 }
 .wrapper span:not(#clearSearch) {
   font-weight: bold;
   text-align: center;
   width: 100%;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 .wrapper a {
   color: var(--color);
+  line-height: 1.65;
 }
 .wrapper article {
   display: flex;
@@ -97,57 +96,82 @@ body {
 .wrapper__notfound span {
   font-weight: bold;
 }
+
+
+/* Таблица курсов */
 table {
   padding: 0 1rem 1rem;
   margin: auto;
+  margin-top: 10px;
 }
-.checked {
-  border-bottom: solid 1px black;
+table tr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 10px;
+  gap: 10px;
+  line-height: 1.65;
 }
-table tr td:nth-child(2) {
-  text-wrap: nowrap;
+table tr:hover {
+  background-color: var(--color-hover);
 }
-#list-courses.active-category::placeholder {
-  color: black;
+table tr td {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
-#results {
-  width: 100%;
+table tr td svg {
+  cursor: pointer;
+  transition-duration: 0.3s;
 }
-#results tr td:nth-child(1) {
-  width: 100%;
+table tr td svg.active path {
+  fill: var(--color-heart);
 }
-@media screen and (max-width: 640px) {
-  table tr td:nth-child(2) {
-    text-wrap: wrap;
+table tr td svg.active:hover path {
+  fill: var(--color-heart);
+  opacity: .5;
+}
+table tr td svg:hover path {
+  fill: var(--color-dark);
+}
+table tr td button {
+  background-color: var(--color);
+  border-radius: 7px;
+  border: none;
+  padding: 6px 15px;
+  color: white;
+  font-size: 1rem;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
+table tr td button:hover {
+  background-color: var(--color-dark);
+}
+@media screen and (max-width: 400px) {
+  table tr {
+    flex-direction: column;
   }
-}
-@media screen and (max-width: 360px) {
-  #results tr td:nth-child(1) {
-    max-width: calc(360px - 103px);
+  table tr td {
+    width: 100%;
   }
-}
-@media screen and (max-width: 350px) {
-  #results tr td:nth-child(1) {
-    max-width: calc(350px - 103px);
+  table tr td svg {
+    height: 30px;
+    min-width: 34px;
   }
-}
-@media screen and (max-width: 340px) {
-  #results tr td:nth-child(1) {
-    max-width: calc(340px - 103px);
-  }
-}
-@media screen and (max-width: 330px) {
-  #results tr td:nth-child(1) {
-    max-width: calc(330px - 103px);
-  }
-}
-@media screen and (max-width: 320px) {
-  #results tr td:nth-child(1) {
-    max-width: calc(320px - 103px);
+  table tr td button {
+    height: 40px;
+    width: 100%;
+    font-size: 18px;
   }
 }
 
+
 /* Выбор категории */
+#list-courses.active-category::placeholder {
+  color: black;
+}
 .wrapper nav p {
   margin: 0 1rem !important;
   display: flex;
@@ -168,7 +192,7 @@ form label {
 }
 @media screen and (max-width: 700px) {
   form {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
   .wrapper nav {
     flex-direction: column;
@@ -237,42 +261,33 @@ form input::-webkit-calendar-picker-indicator {
   display: none;
   font-weight: bold;
 }
-#results {
-  display: block;
-}
-table a {
-  color: blue !important;
-}
-table a:hover {
-  font-weight: bold;
-}
-#new {
-  max-width: 1500px;
-}
+
+/* Недавно добавленные курсы и Понравившиеся курсы */
 .new {
   display: none;
   flex-direction: column;
   align-items: center;
   width: 100%;
-  position: absolute;
   background-color: white;
-  z-index: 9;
-  top: 0;
 }
-.new__text {
-  padding: 1rem;
-  display: flex;
-  justify-content: space-between;
-  max-width: 1500px;
-  width: 100%;
-}
-.new__text p {
+.new p {
   text-align: center;
-  font-size: 1.25rem;
+  font-size: 24px;
 }
-.new__text svg {
-  cursor: pointer;
+.new span {
+  font-weight: normal !important;
+  margin: 10px 1rem;
+  width: calc(100% - 2rem) !important;
+  line-height: 1.65;
 }
+@media screen and (max-width: 400px) {
+  .new p {
+    font-size: 20px;
+  }
+}
+
+
+
 .active-tab,
 .active-tab:hover {
   color: var(--color) !important;
@@ -287,7 +302,7 @@ table a:hover {
   transition: opacity 0.2s ease;
   background-color: white;
 }
-.newfunc,
+.tg,
 .top {
   height: 50px;
   width: 50px;
@@ -298,7 +313,11 @@ table a:hover {
   background-color: white;
   border-radius: 50px;
 }
-.newfunc {
+.tg img {
+  height: 50px;
+  width: 50px;
+}
+.tg {
   right: 0;
 }
 .top {
@@ -315,9 +334,8 @@ table a:hover {
   position: absolute;
   right: 1rem;
   cursor: pointer;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: var(--color);
   height: 50px;
   display: none;
-  transform: translateY(-31%);
 }

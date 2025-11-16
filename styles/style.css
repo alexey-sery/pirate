@@ -1,4 +1,5 @@
-@import "https://fonts.googleapis.com/css2?family=Mukta:wght@400;500&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -7,7 +8,9 @@
 
 :root {
   --color: #007DFE;
-  --color-copy: #1A2E35;
+  --color-hover: #f5f5f5;
+  --color-dark: #1A2E35;
+  --color-heart: #F9595F;
   --shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
 }
 
@@ -37,7 +40,7 @@ html {
 }
 
 body {
-  font-family: "Mukta", sans-serif;
+  font-family: "Roboto", sans-serif;
   height: 100vh;
   width: 100%;
   max-width: 1920px;
@@ -68,6 +71,9 @@ body {
   display: flex;
   flex-direction: column;
   width: 50%;
+}
+.main__items p {
+  line-height: 1.65;
 }
 .main__items img {
   user-select: none;
@@ -173,6 +179,7 @@ body {
 }
 .main__items-count {
   display: flex;
+  align-items: baseline;
 }
 .main__items-count p {
   margin-right: 0.35rem;
@@ -210,5 +217,5 @@ body {
   }
 }
 .data__title-action--copied:hover::after {
-  background-color: var(--color-copy);
+  background-color: var(--color-dark);
 }

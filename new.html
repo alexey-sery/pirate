@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111" />
+    <title>Сливы курсов | Недавно добавленные курсы</title>
+    <link href="images/favicon.ico" rel="icon" />
+    <link href="images/favicon.ico" rel="apple-touch-icon" />
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/search.css" rel="stylesheet" />
+    <link href="styles/components/nav.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/menu-2.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/snow.css" rel="stylesheet" type="text/css" />
+    <link
+      href="styles/components/preloader.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="preloader">
+      <img src="images/icon.jpg" alt>
+      <span></span>
+    </div>
+    <div class="wrapper">
+      <div class="new">
+        <p>Недавно добавленные курсы</p>
+        <table id="new"></table>
+      </div>
+    </div>
+    <a href="https://t.me/pirate_courses_news" target="_blank" class="tg">
+      <img src="images/tg.png" alt="">
+    </a>
+    <img src="images/top.png" alt="" class="top">
+    <script src="scripts/header.js" defer></script>
+    <script src="scripts/menu.js" defer></script>
+    <script src="scripts/top.js" defer></script>
+    <script src="scripts/search.js" defer></script>
+    <script>
+      window.onload = () => {
+        document.body.classList.add("loaded__hiding");
+        window.setTimeout(() => {
+          document.body.classList.add("loaded");
+          document.body.classList.remove("loaded__hiding");
+        }, 500);
+      };
+    </script>
+  </body>
+</html>

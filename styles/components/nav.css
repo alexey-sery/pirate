@@ -18,6 +18,13 @@
   border-radius: 10px;
   height: 46px;
 }
+.nav a svg {
+  max-width: 36px;
+  height: 30px;
+}
+.nav a svg:hover path {
+  fill: var(--color);
+}
 .nav p {
   display: none;
   cursor: pointer;

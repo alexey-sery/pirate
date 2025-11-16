@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css2?family=Mukta:wght@400;500&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 ::-webkit-scrollbar {
   width: 5px;
@@ -22,7 +22,7 @@ body {
   background-color: #f7f7f7;
   height: 100%;
   width: 100%;
-  font-family: "Mukta", sans-serif;  
+  font-family: "Roboto", sans-serif;  
 }
 
 .wrapper {
@@ -39,6 +39,9 @@ body {
   margin: .5rem 1rem;
   display: flex;
   flex-direction: column;
+}
+.courses p {
+  line-height: 1.65;
 }
 .courses img {
   width: 100%;
@@ -65,7 +68,7 @@ body {
   font-weight: bold;
   color: white;
   text-decoration: none;
-  padding: .5rem 2rem;
+  padding: .75rem 2rem;
   user-select: none;
   font-size: 1.1rem;
   outline: none;
@@ -75,7 +78,7 @@ body {
 }
 @media screen and (max-width: 345px) {
   .courses div a {
-    padding: .5rem 1.5rem;
+    padding: .75rem 1.5rem;
   }
 }
 .courses div ul, .courses div ol {
@@ -83,7 +86,7 @@ body {
 }
 .courses details {
   margin: 1rem 0;
-  padding: .5rem 1rem;
+  padding: .75rem 1rem;
   border-radius: 10px;
   border: solid 1px var(--color);
   width: 100%;

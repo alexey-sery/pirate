@@ -68,7 +68,7 @@ fill="white" stroke="none">
 </g>
 </svg></a>
         <a href="manual.html">Инструкция</a>
-        <a href="channel.html">Свежие</a>
+        <a href="new.html">Новые курсы</a>
         <a href="https://cloud.mail.ru/public/FcuF/gWe54QQtm" target="_blank">Книги по саморазвитию<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
  preserveAspectRatio="xMidYMid meet" class="main__links">
@@ -93,6 +93,19 @@ fill="white" stroke="none">
       <img src="images/icon.jpg" alt>
     </div>
   </div>
+  <script>
+    function updateNewCoursesLink() {
+    if ($(window).width() <= 529) {
+      $('a[href="new.html"]').text('Новые');
+    } else {
+      $('a[href="new.html"]').text('Новые курсы');
+    }
+  }
+
+  $(document).ready(updateNewCoursesLink);
+  $(window).resize(updateNewCoursesLink);
+
+  </script>
   <script src="scripts/donate.js"></script>
   <script src="scripts/search.js"></script>
 </body>
