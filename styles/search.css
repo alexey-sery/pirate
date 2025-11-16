@@ -152,6 +152,7 @@ table tr td button:hover {
 @media screen and (max-width: 400px) {
   table tr {
     flex-direction: column;
+    padding: 10px 0;
   }
   table tr td {
     width: 100%;
