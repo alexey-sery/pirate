@@ -2,7 +2,11 @@ $(".menu").hide();
 
 let menu = false;
 
-$("#open").click(function () {
+$("#open").click(function (e) {
+    if ($(e.target).closest('a').length) {
+      return
+    }
+
     menu = !menu;
 
     if (menu) {
