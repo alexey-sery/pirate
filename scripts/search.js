@@ -522,7 +522,8 @@ $(document).ready(function () {
       <tr>
         <td>${course.title}</td>
         <td>
-          <svg class="favorite-btn active"
+          <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
+            class="favorite-btn active"
             data-title="${course.title}"
             data-links='${linksData}'
             width="22" height="18">
