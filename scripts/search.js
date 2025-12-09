@@ -107,29 +107,12 @@ $(document).ready(function () {
         // Ввод в поиск
         if (query.length >= 1) {
           $('.wrapper article:visible').fadeOut(300)
-          $('#searchBlock').css({
-            marginTop: '1rem',
-          })
-
-          // Если навигация отображается, меняем отступ результата
-          if ($('.wrapper nav').is(':visible')) {
-            $('#resultsBlock').css('margin', '0 1rem 0')
-          }
         } else {
           if (!currentCategory) {
             $('.wrapper article:hidden').fadeIn(300)
-            $('#searchBlock').css({
-              margin: '0 1rem',
-            })
           } else {
             $('.wrapper article').hide()
-            $('#searchBlock').css({
-              marginTop: '1rem',
-            })
           }
-
-          $('#resultsBlock').css('margin', '0 1rem')
-          $('.wrapper nav').css('marginTop', '0.5rem')
         }
 
         timer = setTimeout(() => {
@@ -353,63 +336,38 @@ $(document).ready(function () {
     })
   }
 
-  // Открытие / Закрытие окна NEW
-  $('.newfunc').click(function () {
-    $('.new').css({ display: 'flex' }).fadeIn(400)
-    $('.nav, #results').fadeOut(400)
-
-    if ($(window).width() <= 640) {
-      $('table tr td a').text('Скачать')
-      $('.new p:first-child').css({
-        textAlign: 'left',
-        width: 'calc(100% - 50px - 2rem)',
-      })
-    }
-  })
-
-  $('.newclose').click(function () {
-    $('.new').fadeOut(400)
-    $('.nav, #results').fadeIn(400)
-  })
-
   // Выбор категории
-  $('#list-courses').on('change', function () {
-    const category = $(this).val().trim()
-    const file = categoryMap[category]
+  function selectCategory(category, element) {
+    const encoded = categoryMap[category]
+    currentCategory = encoded
 
-    if (!file) {
-      // Сброс, если выбрана несуществующая категория
-      currentCategory = null
-      $('#search').attr('placeholder', 'Искать курсы')
-      $('#results').empty()
-      $('#list-courses')
-        .attr('placeholder', 'Например, Бизнес')
-        .removeClass('active-category')
-      return
-    }
+    $('#listCourses div, #mobileListCourses div').removeClass('active')
+    element.addClass('active')
 
-    currentCategory = category
     $('#search').attr('placeholder', `Искать в категории «${category}»`)
-    $('#results').css('margin', '0')
+    $('#mobileSummary').text(category).css('color', 'black')
 
-    $('.wrapper article:visible').fadeOut(300)
-    $('#searchBlock').css({
-      marginTop: '1rem',
-    })
-
-    if (categoryCourses[category]) {
-      displayResults(categoryCourses[category])
+    if (categoryCourses[encoded]) {
+      displayResults(categoryCourses[encoded])
     } else {
-      $.getJSON(atob(file), (data) => {
-        categoryCourses[category] = data
+      $.getJSON(atob(encoded), (data) => {
+        categoryCourses[encoded] = data
         displayResults(data)
       })
     }
+  }
 
-    $('#list-courses')
-      .val('')
-      .attr('placeholder', `${category}`)
-      .addClass('active-category')
+  $('#mobileListCourses div').on('click', function () {
+    const category = $(this).data('category')
+
+    selectCategory(category, $(this))
+
+    document.querySelector('.mobile-categories').removeAttribute('open')
+  })
+
+  $('#listCourses div').on('click', function () {
+    const category = $(this).data('category')
+    selectCategory(category, $(this))
   })
 
   // Открытие меню
@@ -417,10 +375,20 @@ $(document).ready(function () {
     $('nav').css('display', function (_, value) {
       return value === 'none' ? 'flex' : 'none'
     })
+    $('table').css('margin', '0')
+    $('.wrapper article').hide()
+    $('.wrapper__results, .wrapper__notfound').css({
+      marginLeft: '300px',
+    })
 
     // Когда меню закрывается
     if ($(this).attr('src') === 'images/close.png') {
       $('#search').attr('placeholder', 'Искать курсы')
+      $('#listCourses div').removeClass('active')
+      $('#mobileListCourses div').removeClass('active')
+      $('table').css('margin', 'auto')
+      $('.wrapper article').show()
+      $('#mobileSummary').text('Выберите категорию').css('color', '#00000050')
 
       // Смена иконки
       $(this).fadeOut(200, function () {
@@ -429,18 +397,12 @@ $(document).ready(function () {
       $(this).css({
         border: '1px solid var(--color)',
       })
+      $('.wrapper__results, .wrapper__notfound').css({
+        marginLeft: '0',
+      })
 
       // Очистка списка и результата
       currentCategory = null
-      $('.wrapper article').show()
-      $('#searchBlock').css({
-        position: 'static',
-        margin: '0 1rem',
-      })
-      $('#list-courses')
-        .val('')
-        .attr('placeholder', 'Например, Бизнес')
-        .removeClass('active-category')
       displayResults([])
     } else {
       $(this).fadeOut(200, function () {
@@ -450,11 +412,7 @@ $(document).ready(function () {
         border: '1px solid black',
       })
     }
-
-    $('#resultsBlock').css('margin', '0 1rem 0')
   })
-
-
 
   // Добавление курса в избранное
   function getFavorites() {
@@ -506,7 +464,6 @@ $(document).ready(function () {
     svg.toggleClass('active')
     renderFavorites()
   })
-
 
   function renderFavorites() {
     let favorites = getFavorites()

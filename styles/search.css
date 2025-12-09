@@ -6,7 +6,6 @@
 }
 
 body {
-  overflow-y: scroll;
   user-select: none;
 }
 @media screen and (min-width: 1500px) {
@@ -14,18 +13,21 @@ body {
     display: flex;
     justify-content: center;
   }
-  .wrapper {
-    max-width: 1500px;
-  }
-  .search-wrapper {
-    width: 100vw !important;
-  }
 }
 .wrapper {
   display: flex;
   flex-direction: column;
   margin-top: 4rem;
   align-items: center;
+  height: calc(100% - 64px);
+  overflow-y: scroll;
+  width: 100%;
+}
+.wrapper__search {
+  max-width: 1500px;
+  width: calc(100% - 2rem);
+  position: fixed;
+  margin-top: 1rem;
 }
 .wrapper__search input {
   height: 50px;
@@ -38,39 +40,16 @@ body {
 }
 .wrapper div {
   display: flex;
-  margin: 0 1rem;
 }
 @media screen and (max-width: 920px) {
   .wrapper div + div {
     flex-direction: column;
   }
-  #results {
-    padding: 1rem 0 !important;
-  }
-}
-.wrapper nav {
-  display: none;
-  align-items: center;
-  margin: 0.5rem 0 0;
-  padding: 1rem;
-  border: solid 1px black;
-  border-radius: 16px;
-  background-color: white;
-  width: calc(100% - 2rem);
-}
-.wrapper nav ul {
-  list-style: none;
-}
-.wrapper nav ul li {
-  cursor: pointer;
-}
-.wrapper nav ul li:hover {
-  color: #33b0ff;
 }
 .wrapper p {
-  margin: 1rem 0.5rem 0;
   text-align: center;
   line-height: 1.65;
+  width: calc(100% - 1rem);
 }
 .wrapper span:not(#clearSearch) {
   font-weight: bold;
@@ -78,20 +57,24 @@ body {
   width: 100%;
   margin-bottom: 1rem;
 }
-.wrapper a {
-  color: var(--color);
-  line-height: 1.65;
-}
 .wrapper article {
   display: flex;
+  align-items: center;
   flex-direction: column;
-}
-.wrapper__search {
-  max-width: 1500px;
+  position: absolute;
+  left: 0;
+  margin: 0 1rem;
   width: calc(100% - 2rem);
+  margin-top: calc(50px + 2rem) !important;
+}
+.wrapper article a {
+  color: var(--color);
+  line-height: 1.65;
+  width: auto;
 }
 .wrapper__notfound {
   display: none;
+  margin-top: calc(50px + 2rem) !important;
 }
 .wrapper__notfound span {
   font-weight: bold;
@@ -173,97 +156,128 @@ table tr td button:hover {
 
 
 /* Выбор категории */
-#list-courses.active-category::placeholder {
-  color: black;
-}
-.wrapper nav p {
-  margin: 0 1rem !important;
+main {
   display: flex;
+  align-items: flex-start;
+  width: calc(100% - 2rem);
+  max-width: 1500px;
+}
+.wrapper nav {
+  display: none;
   align-items: center;
-  text-wrap: nowrap;
+  margin: 1rem 0;
+  border: solid 1px black;
+  border-radius: 20px;
+  background-color: white;
+  min-width: 300px;
+  max-width: 300px;
+  position: fixed;
+  margin-top: calc(50px + 2rem);
 }
-.wrapper nav p input {
-  width: 18px;
-  height: 18px;
-  margin-right: 5px;
+.wrapper nav details {
+  display: none;
 }
-form {
+.list {
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100vh - 64px - 100px);
+}
+.list p {
   display: flex;
-  align-items: center;
+  justify-content: center;
+  border-bottom: solid 1px black;
+  padding: 9px 0;
+  margin: 0;
+  line-height: 1.5;
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
 }
-form label {
-  text-wrap: nowrap;
+.list > div,
+nav details summary + div {
+  flex-direction: column;
+  overflow-y: auto;
+  clip-path: inset(0 round 0 0 20px 20px)
 }
-@media screen and (max-width: 700px) {
-  form {
-    margin-bottom: 0.5rem;
+.list > div > div,
+nav details summary + div > div {
+  padding: 10px 1rem;
+  cursor: pointer;
+  line-height: 1.5;
+}
+.list > div > div:hover,
+nav details summary + div > div:hover {
+  background-color: var(--color-hover);
+}
+.list > div > div.active,
+nav details summary + div > div.active {
+  background-color: var(--color);
+  color: white;
+}
+@media screen and (max-width: 1000px) {
+  main {
+    flex-direction: column;
   }
   .wrapper nav {
-    flex-direction: column;
-    align-items: flex-start;
+    max-width: calc(100% - 2rem);
+    min-width: calc(100% - 2rem);
+    margin-top: calc(50px + 2rem);
+    border: none;
   }
-  .wrapper nav p {
-    margin: 0 !important;
+  .wrapper nav details {
+    display: block;
+  }
+  .list {
+    display: none !important;
+  }
+  #results {
+    padding: 0;
+  }
+  .wrapper__results {
+    margin-left: 0 !important;
   }
 }
-form input {
+/* Выбор категории - мобильная версия */
+nav details {
   width: 100%;
-  min-width: 300px;
-  height: 30px;
-  margin-left: 0.5rem;
-  padding: 0 1rem;
-  border-radius: 10px;
-  border: 1px solid var(--color);
-  cursor: pointer;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-
-  background-image: linear-gradient(45deg, transparent 50%, var(--color) 50%),
-    linear-gradient(135deg, var(--color) 50%, transparent 50%),
-    linear-gradient(to right, var(--color), var(--color));
-  background-position: calc(100% - 13px), calc(100% - 9px), calc(100% - 2em);
-  background-size: 5px 5px, 5px 5px, 1px 1.5em;
-  background-repeat: no-repeat;
 }
-form input:focus {
-  background-image: linear-gradient(45deg, transparent 50%, black 50%),
-    linear-gradient(135deg, black 50%, transparent 50%),
-    linear-gradient(to right, black, black);
+nav details summary {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  padding: 14px 19px;
+  color: #00000050;
+  list-style: none;
 }
-form input::-webkit-calendar-picker-indicator {
-  display: none !important;
+nav details summary,
+nav details summary + div {
+  border-radius: 15px;
+  border: solid 1px black;
+  clip-path: none;
 }
-@media screen and (max-width: 534px) {
-  form {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-  }
-  form label {
-    margin-bottom: 4px;
-  }
-  form input {
-    margin: 0;
-  }
+nav details summary + div {
+  max-height: calc(100vh - 62px - 100px - 3.5rem);
+  margin-top: 8px;
 }
-@media screen and (max-width: 365px) {
-  form input {
-    min-width: calc(320px - 3rem);
-  }
+nav details summary::before {
+  content: '▼';
+  transition: transform 0.2s ease;
+  color: black;
 }
-@media screen and (max-width: 340px) {
-  form input {
-    min-width: calc(320px - 4rem);
-  }
+nav details[open] > summary::before {
+  transform: rotate(180deg);
 }
 
 .wrapper__results {
   flex-direction: column;
+  width: 100%;
+  margin-top: calc(50px + 1rem);
 }
 .wrapper__results p {
   display: none;
   font-weight: bold;
+  margin-top: 1rem;
 }
 
 /* Недавно добавленные курсы и Понравившиеся курсы */
@@ -277,6 +291,7 @@ form input::-webkit-calendar-picker-indicator {
 .new p {
   text-align: center;
   font-size: 24px;
+  margin-top: 1rem;
 }
 .new span {
   font-weight: normal !important;
@@ -326,7 +341,15 @@ form input::-webkit-calendar-picker-indicator {
 }
 .top {
   display: none;
-  left: 0;
+  right: 0;
+  bottom: 58px;
+}
+@media screen and (max-width: 1000px) {
+  .top {
+    left: 0;
+    right: auto;
+    bottom: 0;
+  }
 }
 
 .search-wrapper {

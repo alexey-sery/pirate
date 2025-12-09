@@ -11,7 +11,7 @@
     <link href="styles/style.css" rel="stylesheet" />
     <link href="styles/search.css" rel="stylesheet" />
     <link href="styles/components/nav.css" rel="stylesheet" type="text/css" />
-    <link href="styles/components/menu-2.css" rel="stylesheet" type="text/css" />
+    <link href="styles/components/menu.css" rel="stylesheet" type="text/css" />
     <link href="styles/components/snow.css" rel="stylesheet" type="text/css" />
     <link
       href="styles/components/preloader.css"
@@ -42,11 +42,6 @@
       <span></span>
     </div>
     <div class="wrapper">
-      <article>
-        <p>Поиск по ключевым словам (от 3-х символов). Заказ/обновление 404 ссылок <a href="https://t.me/async_code">@async_code</a></p>
-        <a href="manual.html#help_1" target="_blank" style="text-align: center;">Как пользоваться поиском</a>
-        <span id="titleCount"></span>
-      </article>
       <div class="wrapper__search" id="searchBlock">
         <img src="images/menu.png" alt="" id="menuTab" />
         <div class="search-wrapper">
@@ -58,48 +53,86 @@
         </a>
         <img src="images/top.png" alt="" class="top">
       </div>
-      <nav>
-        <form>
-          <label for="list-courses">Выберите категорию:</label>
-          <input type="text" list="listCourses" id="list-courses" placeholder="Например, Бизнес">
-          <datalist id="listCourses">
-            <option value="3D-моделирование" data-category="3D-моделирование">
-            <option value="Арбитраж Трафика" data-category="Арбитраж Трафика">
-            <option value="Бизнес" data-category="Бизнес">
-            <option value="Дети и родители" data-category="Дети и родители">
-            <option value="Дизайн и живопись" data-category="Дизайн и живопись">
-            <option value="Другое" data-category="Другое">
-            <option value="Здоровье и спорт" data-category="Здоровье и спорт">
-            <option value="Имидж и стиль" data-category="Имидж и стиль">
-            <option value="Инвестиции и форекс" data-category="Инвестиции и форекс">
-            <option value="Иностранные языки" data-category="Иностранные языки">
-            <option value="Кулинария" data-category="Кулинария">
-            <option value="Маркетинг и реклама" data-category="Маркетинг и реклама">
-            <option value="Музыка" data-category="Музыка">
-            <option value="Нейросети" data-category="Нейросети">
-            <option value="Пикап, искусство соблазнения" data-category="Пикап, искусство соблазнения">
-            <option value="Покер, ставки, казино" data-category="Покер, ставки, казино">
-            <option value="Программирование и сайтостроение" data-category="Программирование и сайтостроение">
-            <option value="Психология и саморазвитие" data-category="Психология и саморазвитие">
-            <option value="Путешествия" data-category="Путешествия">
-            <option value="Ремонт и строительство" data-category="Ремонт и строительство">
-            <option value="Сделай сам" data-category="Сделай сам">
-            <option value="Схемы заработка" data-category="Схемы заработка">
-            <option value="SEO & SMM" data-category="SEO & SMM">
-            <option value="Фото и видео" data-category="Фото и видео">
-            <option value="Фриланс" data-category="Фриланс">
-            <option value="Хакинг и кибербезопасность" data-category="Хакинг и кибербезопасность">
-            <option value="Эзотерика" data-category="Эзотерика">
-          </datalist>
-        </form>
-      </nav>
-      <div class="wrapper__results" id="resultsBlock">
-        <p></p>
-        <table id="results"></table>
-      </div>
-      <p class="wrapper__notfound"><span>Ничего не найдено 😭</span><br>
+      <main>
+        <nav>
+          <div class="list">
+            <p>Выберите категорию</p>
+            <div id="listCourses">
+              <div data-category="3D-моделирование">3D-моделирование</div>
+              <div data-category="Арбитраж Трафика">Арбитраж Трафика</div>
+              <div data-category="Бизнес">Бизнес</div>
+              <div data-category="Дети и родители">Дети и родители</div>
+              <div data-category="Дизайн и живопись">Дизайн и живопись</div>
+              <div data-category="Другое">Другое</div>
+              <div data-category="Здоровье и спорт">Здоровье и спорт</div>
+              <div data-category="Имидж и стиль">Имидж и стиль</div>
+              <div data-category="Инвестиции и форекс">Инвестиции и форекс</div>
+              <div data-category="Иностранные языки">Иностранные языки</div>
+              <div data-category="Кулинария">Кулинария</div>
+              <div data-category="Маркетинг и реклама">Маркетинг и реклама</div>
+              <div data-category="Музыка">Музыка</div>
+              <div data-category="Нейросети">Нейросети</div>
+              <div data-category="Пикап, искусство соблазнения">Пикап, искусство соблазнения</div>
+              <div data-category="Покер, ставки, казино">Покер, ставки, казино</div>
+              <div data-category="Программирование и сайтостроение">Программирование и сайтостроение</div>
+              <div data-category="Психология и саморазвитие">Психология и саморазвитие</div>
+              <div data-category="Путешествия">Путешествия</div>
+              <div data-category="Ремонт и строительство">Ремонт и строительство</div>
+              <div data-category="Сделай сам">Сделай сам</div>
+              <div data-category="Схемы заработка">Схемы заработка</div>
+              <div data-category="SEO & SMM">SEO & SMM</div>
+              <div data-category="Фото и видео">Фото и видео</div>
+              <div data-category="Фриланс">Фриланс</div>
+              <div data-category="Хакинг и кибербезопасность">Хакинг и кибербезопасность</div>
+              <div data-category="Эзотерика">Эзотерика</div>
+            </div>
+          </div>
+          <details class="mobile-categories">
+            <summary id="mobileSummary">Выберите категорию</summary>
+            <div id="mobileListCourses">
+              <div data-category="3D-моделирование">3D-моделирование</div>
+              <div data-category="Арбитраж Трафика">Арбитраж Трафика</div>
+              <div data-category="Бизнес">Бизнес</div>
+              <div data-category="Дети и родители">Дети и родители</div>
+              <div data-category="Дизайн и живопись">Дизайн и живопись</div>
+              <div data-category="Другое">Другое</div>
+              <div data-category="Здоровье и спорт">Здоровье и спорт</div>
+              <div data-category="Имидж и стиль">Имидж и стиль</div>
+              <div data-category="Инвестиции и форекс">Инвестиции и форекс</div>
+              <div data-category="Иностранные языки">Иностранные языки</div>
+              <div data-category="Кулинария">Кулинария</div>
+              <div data-category="Маркетинг и реклама">Маркетинг и реклама</div>
+              <div data-category="Музыка">Музыка</div>
+              <div data-category="Нейросети">Нейросети</div>
+              <div data-category="Пикап, искусство соблазнения">Пикап, искусство соблазнения</div>
+              <div data-category="Покер, ставки, казино">Покер, ставки, казино</div>
+              <div data-category="Программирование и сайтостроение">Программирование и сайтостроение</div>
+              <div data-category="Психология и саморазвитие">Психология и саморазвитие</div>
+              <div data-category="Путешествия">Путешествия</div>
+              <div data-category="Ремонт и строительство">Ремонт и строительство</div>
+              <div data-category="Сделай сам">Сделай сам</div>
+              <div data-category="Схемы заработка">Схемы заработка</div>
+              <div data-category="SEO & SMM">SEO & SMM</div>
+              <div data-category="Фото и видео">Фото и видео</div>
+              <div data-category="Фриланс">Фриланс</div>
+              <div data-category="Хакинг и кибербезопасность">Хакинг и кибербезопасность</div>
+              <div data-category="Эзотерика">Эзотерика</div>
+            </div>
+          </details>
+        </nav>
+        <div class="wrapper__results" id="resultsBlock">
+          <p></p>
+          <table id="results"></table>
+        </div>
+        <article>
+            <p>Поиск по ключевым словам (от 3-х символов). Заказ/обновление 404 ссылок <a href="https://t.me/async_code">@async_code</a></p>
+            <a href="manual.html#help_1" target="_blank" style="text-align: center;">Как пользоваться поиском</a>
+            <span id="titleCount"></span>
+          </article>
+        <p class="wrapper__notfound"><span>Ничего не найдено 😭</span><br>
         Убедитесь, что все слова написаны без ошибок.<br>
         Попробуйте использовать другие ключевые слова или уменьшить кол-во слов в запросе</p>
+      </main>
     </div>
     <script src="scripts/header.js" defer></script>
     <script src="scripts/search.js" defer></script>

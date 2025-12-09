@@ -1,4 +1,4 @@
-$(window).on("scroll", function () {
+$('.wrapper').on("scroll", function () {
   if ($(this).scrollTop() > 100) {
     $(".top").fadeIn();
   } else {
@@ -7,6 +7,6 @@ $(window).on("scroll", function () {
 });
 
 $(".top").click(function () {
-  $("html, body").animate({ scrollTop: 0 }, 800);
+  $('.wrapper').animate({ scrollTop: 0 }, 800)
   return false;
 });
