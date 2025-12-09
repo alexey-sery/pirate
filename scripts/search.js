@@ -380,6 +380,9 @@ $(document).ready(function () {
     $('.wrapper__results, .wrapper__notfound').css({
       marginLeft: '300px',
     })
+    $('.wrapper__results, .wrapper__notfound').addClass(
+      'wrapper__results-mobile'
+    )
 
     // Когда меню закрывается
     if ($(this).attr('src') === 'images/close.png') {
@@ -400,6 +403,9 @@ $(document).ready(function () {
       $('.wrapper__results, .wrapper__notfound').css({
         marginLeft: '0',
       })
+      $('.wrapper__results, .wrapper__notfound').removeClass(
+        'wrapper__results-mobile'
+      )
 
       // Очистка списка и результата
       currentCategory = null

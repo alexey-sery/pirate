@@ -49,7 +49,6 @@ body {
 .wrapper p {
   text-align: center;
   line-height: 1.65;
-  width: calc(100% - 1rem);
 }
 .wrapper span:not(#clearSearch) {
   font-weight: bold;
@@ -75,6 +74,7 @@ body {
 .wrapper__notfound {
   display: none;
   margin-top: calc(50px + 2rem) !important;
+  width: 100%;
 }
 .wrapper__notfound span {
   font-weight: bold;
@@ -234,8 +234,15 @@ nav details summary + div > div.active {
   #results {
     padding: 0;
   }
-  .wrapper__results {
+  .wrapper__results,
+  .wrapper__notfound {
     margin-left: 0 !important;
+  }
+  .wrapper__results-mobile {
+    margin-top: calc(100px + 2rem) !important;
+  }
+  .wrapper__notfound.wrapper__results-mobile {
+    margin-top: calc(100px + 3rem) !important;
   }
 }
 /* Выбор категории - мобильная версия */
