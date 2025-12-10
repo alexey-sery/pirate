@@ -261,10 +261,10 @@ nav details summary,
 nav details summary + div {
   border-radius: 15px;
   border: solid 1px black;
-  clip-path: none;
+  clip-path: inset(-2px round 20px);
 }
 nav details summary + div {
-  max-height: calc(100vh - 62px - 100px - 3.5rem);
+  max-height: calc(100vh - 64px - 155px - 4rem);
   margin-top: 8px;
 }
 nav details summary::before {
