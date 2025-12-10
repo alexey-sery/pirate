@@ -77,8 +77,6 @@ h2, h3 {
   background-color: white;
   border-radius: 20px;
   margin-left: calc(385px + 2rem);
-}
-.manual__items p {
   line-height: 1.65;
 }
 .manual__items a {
@@ -109,9 +107,21 @@ details {
     background-color: white;
   }
   details summary {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
     color: var(--color);
     font-weight: bold;
     font-size: 1.2rem;
+    list-style: none;
+  }
+  details summary::before {
+    content: '▼';
+    transition: transform 0.2s ease;
+    color: var(--color);
+  }
+  details[open] > summary::before {
+    transform: rotate(180deg);
   }
   details ol {
     margin-top: 1rem;
