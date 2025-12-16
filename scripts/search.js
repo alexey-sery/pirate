@@ -2,6 +2,13 @@ $(document).ready(function () {
   let courses = []
   let categoryCourses = {}
   let currentCategory = null
+
+  let currentBaseResults = []
+  let sortState = {
+    alpha: 'asc', // asc | desc
+    date: null, // new | old | null
+  }
+
   let code = [
     'ZGIvYXV0aG9yLzNELmpzb24=', // 3D
     'ZGIvYXV0aG9yL1NFTyAmIFNNTS5qc29u', // SEO & SMM
@@ -187,7 +194,9 @@ $(document).ready(function () {
             return words.every((word) => normalizedTitle.includes(word))
           })
 
-          displayResults(results, query.length)
+          currentBaseResults = results
+          updateSortUI()
+          displayResults(sortByCurrent(currentBaseResults), query.length)
 
           if ($(window).width() <= 640) {
             $('table tr td a').text('Скачать')
@@ -195,7 +204,9 @@ $(document).ready(function () {
         } else {
           // Если выбрана категория - показываем курсы
           if (currentCategory && categoryCourses[currentCategory]) {
-            displayResults(categoryCourses[currentCategory])
+            currentBaseResults = categoryCourses[currentCategory]
+            updateSortUI()
+            displayResults(sortByCurrent(currentBaseResults))
           } else {
             displayResults([])
           }
@@ -207,7 +218,7 @@ $(document).ready(function () {
     })
 
   function displayResults(results, queryLength = 0) {
-    results.sort((a, b) => a.title.localeCompare(b.title))
+    lastRenderedCourses = [...results]
 
     let favs = getFavorites()
     let $results = $('#results')
@@ -344,15 +355,19 @@ $(document).ready(function () {
     $('#listCourses div, #mobileListCourses div').removeClass('active')
     element.addClass('active')
 
-    $('#search').attr('placeholder', `Искать в категории «${category}»`)
-    $('#mobileSummary').text(category).css('color', 'black')
+    $('#search').attr('placeholder', `Искать в «${category}»`)
+    $('#mobileSummary').css('color', 'black')
 
     if (categoryCourses[encoded]) {
-      displayResults(categoryCourses[encoded])
+      currentBaseResults = categoryCourses[encoded]
+      updateSortUI()
+      displayResults(sortByCurrent(currentBaseResults))
     } else {
       $.getJSON(atob(encoded), (data) => {
         categoryCourses[encoded] = data
-        displayResults(data)
+        currentBaseResults = categoryCourses[encoded]
+        updateSortUI()
+        displayResults(sortByCurrent(currentBaseResults))
       })
     }
   }
@@ -369,6 +384,60 @@ $(document).ready(function () {
     const category = $(this).data('category')
     selectCategory(category, $(this))
   })
+
+  // Выбор сортировки
+  function extractYear(title) {
+    const match = title.match(/\((\d{4})\)/)
+    return match ? Number(match[1]) : 0
+  }
+
+  function sortByCurrent(data) {
+    let result = [...data]
+
+    result.sort((a, b) => {
+      if (sortState.date) {
+        const yearA = extractYear(a.title)
+        const yearB = extractYear(b.title)
+
+        if (yearA !== yearB) {
+          return sortState.date === 'new' ? yearB - yearA : yearA - yearB
+        }
+      }
+
+      return sortState.alpha === 'asc'
+        ? a.title.localeCompare(b.title)
+        : b.title.localeCompare(a.title)
+    })
+
+    return result
+  }
+
+  function updateSortUI() {
+    $('.sort-alpha button').removeClass('active')
+    $(`.sort-alpha button[data-alpha="${sortState.alpha}"]`).addClass('active')
+
+    $('.sort-date button').removeClass('active')
+    $(`.sort-date button[data-date="${sortState.date ?? 'none'}"]`).addClass(
+      'active'
+    )
+
+    $('#mobileSort').css('color', 'black')
+  }
+
+  $('.sort-alpha button').on('click', function () {
+    sortState.alpha = $(this).data('alpha')
+    updateSortUI()
+    displayResults(sortByCurrent(currentBaseResults))
+  })
+
+  $('.sort-date button').on('click', function () {
+    const value = $(this).data('date')
+    sortState.date = value === 'none' ? null : value
+    updateSortUI()
+    displayResults(sortByCurrent(currentBaseResults))
+  })
+
+
 
   // Открытие меню
   $('#menuTab').click(function () {
@@ -391,7 +460,7 @@ $(document).ready(function () {
       $('#mobileListCourses div').removeClass('active')
       $('table').css('margin', 'auto')
       $('.wrapper article').show()
-      $('#mobileSummary').text('Выберите категорию').css('color', '#00000050')
+      $('#mobileSummary').css('color', '#00000050')
 
       // Смена иконки
       $(this).fadeOut(200, function () {

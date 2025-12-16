@@ -46,6 +46,9 @@ body {
   max-width: 1920px;
   overflow: hidden;
 }
+button, input {
+  font-family: "Roboto", sans-serif;
+}
 
 .main {
   display: flex;
