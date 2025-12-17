@@ -67,8 +67,10 @@ body {
   width: calc(100% - 2rem);
   margin-top: calc(50px + 2rem) !important;
 }
-.wrapper__results-mobile + article {
-  margin-top: calc(100px + 3rem) !important;
+@media screen and (max-width: 1000px) {
+  .wrapper__results-mobile + article {
+    margin-top: calc(100px + 3rem) !important;
+  }
 }
 .wrapper article a {
   color: var(--color);
