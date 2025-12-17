@@ -103,6 +103,10 @@ $(document).ready(function () {
 
       $('#titleCount').text(`Всего курсов: ${courses.length}`)
 
+      $.getJSON(atob('ZGIvYXV0aG9yL25ldy5qc29u'), function (data) {
+        $('#titleCountNew').text(`Всего: ${data.length}`)
+      })
+
       let timer
 
       $('#search').on('input', function () {
