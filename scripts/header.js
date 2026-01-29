@@ -9,6 +9,7 @@ $(document).ready(function () {
           <a href="search.html">Поиск</a>
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
+          <a href="vpn.html">VPN</a>
           <a href="https://cloud.mail.ru/public/FcuF/gWe54QQtm" target="_blank">Книги по саморазвитию<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
   width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
   preserveAspectRatio="xMidYMid meet" class="nav__links">
@@ -55,6 +56,7 @@ $(document).ready(function () {
           <a href="search.html">Поиск</a>
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
+          <a href="vpn.html">VPN</a>
           <a href="https://cloud.mail.ru/public/FcuF/gWe54QQtm" target="_blank">
             Книги по саморазвитию
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
