@@ -456,6 +456,7 @@ nav details[open] > summary::before {
 }
 .category-row td {
   justify-content: center;
+  width: calc(100% - 50px);
 }
 .category-row::before {
   content: "▼";
