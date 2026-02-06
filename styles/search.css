@@ -440,6 +440,9 @@ nav details[open] > summary::before {
 }
 
 /* Объединение в категорию */
+#new {
+  padding: 0 10px;
+}
 .category-row {
   padding: 1rem 10px;
   margin: 1rem 0;
