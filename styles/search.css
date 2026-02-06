@@ -438,3 +438,43 @@ nav details[open] > summary::before {
 #clearSearch:hover {
   color: var(--color-dark);
 }
+
+/* Объединение в категорию */
+.category-row {
+  padding: 1rem 10px;
+  margin: 1rem 0;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--color);
+  border: solid 1px black;
+  cursor: pointer;
+  width: calc(100vw - 2rem);
+  max-width: 1160px;
+  position: relative;
+}
+.category-row td {
+  justify-content: center;
+}
+.category-row::before {
+  content: "▼";
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%) rotate(0deg);
+  transition: transform 0.3s ease;
+  font-size: 20px;
+  color: #555;
+}
+.category-row.collapsed::before {
+  transform: translateY(-50%) rotate(-180deg);
+}
+@media screen and (max-width: 600px) {
+  .category-row {
+    font-size: 18px;
+  }
+}
+.category-row:hover {
+  background-color: inherit;
+}
