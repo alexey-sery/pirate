@@ -321,14 +321,14 @@ $(document).ready(function () {
   })
 
   function displayNewCourses(newCourses) {
-    //newCourses.sort((a, b) => a.title.localeCompare(b.title))
-
     let favs = getFavorites()
     let $newTableBody = $('#new')
 
     $newTableBody.empty()
 
     Object.entries(newCourses).forEach(([category, courses], index) => {
+      courses.sort((a, b) => a.title.localeCompare(b.title))
+
       const categoryId = `cat-${index}`
       const count = courses.length
 
