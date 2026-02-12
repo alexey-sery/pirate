@@ -82,12 +82,22 @@ h2, h3 {
 .manual__items a {
   color: var(--color);
 }
-.manual__items img {
-  width: 100%;
-}
 .manual__items ol {
   padding-left: 2rem;
 }
+.manual__items-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+}
+.manual__items-img img {
+  width: 100%;
+}
+.manual__items-img p {
+  color: grey;
+}
+
 details {
   display: none;
 }
