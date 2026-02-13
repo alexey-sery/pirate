@@ -326,14 +326,24 @@ $(document).ready(function () {
 
     $newTableBody.empty()
 
-    Object.entries(newCourses).forEach(([category, courses], index) => {
-      courses.sort((a, b) => a.title.localeCompare(b.title))
+    Object.entries(newCourses)
+      .sort(([catA], [catB]) => {
+        const isLatinA = /^[A-Za-z]/.test(catA)
+        const isLatinB = /^[A-Za-z]/.test(catB)
 
-      const categoryId = `cat-${index}`
-      const count = courses.length
+        if (isLatinA && !isLatinB) return -1
+        if (!isLatinA && isLatinB) return 1
 
-      // Заголовок категории
-      $newTableBody.append(`
+        return catA.localeCompare(catB, ['en', 'ru'], { sensitivity: 'base' })
+      })
+      .forEach(([category, courses], index) => {
+        courses.sort((a, b) => a.title.localeCompare(b.title))
+
+        const categoryId = `cat-${index}`
+        const count = courses.length
+
+        // Заголовок категории
+        $newTableBody.append(`
         <tr class="category-row" data-target="${categoryId}">
           <td colspan="2">
             <b>${category} (${count})</b>
@@ -341,16 +351,16 @@ $(document).ready(function () {
         </tr>
       `)
 
-      courses.forEach((course) => {
-        const isFav = favs.some((f) => f.title === course.title)
+        courses.forEach((course) => {
+          const isFav = favs.some((f) => f.title === course.title)
 
-        const linksData = Array.isArray(course.url)
-          ? JSON.stringify(course.url)
-          : JSON.stringify([course.url])
+          const linksData = Array.isArray(course.url)
+            ? JSON.stringify(course.url)
+            : JSON.stringify([course.url])
 
-        const linksDataCourse = encodeURIComponent(linksData)
+          const linksDataCourse = encodeURIComponent(linksData)
 
-        $newTableBody.append(`
+          $newTableBody.append(`
           <tr class="${categoryId}">
             <td>${course.title}</td>
             <td>
@@ -367,8 +377,8 @@ $(document).ready(function () {
             </td>
           </tr>
         `)
+        })
       })
-    })
 
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {

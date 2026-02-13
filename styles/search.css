@@ -454,7 +454,7 @@ nav details[open] > summary::before {
   border: solid 1px black;
   cursor: pointer;
   width: calc(100vw - 2rem);
-  max-width: 1325px;
+  max-width: 1350px;
   position: relative;
 }
 .category-row td {
