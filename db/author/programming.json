@@ -335,12 +335,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Максим Мазурин] [Академия Нолим] Верстка на Тильде с нуля до pro. Тариф Базовый (2025)",
-    "url": "https://cloud.mail.ru/public/3Y2K/yk5ydQkgJ",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Максим Дуплей] [Stepik] Погружение в Data Science и машинное обучение (2024)",
     "url": "https://cloud.mail.ru/public/ipgf/dkDCxfYY3",
     "cloud": "Облако",
@@ -725,15 +719,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Udemy] Java (Джава) для начинающих: с нуля до сертификата Oracle (2019)",
-    "url": [
-      "https://disk.yandex.com/d/7VLPaSTkKG_QOA",
-      "https://disk.yandex.com/d/nCWuCzLAQy-6-g"
-    ],
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Udemy] Изучение C++ с нуля (2020)",
     "url": "https://cloud.mail.ru/public/VfHG/Cp8SSixA4",
     "cloud": "Облако",
@@ -867,12 +852,6 @@
   {
     "title": "[Артём Мурадов] [Слёрм] [Slurm] Алгоритмы: roadmap для работы и собеседований (2022)",
     "url": "https://cloud.mail.ru/public/559g/6qV3zDNub",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[FlippedNormals] Создание профессиональных синематиков в Unreal Engine 5 (2022)",
-    "url": "https://cloud.mail.ru/public/fQ8K/QCRfNpiUs",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -1022,9 +1001,8 @@
   },
   {
     "title": "[Антон Командин] Резиновая верстка в Тильде (2023)",
-    "url": "https://cloud.mail.ru/public/eXwu/KWDgbG7DR",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
+    "url": "https://cloud.mail.ru/public/3Cnz/9rXQ7aamx",
+    "cloud": "Облако"
   },
   {
     "title": "[Антон Кучер] Как стать классным менеджером проектов и не ох..еть (2021)",
@@ -1131,12 +1109,6 @@
   {
     "title": "[Герман Янгалин] Экспресс-курс по Arduino, электронике и физике (2023)",
     "url": "https://cloud.mail.ru/public/gpXp/RCvWoYK4v",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Дарья Довбенко] Android: Базовый Курс (Stop Motion на телефоне) (2020)",
-    "url": "https://disk.yandex.ru/d/k0t5vvOuXAJp5g",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -1592,12 +1564,6 @@
   {
     "title": "[infostart] Видеокурс «1C - Предприятие для программистов - Оперативные задачи» (2022)",
     "url": "https://cloud.mail.ru/public/rbSb/zm4tnDSuQ",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[itik] Онлайн-школа программирование для детей 7-15 лет. Месяц 12 (2023)",
-    "url": "https://cloud.mail.ru/public/Cr4v/jC9QntEUs",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6105,32 +6071,8 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Павел Старцев] [Stepik] Нейросети: от простейшего запроса до создания бота (2025)",
-    "url": "https://cloud.mail.ru/public/aKrt/mQ6gxZZMM",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Александр Перевалов] [Stepik] Внедряем AI Ассистентов в разработку (2025)",
-    "url": "https://cloud.mail.ru/public/a6ND/7ktrGHyeG",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Неямул Хасан] Специализация Canva AI: разработка приложений, веб-сайтов и эффектов (2025)",
     "url": "https://cloud.mail.ru/public/S9Pu/XnyU2ZMGN",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Дмитрий Зверев] Нейро-код. Тариф Мини-курс по нейро-коду (2025)",
-    "url": "https://cloud.mail.ru/public/s5Wh/WnBBmC3Qp",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Пауло Дюшон] Руководство DeepSeek AI R1 и Ollama: создание локальных приложений ИИ (2025)",
-    "url": "https://cloud.mail.ru/public/3CuG/VS5QSfwDt",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6161,12 +6103,6 @@
   {
     "title": "[Ольга Назина (Киселёва)] [software-testing] Применение ChatGPT в тестировании (2025)",
     "url": "https://cloud.mail.ru/public/12CK/tEeFKWh5S",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Vivian Aranha] [Udemy] Создание умных чат-ботов и инструментов (2025)",
-    "url": "https://cloud.mail.ru/public/viRb/hhTpaEz3y",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6213,12 +6149,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[МИФ Курсы] Ренат Шагабутдинов ― Новая магия Excel (2025)",
-    "url": "https://cloud.mail.ru/public/58Mx/wBFFAkc2S",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[plc-edu] Дмитрий Громов ― Прикладной курс по АСУ ТП (2023)",
     "url": "https://cloud.mail.ru/public/64Zd/MHhhux7bt",
     "cloud": "Облако",
@@ -6233,12 +6163,6 @@
   {
     "title": "[Иосиф Дзеранов, Александр Павлович] [Stepik] PRO Логические задачи (2025)",
     "url": "https://cloud.mail.ru/public/KPkH/yDh5wTpZX",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[The XSS Rat] Набор из 26 курсов по информационной безопасности (2024)",
-    "url": "https://cloud.mail.ru/public/J9hr/7KQ13vZpN",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6281,12 +6205,6 @@
   {
     "title": "[stepik] Сергей Камянецкий ― Математика для семьи: Объединяем поколения через числа (2025)",
     "url": "https://cloud.mail.ru/public/8Dej/EpmxcaWG9",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Systems Education] Архитектурные решения и AI (2025)",
-    "url": "https://cloud.mail.ru/public/ZGgq/aA86BzhYg",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6335,12 +6253,6 @@
   {
     "title": "[Arnold Oberleiter] [Udemy] ИИ-агенты: автоматизация и бизнес с приложениями LangChain и LLM (2025)",
     "url": "https://cloud.mail.ru/public/a1om/zeN5FwVEm",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Brendan Li] [Udemy] Полноценный курс ИИ программист с помощью Cursor AI, v0, Vercel (2025)",
-    "url": "https://cloud.mail.ru/public/9Lvp/3Uw6C9oi4",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -6423,12 +6335,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Татьяна Румянцева] [Stepik] Нейрокодер Start (2025)",
-    "url": "https://cloud.mail.ru/public/kjhL/LGDP1EZxc",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Udemy] NIST Framework с элементами контроля кибербезопасности и безопасности IoT (2024)",
     "url": "https://cloud.mail.ru/public/BC5J/Bb7kU5PVJ",
     "cloud": "Облако",
@@ -6443,12 +6349,6 @@
   {
     "title": "[profit] Альберт Степанцев ― PHP 8.4. Что нового? (2024)",
     "url": "https://cloud.mail.ru/public/T9f8/y2gbdRdH3",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Майк Тейлор, Джеймс Финикс] [Udemy] Полный курс по промпт инжинирингу ИИ (2025)",
-    "url": "https://cloud.mail.ru/public/atMn/HiVGZcXGW",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -7083,12 +6983,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Udemy] Alexey Leontyev ― Магия сводных таблиц Microsoft Excel (2024)",
-    "url": "https://cloud.mail.ru/public/1rJf/Aky6teBBg",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[ЕШКО] Программирование на Python для начинающих (2024)",
     "url": "https://cloud.mail.ru/public/YyoJ/BZsfRP9M4",
     "cloud": "Облако",
@@ -7343,12 +7237,6 @@
   {
     "title": "[Яндекс-практикум] Системный аналитик. Часть 8 из 8 (2023)",
     "url": "https://cloud.mail.ru/public/V57B/ucPc9EV78",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Алексей Колоколов] Excel на стероидах: DAX и Power Query (2023)",
-    "url": "https://cloud.mail.ru/public/qGsL/FoHAZ5EQF",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -8093,12 +7981,6 @@
   {
     "title": "[Udemy] Программирование в Scratch с 6 лет, от 0 до создания игры (2022)",
     "url": "https://cloud.mail.ru/public/Wucp/2pznNitKp",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Linkedin] Виртуальные собеседования при приеме на работу для тех, для кого английский язык не является родным (2023)",
-    "url": "https://cloud.mail.ru/public/pNka/bqxxGw7tK",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -8885,12 +8767,6 @@
   {
     "title": "[Дмитрий Лаврик] PHP – ООП (2021)",
     "url": "https://cloud.mail.ru/public/QAG8/o6ctAQn6Q",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Алексей Колоколов] Дашборд для директора в Excel (2020)",
-    "url": "https://cloud.mail.ru/public/hLdm/uzdWcdiHj",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -9738,12 +9614,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Foxford] Английский - Стань сильнее. Pre-Intermediate (A2-B1)",
-    "url": "https://cloud.mail.ru/public/TJ6N/bejwKUU5D",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Foxford] Курс программирования на Python для начинающих (2020)",
     "url": "https://cloud.mail.ru/public/6fNN/B2x3E7rud",
     "cloud": "Облако",
@@ -10003,9 +9873,8 @@
   },
   {
     "title": "[Павел Миронов] Сценарист видеоигр: введение в профессию (2020) (Пароль: 8161)",
-    "url": "https://disk.yandex.ru/d/x9hoSWLIafYwQQ",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
+    "url": "https://disk.yandex.ru/d/-KsgBqUgF59Osw",
+    "cloud": "Облако"
   },
   {
     "title": "[Udemy] Роман Сакутин - Создание игры 2D Minecraft на C# и WinForms (2020)",
@@ -10632,12 +10501,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[Андрей Сухов] Полный курс по Microsoft Excel (Базовый курс+Сводные таблицы) (2020)",
-    "url": "https://cloud.mail.ru/public/Mo24/tBtmo2HRM",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Дмитрий Лаврик] Javascript. Интенсивный курс для программистов (2020)",
     "url": "https://cloud.mail.ru/public/NYpD/RZtyHqMQ1",
     "cloud": "Облако",
@@ -10670,12 +10533,6 @@
   {
     "title": "[Евгений Гилев] Тренинг - Интенсив по 1С Конвертации данных 3.0 (Пароль: Одинбогинеодин)",
     "url": "https://cloud.mail.ru/public/JPDA/gGEu9VABb",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[skill.im] MS Word 2016: базовый курс",
-    "url": "https://cloud.mail.ru/public/28vo/3d7PpXNaS",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -12156,12 +12013,6 @@
     "category": "Программирование и сайтостроение"
   },
   {
-    "title": "[SkillFactory] Специалист по кибербезопасности (2019)",
-    "url": "https://cloud.mail.ru/public/XKg5/JckCMh77A",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
     "title": "[Udemy] Git: Полный курс для начинающих и не только (2019)",
     "url": "https://cloud.mail.ru/public/LBdp/841cNTqyt",
     "cloud": "Облако",
@@ -12356,12 +12207,6 @@
   {
     "title": "[Udemy] Мастер программирования на Python: The Complete 2019 Python Bootcamp",
     "url": "https://cloud.mail.ru/public/24vr/5DpN2uJWr",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Нетология] Полезные навыки работы в Excel для новичков, о которых не знают «профи» и «гуру»",
-    "url": "https://cloud.mail.ru/public/21bQ/ovkKo8dAM",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
@@ -13589,12 +13434,6 @@
   {
     "title": "[Максим Крупчатников] [Stepik] DevOps-инженер: От основ до продакшена (2025)",
     "url": "https://cloud.mail.ru/public/yZWX/B2Vh67W5R",
-    "cloud": "Облако",
-    "category": "Программирование и сайтостроение"
-  },
-  {
-    "title": "[Станислав Быстрицкий] Самый полный курс по вайбкодингу сайтов и веб-приложений 2.0 (2025)",
-    "url": "https://cloud.mail.ru/public/L8Zd/Cp6H8M9K1",
     "cloud": "Облако",
     "category": "Программирование и сайтостроение"
   },
