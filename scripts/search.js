@@ -306,19 +306,25 @@ $(document).ready(function () {
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
       const $btn = $(this)
-      const courseTitle = $btn.closest('tr').find('td:first').text().trim()
+      const $row = $btn.closest('tr')
+      const $wrapper = $row.find('.wrapper__results')
+      const $table = $wrapper.find('.results')
 
-      const $rowWrapper = $btn.closest('tr')
-      $rowWrapper.find('.wrapper__results').show()
+      // Показываем только для этой карточки
+      $wrapper.show()
+      $table.empty()
 
-      let links = JSON.parse(decodeURIComponent($btn.data('links')))
-      links.forEach((url, index) => {
-        setTimeout(() => window.open(url, '_blank'), index * 200)
+      const links = JSON.parse(decodeURIComponent($btn.data('links')))
+      links.forEach((url) => {
+        $table.append(
+          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
+        )
+        setTimeout(() => window.open(url, '_blank'), 200)
       })
 
-      const courseId = normalizeId(courseTitle)
+      // Обновление просмотров
+      const courseId = normalizeId($row.find('td:first').text().trim())
       const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-
       firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
 
@@ -447,19 +453,25 @@ $(document).ready(function () {
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
       const $btn = $(this)
-      const courseTitle = $btn.closest('tr').find('td:first').text().trim()
+      const $row = $btn.closest('tr')
+      const $wrapper = $row.find('.wrapper__results')
+      const $table = $wrapper.find('.results')
 
-      const $rowWrapper = $btn.closest('tr')
-      $rowWrapper.find('.wrapper__results').show()
+      // Показываем только для этой карточки
+      $wrapper.show()
+      $table.empty()
 
-      let links = JSON.parse(decodeURIComponent($btn.data('links')))
-      links.forEach((url, index) => {
-        setTimeout(() => window.open(url, '_blank'), index * 200)
+      const links = JSON.parse(decodeURIComponent($btn.data('links')))
+      links.forEach((url) => {
+        $table.append(
+          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
+        )
+        setTimeout(() => window.open(url, '_blank'), 200)
       })
 
-      const courseId = normalizeId(courseTitle)
+      // Обновление просмотров
+      const courseId = normalizeId($row.find('td:first').text().trim())
       const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-
       firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
   }
