@@ -307,34 +307,32 @@ $(document).ready(function () {
     $(document).on('click', '.download-btn', function () {
       const $btn = $(this)
       const $row = $btn.closest('tr')
+      const courseId = normalizeId($row.find('td:first').text().trim())
+
+      // Если открыт <article>, не показываем таблицу
+      if ($('article:visible').length > 0) {
+        // Только увеличиваем счетчик скачиваний
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+        firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
+        return
+      }
+
+      // Иначе показываем таблицу локально
       const $wrapper = $row.find('.wrapper__results')
       const $table = $wrapper.find('.results')
 
-      // Проверяем, скрыта ли таблица локально
-      const hiddenCourses = JSON.parse(
-        localStorage.getItem('hiddenCourses') || '[]',
-      )
-      const courseId = normalizeId($row.find('td:first').text().trim())
+      $wrapper.show()
+      $table.empty()
 
-      if (!hiddenCourses.includes(courseId)) {
-        // Сохраняем, что пользователь открыл эту таблицу
-        hiddenCourses.push(courseId)
-        localStorage.setItem('hiddenCourses', JSON.stringify(hiddenCourses))
+      const links = JSON.parse(decodeURIComponent($btn.data('links')))
+      links.forEach((url) => {
+        $table.append(
+          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
+        )
+        setTimeout(() => window.open(url, '_blank'), 200)
+      })
 
-        // Показываем таблицу только локально
-        $wrapper.show()
-        $table.empty()
-
-        const links = JSON.parse(decodeURIComponent($btn.data('links')))
-        links.forEach((url) => {
-          $table.append(
-            `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
-          )
-          setTimeout(() => window.open(url, '_blank'), 200)
-        })
-      }
-
-      // Обновление просмотров в Firebase (для статистики, не влияет на таблицу)
+      // Обновление просмотров в Firebase
       const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
       firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
@@ -465,37 +463,36 @@ $(document).ready(function () {
     $(document).on('click', '.download-btn', function () {
       const $btn = $(this)
       const $row = $btn.closest('tr')
+      const courseId = normalizeId($row.find('td:first').text().trim())
+
+      // Если открыт <article>, не показываем таблицу
+      if ($('article:visible').length > 0) {
+        // Только увеличиваем счетчик скачиваний
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+        firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
+        return
+      }
+
+      // Иначе показываем таблицу локально
       const $wrapper = $row.find('.wrapper__results')
       const $table = $wrapper.find('.results')
 
-      // Проверяем, скрыта ли таблица локально
-      const hiddenCourses = JSON.parse(
-        localStorage.getItem('hiddenCourses') || '[]',
-      )
-      const courseId = normalizeId($row.find('td:first').text().trim())
+      $wrapper.show()
+      $table.empty()
 
-      if (!hiddenCourses.includes(courseId)) {
-        // Сохраняем, что пользователь открыл эту таблицу
-        hiddenCourses.push(courseId)
-        localStorage.setItem('hiddenCourses', JSON.stringify(hiddenCourses))
+      const links = JSON.parse(decodeURIComponent($btn.data('links')))
+      links.forEach((url) => {
+        $table.append(
+          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
+        )
+        setTimeout(() => window.open(url, '_blank'), 200)
+      })
 
-        // Показываем таблицу только локально
-        $wrapper.show()
-        $table.empty()
-
-        const links = JSON.parse(decodeURIComponent($btn.data('links')))
-        links.forEach((url) => {
-          $table.append(
-            `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
-          )
-          setTimeout(() => window.open(url, '_blank'), 200)
-        })
-      }
-
-      // Обновление просмотров в Firebase (для статистики, не влияет на таблицу)
+      // Обновление просмотров в Firebase
       const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
       firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
+
   }
 
   // Свернуть категорию
