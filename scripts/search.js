@@ -6,7 +6,7 @@ $(document).ready(function () {
   firebaseOnValue(downloadsRef, (snapshot) => {
     downloadStats = snapshot.val() || {}
 
-    displayResults(sortByCurrent(currentBaseResults))
+    //displayResults(sortByCurrent(currentBaseResults))
   })
 
   function hasDownloaded(courseId) {
