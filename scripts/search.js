@@ -305,23 +305,21 @@ $(document).ready(function () {
     // Навешиваем обработчик на все кнопки
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
-      let links = JSON.parse(decodeURIComponent($(this).data('links')))
+      const $btn = $(this)
+      const courseTitle = $btn.closest('tr').find('td:first').text().trim()
+
+      const $rowWrapper = $btn.closest('tr')
+      $rowWrapper.find('.wrapper__results').show()
+
+      let links = JSON.parse(decodeURIComponent($btn.data('links')))
       links.forEach((url, index) => {
         setTimeout(() => window.open(url, '_blank'), index * 200)
       })
 
-      const title = $(this).closest('tr').find('td:first').text().trim()
-      const courseId = normalizeId(title)
+      const courseId = normalizeId(courseTitle)
+      const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
 
-      if (!hasDownloaded(courseId)) {
-        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-
-        firebaseRunTransaction(countRef, (current) => {
-          return (current || 0) + 1
-        })
-
-        markAsDownloaded(courseId)
-      }
+      firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
 
     // Режим таблицы
@@ -448,23 +446,21 @@ $(document).ready(function () {
 
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
-      let links = JSON.parse(decodeURIComponent($(this).data('links')))
+      const $btn = $(this)
+      const courseTitle = $btn.closest('tr').find('td:first').text().trim()
+
+      const $rowWrapper = $btn.closest('tr')
+      $rowWrapper.find('.wrapper__results').show()
+
+      let links = JSON.parse(decodeURIComponent($btn.data('links')))
       links.forEach((url, index) => {
         setTimeout(() => window.open(url, '_blank'), index * 200)
       })
 
-      const title = $(this).closest('tr').find('td:first').text().trim()
-      const courseId = normalizeId(title)
+      const courseId = normalizeId(courseTitle)
+      const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
 
-      if (!hasDownloaded(courseId)) {
-        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-
-        firebaseRunTransaction(countRef, (current) => {
-          return (current || 0) + 1
-        })
-
-        markAsDownloaded(courseId)
-      }
+      firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
     })
   }
 

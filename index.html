@@ -93,6 +93,35 @@ fill="white" stroke="none">
       <img src="images/icon.jpg" alt>
     </div>
   </div>
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-app.js'
+    import {
+      getDatabase,
+      ref,
+      runTransaction,
+      onValue,
+      get,
+    } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-database.js'
+
+    const firebaseConfig = {
+      apiKey: 'AIzaSyAjFhJZi2UVZW1fzcmViaqL5Oi30T0OLQY',
+      authDomain: 'pirate-courses.firebaseapp.com',
+      databaseURL: 'https://pirate-courses-default-rtdb.firebaseio.com',
+      projectId: 'pirate-courses',
+      storageBucket: 'pirate-courses.appspot.com',
+      messagingSenderId: '605851741262',
+      appId: '1:605851741262:web:533054ad33c2c163ec271f',
+    }
+
+    const app = initializeApp(firebaseConfig)
+    const db = getDatabase(app)
+
+    window.firebaseDB = db
+    window.firebaseRef = ref
+    window.firebaseRunTransaction = runTransaction
+    window.firebaseOnValue = onValue
+    window.firebaseGet = get
+  </script>
   <script>
     function updateNewCoursesLink() {
     if ($(window).width() <= 529) {
