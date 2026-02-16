@@ -305,36 +305,23 @@ $(document).ready(function () {
     // Навешиваем обработчик на все кнопки
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
-      const $btn = $(this)
-      const $row = $btn.closest('tr')
-      const courseId = normalizeId($row.find('td:first').text().trim())
-
-      // Если открыт <article>, не показываем таблицу
-      if ($('article:visible').length > 0) {
-        // Только увеличиваем счетчик скачиваний
-        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-        firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
-        return
-      }
-
-      // Иначе показываем таблицу локально
-      const $wrapper = $row.find('.wrapper__results')
-      const $table = $wrapper.find('.results')
-
-      $wrapper.show()
-      $table.empty()
-
-      const links = JSON.parse(decodeURIComponent($btn.data('links')))
-      links.forEach((url) => {
-        $table.append(
-          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
-        )
-        setTimeout(() => window.open(url, '_blank'), 200)
+      let links = JSON.parse(decodeURIComponent($(this).data('links')))
+      links.forEach((url, index) => {
+        setTimeout(() => window.open(url, '_blank'), index * 200)
       })
 
-      // Обновление просмотров в Firebase
-      const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-      firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
+      const title = $(this).closest('tr').find('td:first').text().trim()
+      const courseId = normalizeId(title)
+
+      if (!hasDownloaded(courseId)) {
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+
+        firebaseRunTransaction(countRef, (current) => {
+          return (current || 0) + 1
+        })
+
+        markAsDownloaded(courseId)
+      }
     })
 
     // Режим таблицы
@@ -461,38 +448,24 @@ $(document).ready(function () {
 
     $(document).off('click', '.download-btn')
     $(document).on('click', '.download-btn', function () {
-      const $btn = $(this)
-      const $row = $btn.closest('tr')
-      const courseId = normalizeId($row.find('td:first').text().trim())
-
-      // Если открыт <article>, не показываем таблицу
-      if ($('article:visible').length > 0) {
-        // Только увеличиваем счетчик скачиваний
-        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-        firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
-        return
-      }
-
-      // Иначе показываем таблицу локально
-      const $wrapper = $row.find('.wrapper__results')
-      const $table = $wrapper.find('.results')
-
-      $wrapper.show()
-      $table.empty()
-
-      const links = JSON.parse(decodeURIComponent($btn.data('links')))
-      links.forEach((url) => {
-        $table.append(
-          `<tr><td><a href="${url}" target="_blank">${url}</a></td></tr>`,
-        )
-        setTimeout(() => window.open(url, '_blank'), 200)
+      let links = JSON.parse(decodeURIComponent($(this).data('links')))
+      links.forEach((url, index) => {
+        setTimeout(() => window.open(url, '_blank'), index * 200)
       })
 
-      // Обновление просмотров в Firebase
-      const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
-      firebaseRunTransaction(countRef, (current) => (current || 0) + 1)
-    })
+      const title = $(this).closest('tr').find('td:first').text().trim()
+      const courseId = normalizeId(title)
 
+      if (!hasDownloaded(courseId)) {
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+
+        firebaseRunTransaction(countRef, (current) => {
+          return (current || 0) + 1
+        })
+
+        markAsDownloaded(courseId)
+      }
+    })
   }
 
   // Свернуть категорию
@@ -582,14 +555,13 @@ $(document).ready(function () {
     return result
   }
 
-
   function updateSortUI() {
     $('.sort-alpha button').removeClass('active')
     $(`.sort-alpha button[data-alpha="${sortState.alpha}"]`).addClass('active')
 
     $('.sort-date button').removeClass('active')
     $(`.sort-date button[data-date="${sortState.date ?? 'none'}"]`).addClass(
-      'active'
+      'active',
     )
 
     $('.sort-popularity button').removeClass('active')
@@ -622,8 +594,6 @@ $(document).ready(function () {
     displayResults(sortByCurrent(currentBaseResults))
   })
 
-
-
   // Открытие меню
   $('#menuTab').click(function () {
     $('nav').css('display', function (_, value) {
@@ -635,7 +605,7 @@ $(document).ready(function () {
       marginLeft: '300px',
     })
     $('.wrapper__results, .wrapper__notfound').addClass(
-      'wrapper__results-mobile'
+      'wrapper__results-mobile',
     )
 
     // Когда меню закрывается
@@ -658,7 +628,7 @@ $(document).ready(function () {
         marginLeft: '0',
       })
       $('.wrapper__results, .wrapper__notfound').removeClass(
-        'wrapper__results-mobile'
+        'wrapper__results-mobile',
       )
 
       // Очистка списка и результата
