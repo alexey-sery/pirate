@@ -189,7 +189,7 @@ main {
   width: 100%;
   flex-direction: column;
   justify-content: center;
-  height: calc(100vh - 64px - 100px - 123px - 1rem);
+  height: calc(100vh - 64px - 100px - 123px - 1rem - 38px);
 }
 .sort {
   border: solid 1px black;
@@ -481,4 +481,9 @@ nav details[open] > summary::before {
 }
 .category-row:hover {
   background-color: inherit;
+}
+
+/* Счетчик просмотров */
+.course-views {
+  text-wrap: nowrap;
 }

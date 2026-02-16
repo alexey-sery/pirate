@@ -1,4 +1,32 @@
 $(document).ready(function () {
+  let downloadStats = {}
+
+  const downloadsRef = firebaseRef(firebaseDB, 'downloads')
+
+  firebaseOnValue(downloadsRef, (snapshot) => {
+    downloadStats = snapshot.val() || {}
+
+    displayResults(sortByCurrent(currentBaseResults))
+  })
+
+  function hasDownloaded(courseId) {
+    const downloaded = JSON.parse(
+      localStorage.getItem('downloadedCourses') || '[]',
+    )
+    return downloaded.includes(courseId)
+  }
+
+  function markAsDownloaded(courseId) {
+    const downloaded = JSON.parse(
+      localStorage.getItem('downloadedCourses') || '[]',
+    )
+
+    if (!downloaded.includes(courseId)) {
+      downloaded.push(courseId)
+      localStorage.setItem('downloadedCourses', JSON.stringify(downloaded))
+    }
+  }
+
   let courses = []
   let categoryCourses = {}
   let currentCategory = null
@@ -7,6 +35,7 @@ $(document).ready(function () {
   let sortState = {
     alpha: 'asc', // asc | desc
     date: null, // new | old | null
+    popularity: false,
   }
 
   let code = [
@@ -221,6 +250,13 @@ $(document).ready(function () {
       console.error('Не удалось загрузить некоторые файлы')
     })
 
+  function normalizeId(str) {
+    return str
+      .toLowerCase()
+      .replace(/[.#$\[\]/]/g, '')
+      .trim()
+  }
+
   function displayResults(results, queryLength = 0) {
     lastRenderedCourses = [...results]
 
@@ -244,10 +280,13 @@ $(document).ready(function () {
 
       const linksDataCourse = encodeURIComponent(linksData)
 
+      const views = downloadStats[normalizeId(result.title)] || 0
+
       $results.append(`
         <tr>
           <td>${result.title}</td>
-          <td>          
+          <td>
+            <div class="course-views">👁 ${views}</div>
             <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
               class="favorite-btn ${isFav ? 'active' : ''}"
               data-title="${result.title}"
@@ -270,6 +309,19 @@ $(document).ready(function () {
       links.forEach((url, index) => {
         setTimeout(() => window.open(url, '_blank'), index * 200)
       })
+
+      const title = $(this).closest('tr').find('td:first').text().trim()
+      const courseId = normalizeId(title)
+
+      if (!hasDownloaded(courseId)) {
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+
+        firebaseRunTransaction(countRef, (current) => {
+          return (current || 0) + 1
+        })
+
+        markAsDownloaded(courseId)
+      }
     })
 
     // Режим таблицы
@@ -357,13 +409,13 @@ $(document).ready(function () {
           const linksData = Array.isArray(course.url)
             ? JSON.stringify(course.url)
             : JSON.stringify([course.url])
-
           const linksDataCourse = encodeURIComponent(linksData)
 
-          $newTableBody.append(`
+          const $row = $(`
           <tr class="${categoryId}">
             <td>${course.title}</td>
             <td>
+              <div class="course-views">👁 0</div>
               <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
               class="favorite-btn ${isFav ? 'active' : ''}"
                 data-title="${course.title}"
@@ -376,7 +428,21 @@ $(document).ready(function () {
               </button>
             </td>
           </tr>
-        `)
+          `)
+
+          $newTableBody.append($row)
+
+          const courseId = normalizeId(course.title)
+          const viewsRef = window.firebaseRef(
+            window.firebaseDB,
+            'downloads/' + courseId,
+          )
+
+          window.firebaseOnValue(viewsRef, (snapshot) => {
+            const count = snapshot.val() || 0
+            $row.find('.course-views').text(`👁 ${count}`)
+            downloadStats[courseId] = count
+          })
         })
       })
 
@@ -386,6 +452,19 @@ $(document).ready(function () {
       links.forEach((url, index) => {
         setTimeout(() => window.open(url, '_blank'), index * 200)
       })
+
+      const title = $(this).closest('tr').find('td:first').text().trim()
+      const courseId = normalizeId(title)
+
+      if (!hasDownloaded(courseId)) {
+        const countRef = firebaseRef(firebaseDB, 'downloads/' + courseId)
+
+        firebaseRunTransaction(countRef, (current) => {
+          return (current || 0) + 1
+        })
+
+        markAsDownloaded(courseId)
+      }
     })
   }
 
@@ -445,22 +524,37 @@ $(document).ready(function () {
     let result = [...data]
 
     result.sort((a, b) => {
+      const aId = normalizeId(a.title)
+      const bId = normalizeId(b.title)
+
+      // Популярность
+      if (sortState.popularity) {
+        const popDiff = (downloadStats[bId] || 0) - (downloadStats[aId] || 0)
+        if (popDiff !== 0) return popDiff
+      }
+
+      // Дата
       if (sortState.date) {
         const yearA = extractYear(a.title)
         const yearB = extractYear(b.title)
-
         if (yearA !== yearB) {
           return sortState.date === 'new' ? yearB - yearA : yearA - yearB
         }
       }
 
-      return sortState.alpha === 'asc'
-        ? a.title.localeCompare(b.title)
-        : b.title.localeCompare(a.title)
+      // Алфавит
+      if (sortState.alpha) {
+        return sortState.alpha === 'asc'
+          ? a.title.localeCompare(b.title)
+          : b.title.localeCompare(a.title)
+      }
+
+      return 0 // если ничего не выбрано, оставить порядок как есть
     })
 
     return result
   }
+
 
   function updateSortUI() {
     $('.sort-alpha button').removeClass('active')
@@ -469,6 +563,11 @@ $(document).ready(function () {
     $('.sort-date button').removeClass('active')
     $(`.sort-date button[data-date="${sortState.date ?? 'none'}"]`).addClass(
       'active'
+    )
+
+    $('.sort-popularity button').removeClass('active')
+    $(`.sort-popularity button[data-pop="${sortState.popularity}"]`).addClass(
+      'active',
     )
 
     $('#mobileSort').css('color', 'black')
@@ -483,6 +582,15 @@ $(document).ready(function () {
   $('.sort-date button').on('click', function () {
     const value = $(this).data('date')
     sortState.date = value === 'none' ? null : value
+    updateSortUI()
+    displayResults(sortByCurrent(currentBaseResults))
+  })
+
+  $(document).on('click', '.sort-popularity [data-pop]', function () {
+    const value = $(this).data('pop') === true
+
+    sortState.popularity = value
+
     updateSortUI()
     displayResults(sortByCurrent(currentBaseResults))
   })
@@ -600,10 +708,11 @@ $(document).ready(function () {
       const linksData = JSON.stringify(course.url)
       const linksDataCourse = encodeURIComponent(linksData)
 
-      $favTable.append(`
+      const $row = $(`
       <tr>
         <td>${course.title}</td>
         <td>
+          <div class="course-views">👁 0</div>
           <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
             class="favorite-btn active"
             data-title="${course.title}"
@@ -618,6 +727,20 @@ $(document).ready(function () {
         </td>
       </tr>
     `)
+
+      $favTable.append($row)
+
+      const courseId = normalizeId(course.title)
+      const viewsRef = window.firebaseRef(
+        window.firebaseDB,
+        'downloads/' + courseId,
+      )
+
+      window.firebaseOnValue(viewsRef, (snapshot) => {
+        const count = snapshot.val() || 0
+        $row.find('.course-views').text(`👁 ${count}`)
+        downloadStats[courseId] = count
+      })
     })
 
     toggleEmptyMessage()

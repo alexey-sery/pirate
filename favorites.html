@@ -61,6 +61,35 @@
       <img src="images/tg.png" alt="">
     </a>
     <img src="images/top.png" alt="" class="top">
+    <script type="module">
+      import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-app.js'
+      import {
+        getDatabase,
+        ref,
+        runTransaction,
+        onValue,
+        get,
+      } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-database.js'
+
+      const firebaseConfig = {
+        apiKey: 'AIzaSyAjFhJZi2UVZW1fzcmViaqL5Oi30T0OLQY',
+        authDomain: 'pirate-courses.firebaseapp.com',
+        databaseURL: 'https://pirate-courses-default-rtdb.firebaseio.com',
+        projectId: 'pirate-courses',
+        storageBucket: 'pirate-courses.appspot.com',
+        messagingSenderId: '605851741262',
+        appId: '1:605851741262:web:533054ad33c2c163ec271f',
+      }
+
+      const app = initializeApp(firebaseConfig)
+      const db = getDatabase(app)
+
+      window.firebaseDB = db
+      window.firebaseRef = ref
+      window.firebaseRunTransaction = runTransaction
+      window.firebaseOnValue = onValue
+      window.firebaseGet = get
+    </script>
     <script src="scripts/header.js" defer></script>
     <script src="scripts/menu.js" defer></script>
     <script src="scripts/top.js" defer></script>

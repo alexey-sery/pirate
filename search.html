@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -19,22 +19,48 @@
       type="text/css"
     />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-      <!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();
-   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      ;(function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            ;(m[i].a = m[i].a || []).push(arguments)
+          }
+        m[i].l = 1 * new Date()
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return
+          }
+        }
+        ;((k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a))
+      })(
+        window,
+        document,
+        'script',
+        'https://mc.yandex.ru/metrika/tag.js',
+        'ym',
+      )
 
-   ym(96890812, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/96890812" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+      ym(96890812, 'init', {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+      })
+    </script>
+    <noscript
+      ><div>
+        <img
+          src="https://mc.yandex.ru/watch/96890812"
+          style="position: absolute; left: -9999px"
+          alt=""
+        /></div
+    ></noscript>
+    <!-- /Yandex.Metrika counter -->
   </head>
   <body>
     <div class="preloader">
@@ -49,9 +75,9 @@
           <span id="clearSearch">&times;</span>
         </div>
         <a href="https://t.me/pirate_courses_news" target="_blank" class="tg">
-          <img src="images/tg.png" alt="">
+          <img src="images/tg.png" alt="" />
         </a>
-        <img src="images/top.png" alt="" class="top">
+        <img src="images/top.png" alt="" class="top" />
       </div>
       <main>
         <nav>
@@ -72,18 +98,30 @@
               <div data-category="Маркетинг и реклама">Маркетинг и реклама</div>
               <div data-category="Музыка">Музыка</div>
               <div data-category="Нейросети">Нейросети</div>
-              <div data-category="Пикап, искусство соблазнения">Пикап, искусство соблазнения</div>
-              <div data-category="Покер, ставки, казино">Покер, ставки, казино</div>
-              <div data-category="Программирование и сайтостроение">Программирование и сайтостроение</div>
-              <div data-category="Психология и саморазвитие">Психология и саморазвитие</div>
+              <div data-category="Пикап, искусство соблазнения">
+                Пикап, искусство соблазнения
+              </div>
+              <div data-category="Покер, ставки, казино">
+                Покер, ставки, казино
+              </div>
+              <div data-category="Программирование и сайтостроение">
+                Программирование и сайтостроение
+              </div>
+              <div data-category="Психология и саморазвитие">
+                Психология и саморазвитие
+              </div>
               <div data-category="Путешествия">Путешествия</div>
-              <div data-category="Ремонт и строительство">Ремонт и строительство</div>
+              <div data-category="Ремонт и строительство">
+                Ремонт и строительство
+              </div>
               <div data-category="Сделай сам">Сделай сам</div>
               <div data-category="Схемы заработка">Схемы заработка</div>
               <div data-category="SEO & SMM">SEO & SMM</div>
               <div data-category="Фото и видео">Фото и видео</div>
               <div data-category="Фриланс">Фриланс</div>
-              <div data-category="Хакинг и кибербезопасность">Хакинг и кибербезопасность</div>
+              <div data-category="Хакинг и кибербезопасность">
+                Хакинг и кибербезопасность
+              </div>
               <div data-category="Эзотерика">Эзотерика</div>
             </div>
           </div>
@@ -104,48 +142,67 @@
                 <button data-date="old">старые</button>
               </div>
             </div>
+            <div class="sort__container sort-popularity">
+              <p>По популярности</p>
+              <div class="sort__container-items">
+                <button data-pop="false">–</button>
+                <button data-pop="true">+</button>
+              </div>
+            </div>
           </div>
           <details class="mobile-categories">
-              <summary id="mobileSummary">Категория</summary>
-              <div id="mobileListCourses">
-                <div data-category="3D-моделирование">3D-моделирование</div>
-                <div data-category="Арбитраж Трафика">Арбитраж Трафика</div>
-                <div data-category="Бизнес">Бизнес</div>
-                <div data-category="Дети и родители">Дети и родители</div>
-                <div data-category="Дизайн и живопись">Дизайн и живопись</div>
-                <div data-category="Другое">Другое</div>
-                <div data-category="Здоровье и спорт">Здоровье и спорт</div>
-                <div data-category="Имидж и стиль">Имидж и стиль</div>
-                <div data-category="Инвестиции и форекс">Инвестиции и форекс</div>
-                <div data-category="Иностранные языки">Иностранные языки</div>
-                <div data-category="Кулинария">Кулинария</div>
-                <div data-category="Маркетинг и реклама">Маркетинг и реклама</div>
-                <div data-category="Музыка">Музыка</div>
-                <div data-category="Нейросети">Нейросети</div>
-                <div data-category="Пикап, искусство соблазнения">Пикап, искусство соблазнения</div>
-                <div data-category="Покер, ставки, казино">Покер, ставки, казино</div>
-                <div data-category="Программирование и сайтостроение">Программирование и сайтостроение</div>
-                <div data-category="Психология и саморазвитие">Психология и саморазвитие</div>
-                <div data-category="Путешествия">Путешествия</div>
-                <div data-category="Ремонт и строительство">Ремонт и строительство</div>
-                <div data-category="Сделай сам">Сделай сам</div>
-                <div data-category="Схемы заработка">Схемы заработка</div>
-                <div data-category="SEO & SMM">SEO & SMM</div>
-                <div data-category="Фото и видео">Фото и видео</div>
-                <div data-category="Фриланс">Фриланс</div>
-                <div data-category="Хакинг и кибербезопасность">Хакинг и кибербезопасность</div>
-                <div data-category="Эзотерика">Эзотерика</div>
+            <summary id="mobileSummary">Категория</summary>
+            <div id="mobileListCourses">
+              <div data-category="3D-моделирование">3D-моделирование</div>
+              <div data-category="Арбитраж Трафика">Арбитраж Трафика</div>
+              <div data-category="Бизнес">Бизнес</div>
+              <div data-category="Дети и родители">Дети и родители</div>
+              <div data-category="Дизайн и живопись">Дизайн и живопись</div>
+              <div data-category="Другое">Другое</div>
+              <div data-category="Здоровье и спорт">Здоровье и спорт</div>
+              <div data-category="Имидж и стиль">Имидж и стиль</div>
+              <div data-category="Инвестиции и форекс">Инвестиции и форекс</div>
+              <div data-category="Иностранные языки">Иностранные языки</div>
+              <div data-category="Кулинария">Кулинария</div>
+              <div data-category="Маркетинг и реклама">Маркетинг и реклама</div>
+              <div data-category="Музыка">Музыка</div>
+              <div data-category="Нейросети">Нейросети</div>
+              <div data-category="Пикап, искусство соблазнения">
+                Пикап, искусство соблазнения
               </div>
+              <div data-category="Покер, ставки, казино">
+                Покер, ставки, казино
+              </div>
+              <div data-category="Программирование и сайтостроение">
+                Программирование и сайтостроение
+              </div>
+              <div data-category="Психология и саморазвитие">
+                Психология и саморазвитие
+              </div>
+              <div data-category="Путешествия">Путешествия</div>
+              <div data-category="Ремонт и строительство">
+                Ремонт и строительство
+              </div>
+              <div data-category="Сделай сам">Сделай сам</div>
+              <div data-category="Схемы заработка">Схемы заработка</div>
+              <div data-category="SEO & SMM">SEO & SMM</div>
+              <div data-category="Фото и видео">Фото и видео</div>
+              <div data-category="Фриланс">Фриланс</div>
+              <div data-category="Хакинг и кибербезопасность">
+                Хакинг и кибербезопасность
+              </div>
+              <div data-category="Эзотерика">Эзотерика</div>
+            </div>
           </details>
           <details class="mobile-sort">
             <summary id="mobileSort">Сортировка</summary>
             <div>
               <div class="sort__container sort-alpha">
-              <p>По алфавиту</p>
-              <div class="sort__container-items">
-                <button data-alpha="asc">А–Я</button>
-                <button data-alpha="desc">Я–А</button>
-              </div>
+                <p>По алфавиту</p>
+                <div class="sort__container-items">
+                  <button data-alpha="asc">А–Я</button>
+                  <button data-alpha="desc">Я–А</button>
+                </div>
               </div>
               <div class="sort__container sort-date">
                 <p>По дате</p>
@@ -153,6 +210,13 @@
                   <button data-date="none">–</button>
                   <button data-date="new">новые</button>
                   <button data-date="old">старые</button>
+                </div>
+              </div>
+              <div class="sort__container sort-popularity">
+                <p>По популярности</p>
+                <div class="sort__container-items">
+                  <button data-pop="false">–</button>
+                  <button data-pop="true">+</button>
                 </div>
               </div>
             </div>
@@ -163,27 +227,67 @@
           <table id="results"></table>
         </div>
         <article>
-            <p>Поиск по ключевым словам (от 3-х символов). Заказ/обновление 404 ссылок <a href="https://t.me/async_code">@async_code</a></p>
-            <a href="manual.html#help_1" target="_blank" style="text-align: center;">Как пользоваться поиском</a>
-            <span id="titleCount"></span>
-          </article>
-        <p class="wrapper__notfound"><span>Ничего не найдено 😭</span><br>
-        Убедитесь, что все слова написаны без ошибок.<br>
-        Попробуйте использовать другие ключевые слова или уменьшить кол-во слов в запросе</p>
+          <p>
+            Поиск по ключевым словам (от 3-х символов). Заказ/обновление 404
+            ссылок <a href="https://t.me/async_code">@async_code</a>
+          </p>
+          <a
+            href="manual.html#help_1"
+            target="_blank"
+            style="text-align: center"
+            >Как пользоваться поиском</a
+          >
+          <span id="titleCount"></span>
+        </article>
+        <p class="wrapper__notfound">
+          <span>Ничего не найдено 😭</span><br />
+          Убедитесь, что все слова написаны без ошибок.<br />
+          Попробуйте использовать другие ключевые слова или уменьшить кол-во
+          слов в запросе
+        </p>
       </main>
     </div>
+    <script type="module">
+      import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-app.js'
+      import {
+        getDatabase,
+        ref,
+        runTransaction,
+        onValue,
+        get,
+      } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-database.js'
+
+      const firebaseConfig = {
+        apiKey: 'AIzaSyAjFhJZi2UVZW1fzcmViaqL5Oi30T0OLQY',
+        authDomain: 'pirate-courses.firebaseapp.com',
+        databaseURL: 'https://pirate-courses-default-rtdb.firebaseio.com',
+        projectId: 'pirate-courses',
+        storageBucket: 'pirate-courses.appspot.com',
+        messagingSenderId: '605851741262',
+        appId: '1:605851741262:web:533054ad33c2c163ec271f',
+      }
+
+      const app = initializeApp(firebaseConfig)
+      const db = getDatabase(app)
+
+      window.firebaseDB = db
+      window.firebaseRef = ref
+      window.firebaseRunTransaction = runTransaction
+      window.firebaseOnValue = onValue
+      window.firebaseGet = get
+    </script>
     <script src="scripts/header.js" defer></script>
     <script src="scripts/search.js" defer></script>
     <script src="scripts/top.js" defer></script>
     <script src="scripts/menu.js" defer></script>
     <script>
       window.onload = () => {
-        document.body.classList.add("loaded__hiding");
+        document.body.classList.add('loaded__hiding')
         window.setTimeout(() => {
-          document.body.classList.add("loaded");
-          document.body.classList.remove("loaded__hiding");
-        }, 500);
-      };
+          document.body.classList.add('loaded')
+          document.body.classList.remove('loaded__hiding')
+        }, 500)
+      }
     </script>
   </body>
 </html>
