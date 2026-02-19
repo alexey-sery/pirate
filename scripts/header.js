@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $('.preloader').after(`
-      <div id="snow"></div>
+      <!--<div id="snow"></div>-->
       <div class="nav">
         <div class="nav__items">
           <a href="/">
