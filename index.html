@@ -95,11 +95,10 @@ fill="white" stroke="none">
   </div>
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-app.js'
-    import {
+   import {
       getDatabase,
       ref,
       runTransaction,
-      onValue,
       get,
     } from 'https://www.gstatic.com/firebasejs/12.9.0/firebase-database.js'
 
@@ -119,7 +118,6 @@ fill="white" stroke="none">
     window.firebaseDB = db
     window.firebaseRef = ref
     window.firebaseRunTransaction = runTransaction
-    window.firebaseOnValue = onValue
     window.firebaseGet = get
   </script>
   <script>

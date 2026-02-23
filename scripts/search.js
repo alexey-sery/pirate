@@ -3,11 +3,16 @@ $(document).ready(function () {
 
   const downloadsRef = firebaseRef(firebaseDB, 'downloads')
 
-  firebaseOnValue(downloadsRef, (snapshot) => {
+  firebaseGet(downloadsRef).then((snapshot) => {
     downloadStats = snapshot.val() || {}
-
-    //displayResults(sortByCurrent(currentBaseResults))
+    displayResults(sortByCurrent(currentBaseResults))
   })
+
+  // firebaseOnValue(downloadsRef, (snapshot) => {
+  //   downloadStats = snapshot.val() || {}
+
+  //   displayResults(sortByCurrent(currentBaseResults))
+  // })
 
   function hasDownloaded(courseId) {
     const downloaded = JSON.parse(
@@ -432,16 +437,29 @@ $(document).ready(function () {
 
           $newTableBody.append($row)
 
-          const courseId = normalizeId(course.title)
-          const viewsRef = window.firebaseRef(
-            window.firebaseDB,
-            'downloads/' + courseId,
-          )
+          // const courseId = normalizeId(course.title)
+          // const viewsRef = window.firebaseRef(
+          //   window.firebaseDB,
+          //   'downloads/' + courseId,
+          // )
 
-          window.firebaseOnValue(viewsRef, (snapshot) => {
-            const count = snapshot.val() || 0
-            $row.find('.course-views').text(`👁 ${count}`)
-            downloadStats[courseId] = count
+          // window.firebaseOnValue(viewsRef, (snapshot) => {
+          //   const count = snapshot.val() || 0
+          //   $row.find('.course-views').text(`👁 ${count}`)
+          //   downloadStats[courseId] = count
+          // })
+        })
+
+        firebaseGet(downloadsRef).then((snapshot) => {
+          downloadStats = snapshot.val() || {}
+
+          $('.course-views').each(function () {
+            const $views = $(this)
+            const title = $views.closest('tr').find('td:first').text().trim()
+            const courseId = normalizeId(title)
+
+            const count = downloadStats[courseId] || 0
+            $views.text(`👁 ${count}`)
           })
         })
       })
@@ -727,20 +745,33 @@ $(document).ready(function () {
 
       $favTable.append($row)
 
-      const courseId = normalizeId(course.title)
-      const viewsRef = window.firebaseRef(
-        window.firebaseDB,
-        'downloads/' + courseId,
-      )
+      // const courseId = normalizeId(course.title)
+      // const viewsRef = window.firebaseRef(
+      //   window.firebaseDB,
+      //   'downloads/' + courseId,
+      // )
 
-      window.firebaseOnValue(viewsRef, (snapshot) => {
-        const count = snapshot.val() || 0
-        $row.find('.course-views').text(`👁 ${count}`)
-        downloadStats[courseId] = count
-      })
+      // window.firebaseOnValue(viewsRef, (snapshot) => {
+      //   const count = snapshot.val() || 0
+      //   $row.find('.course-views').text(`👁 ${count}`)
+      //   downloadStats[courseId] = count
+      // })
     })
 
     toggleEmptyMessage()
+
+    firebaseGet(downloadsRef).then((snapshot) => {
+      downloadStats = snapshot.val() || {}
+
+      $('.course-views').each(function () {
+        const $views = $(this)
+        const title = $views.closest('tr').find('td:first').text().trim()
+        const courseId = normalizeId(title)
+
+        const count = downloadStats[courseId] || 0
+        $views.text(`👁 ${count}`)
+      })
+    })
   }
 
   renderFavorites()
