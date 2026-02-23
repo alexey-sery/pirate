@@ -5,14 +5,11 @@ $(document).ready(function () {
 
   firebaseGet(downloadsRef).then((snapshot) => {
     downloadStats = snapshot.val() || {}
+
     displayResults(sortByCurrent(currentBaseResults))
+    displayNewCourses(newCourses)
+    renderFavorites()
   })
-
-  // firebaseOnValue(downloadsRef, (snapshot) => {
-  //   downloadStats = snapshot.val() || {}
-
-  //   displayResults(sortByCurrent(currentBaseResults))
-  // })
 
   function hasDownloaded(courseId) {
     const downloaded = JSON.parse(
@@ -416,11 +413,13 @@ $(document).ready(function () {
             : JSON.stringify([course.url])
           const linksDataCourse = encodeURIComponent(linksData)
 
+          const views = downloadStats[normalizeId(course.title)] || 0
+          
           const $row = $(`
           <tr class="${categoryId}">
             <td>${course.title}</td>
             <td>
-              <div class="course-views">👁 0</div>
+              <div class="course-views">👁 ${views}</div>
               <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
               class="favorite-btn ${isFav ? 'active' : ''}"
                 data-title="${course.title}"
@@ -436,31 +435,6 @@ $(document).ready(function () {
           `)
 
           $newTableBody.append($row)
-
-          // const courseId = normalizeId(course.title)
-          // const viewsRef = window.firebaseRef(
-          //   window.firebaseDB,
-          //   'downloads/' + courseId,
-          // )
-
-          // window.firebaseOnValue(viewsRef, (snapshot) => {
-          //   const count = snapshot.val() || 0
-          //   $row.find('.course-views').text(`👁 ${count}`)
-          //   downloadStats[courseId] = count
-          // })
-        })
-
-        firebaseGet(downloadsRef).then((snapshot) => {
-          downloadStats = snapshot.val() || {}
-
-          $('.course-views').each(function () {
-            const $views = $(this)
-            const title = $views.closest('tr').find('td:first').text().trim()
-            const courseId = normalizeId(title)
-
-            const count = downloadStats[courseId] || 0
-            $views.text(`👁 ${count}`)
-          })
         })
       })
 
@@ -723,11 +697,13 @@ $(document).ready(function () {
       const linksData = JSON.stringify(course.url)
       const linksDataCourse = encodeURIComponent(linksData)
 
+      const views = downloadStats[normalizeId(course.title)] || 0
+
       const $row = $(`
       <tr>
         <td>${course.title}</td>
         <td>
-          <div class="course-views">👁 0</div>
+          <div class="course-views">👁 ${views}</div>
           <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg"
             class="favorite-btn active"
             data-title="${course.title}"
@@ -744,34 +720,9 @@ $(document).ready(function () {
     `)
 
       $favTable.append($row)
-
-      // const courseId = normalizeId(course.title)
-      // const viewsRef = window.firebaseRef(
-      //   window.firebaseDB,
-      //   'downloads/' + courseId,
-      // )
-
-      // window.firebaseOnValue(viewsRef, (snapshot) => {
-      //   const count = snapshot.val() || 0
-      //   $row.find('.course-views').text(`👁 ${count}`)
-      //   downloadStats[courseId] = count
-      // })
     })
 
     toggleEmptyMessage()
-
-    firebaseGet(downloadsRef).then((snapshot) => {
-      downloadStats = snapshot.val() || {}
-
-      $('.course-views').each(function () {
-        const $views = $(this)
-        const title = $views.closest('tr').find('td:first').text().trim()
-        const courseId = normalizeId(title)
-
-        const count = downloadStats[courseId] || 0
-        $views.text(`👁 ${count}`)
-      })
-    })
   }
 
   renderFavorites()
