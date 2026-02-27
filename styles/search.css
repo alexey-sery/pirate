@@ -487,3 +487,7 @@ nav details[open] > summary::before {
 .course-views {
   text-wrap: nowrap;
 }
+
+#new tr {
+  max-width: 1350px;
+}
