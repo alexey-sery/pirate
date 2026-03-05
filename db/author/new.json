@@ -616,12 +616,6 @@
     "category": "Программы и скрипты"
   },
   {
-    "title": "[sky.pro] [skyeng] Excel для анализа данных (2021)",
-    "url": "https://cloud.mail.ru/public/vyaQ/J36R9MNcJ",
-    "cloud": "Облако",
-    "category": "Программы и скрипты"
-  },
-  {
     "title": "HypeText - Animated Text & Intro Maker",
     "url": "https://cloud.mail.ru/public/GvC3/hq8aDWxrh",
     "cloud": "Облако",
@@ -2802,13 +2796,13 @@
   {
     "title": "Datacol 4 - универсальный парсер контента для магазинов и соцсетей.",
     "url": "http://disk.yandex.ru/d/_3OKlfle7xOao",
-     "cloud": "Облако",
+    "cloud": "Облако",
     "category": "Программы и скрипты"
   },
   {
     "title": "MailTUX 2 + nulled",
     "url": "http://disk.yandex.ru/d/cuy-Q7Kx8jv8Y",
-     "cloud": "Облако",
+    "cloud": "Облако",
     "category": "Программы и скрипты"
   },
   {
@@ -11371,5 +11365,11 @@
     ],
     "cloud": "Облако",
     "category": "Покер, ставки и казино"
+  },
+  {
+    "title": "[sky.pro] [skyeng] Excel для анализа данных (2021)",
+    "url": "https://cloud.mail.ru/public/vyaQ/J36R9MNcJ",
+    "cloud": "Облако",
+    "category": "Другое"
   }
 ]
