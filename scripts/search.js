@@ -68,6 +68,8 @@ $(document).ready(function () {
     'ZGIvYXV0aG9yL2pvdXJuZXlzLmpzb24=', // Путешествия
     'ZGIvYXV0aG9yL3Bva2VyLmpzb24=', // Покер, ставки, казино
     'ZGIvYXV0aG9yL2FyYml0cmF0aW9uLmpzb24=', // Арбитраж Трафика
+    'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=', // Программы и скрипты
+    'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg==', // Развитие и познание себя
     'ZGIvYXV0aG9yL25ldy5qc29u', // NEW
     'ZGIvYXV0aG9yL2FsbC5qc29u', // all
   ]
@@ -100,6 +102,8 @@ $(document).ready(function () {
     'Путешествия': 'ZGIvYXV0aG9yL2pvdXJuZXlzLmpzb24=',
     'Покер, ставки, казино': 'ZGIvYXV0aG9yL3Bva2VyLmpzb24=',
     'Арбитраж Трафика': 'ZGIvYXV0aG9yL2FyYml0cmF0aW9uLmpzb24=',
+    'Программы и скрипты': 'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=',
+    'Развитие и познание себя': 'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg=='
   }
 
   let files = code.map((file) => atob(file))
