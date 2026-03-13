@@ -112,6 +112,7 @@ table tr td {
 }
 table tr td:first-child {
   user-select: text;
+  overflow-wrap: anywhere;
 }
 table tr td svg {
   cursor: pointer;
