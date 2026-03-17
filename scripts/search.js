@@ -70,6 +70,7 @@ $(document).ready(function () {
     'ZGIvYXV0aG9yL2FyYml0cmF0aW9uLmpzb24=', // Арбитраж Трафика
     'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=', // Программы и скрипты
     'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg==', // Развитие и познание себя
+    'ZGIvYXV0aG9yL3dlYnNpdGVzLmpzb24=', // Создание сайтов
     'ZGIvYXV0aG9yL25ldy5qc29u', // NEW
     'ZGIvYXV0aG9yL2FsbC5qc29u', // all
   ]
@@ -90,8 +91,8 @@ $(document).ready(function () {
     'Музыка': 'ZGIvYXV0aG9yL211c2ljLmpzb24=',
     'Нейросети': 'ZGIvYXV0aG9yL25ldXJvbmV0Lmpzb24=',
     'Пикап, искусство соблазнения': 'ZGIvYXV0aG9yL3BpY2t1cC5qc29u',
-    'Программирование и сайтостроение': 'ZGIvYXV0aG9yL3Byb2dyYW1taW5nLmpzb24=',
-    'Психология и саморазвитие': 'ZGIvYXV0aG9yL3BzeWNob2xvZ3kuanNvbg==',
+    'Программирование и администрирование': 'ZGIvYXV0aG9yL3Byb2dyYW1taW5nLmpzb24=',
+    'Психология': 'ZGIvYXV0aG9yL3BzeWNob2xvZ3kuanNvbg==',
     'Ремонт и строительство': 'ZGIvYXV0aG9yL2NvbnN0cnVjdGlvbi5qc29u',
     'Сделай сам': 'ZGIvYXV0aG9yL0RJWS5qc29u',
     'Схемы заработка': 'ZGIvYXV0aG9yL2Vhcm4uanNvbg==',
@@ -103,7 +104,8 @@ $(document).ready(function () {
     'Покер, ставки, казино': 'ZGIvYXV0aG9yL3Bva2VyLmpzb24=',
     'Арбитраж Трафика': 'ZGIvYXV0aG9yL2FyYml0cmF0aW9uLmpzb24=',
     'Программы и скрипты': 'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=',
-    'Развитие и познание себя': 'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg=='
+    'Развитие и познание себя': 'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg==',
+    'Создание сайтов': 'ZGIvYXV0aG9yL3dlYnNpdGVzLmpzb24='
   }
 
   let files = code.map((file) => atob(file))
