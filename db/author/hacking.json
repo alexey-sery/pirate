@@ -337,12 +337,14 @@
     "category": "Хакинг и кибербезопасность"
   },
   {
-    "title": "[EC-Council] CEH v13. Этичный хакинг и тестирование на проникновение (2024)",
+    "title": "[EC-Council] CEH v13. Этичный хакинг и тестирование на проникновение. Части 1-4 (2024)",
     "url": [
       "https://cloud.mail.ru/public/wt87/N6npidN73",
       "https://cloud.mail.ru/public/efon/T452r5pT1",
       "https://cloud.mail.ru/public/nXEY/4BhNgEc6D",
-      "https://cloud.mail.ru/public/oJPL/8QARmTvk5"
+      "https://cloud.mail.ru/public/oJPL/8QARmTvk5",
+      "https://cloud.mail.ru/public/YN2j/1UTXFnos1",
+      "https://cloud.mail.ru/public/pBeT/PvVpnk6SN"
     ],
     "cloud": "Облако",
     "category": "Хакинг и кибербезопасность"
@@ -458,6 +460,24 @@
   {
     "title": "[Mahmoud Hassan Elsaied] [Udemy] Введение в кибератаки для начинающих (2025)",
     "url": "https://cloud.mail.ru/public/4AFR/jLSApnJEA",
+    "cloud": "Облако",
+    "category": "Хакинг и кибербезопасность"
+  },
+  {
+    "title": "[HTB Academy] Специалист по тестированию на проникновение Hack The Box. Часть 22 (2024)",
+    "url": "https://cloud.mail.ru/public/7oc8/FfsnGqCm8",
+    "cloud": "Облако",
+    "category": "Хакинг и кибербезопасность"
+  },
+  {
+    "title": "[HTB Academy] Младший аналитик по кибербезопасности Hack The Box. Часть 1 (2025)",
+    "url": "https://cloud.mail.ru/public/4DiV/ee9zjMRsV",
+    "cloud": "Облако",
+    "category": "Хакинг и кибербезопасность"
+  },
+  {
+    "title": "[HTB Academy] Специалист по тестированию на проникновение Hack The Box. Часть 21 (2024)",
+    "url": "https://cloud.mail.ru/public/tHUS/QjGZXJxvv",
     "cloud": "Облако",
     "category": "Хакинг и кибербезопасность"
   }
