@@ -1,422 +1,656 @@
 [
   {
-    "title": "[Катя SMMetanova] Что-то на ИИшном. Готовый набор промптов для любой нейросети (2025)",
-    "url": "https://cloud.mail.ru/public/RwDX/daizYNSmx",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Пузат.ру] Нейродоход. Тариф Слушатель (2025)",
-    "url": "https://cloud.mail.ru/public/5u2L/zo1rvQjFE",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Ольга Гонсалес] Блог без лица. Стратегия заработка FACELESS (2025)",
-    "url": "https://cloud.mail.ru/public/j47V/tTCktc7pL",
+    "title": "[priority] Телеграм Корпорация: системный бизнес на продаже схем заработка (2026)",
+    "url": "https://cloud.mail.ru/public/fgeC/Ea9TCVhDg",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Petr009] Мастер Промокод — Большой курс по запуску CPA промокодных проектов (Сайт + Telegram канал) с нуля. Купонный арбитраж (2026)",
-    "url": "https://cloud.mail.ru/public/zLQ1/PLQmST1mg",
+    "title": "[Mike Pritula] [Udemy] Опыт кандидата: как улучшить, карта путешествия, AI (2025)",
+    "url": "https://cloud.mail.ru/public/PoDj/GE1deJabn",
     "cloud": "Облако",
-    "category": "Арбитраж Трафика"
+    "category": "Бизнес"
   },
   {
-    "title": "[Владимир Едалин] [TutorPlace] Яндекс директ (2026)",
-    "url": "https://cloud.mail.ru/public/r9vC/dny6uGEnP",
+    "title": "[Mike Pritula] [Udemy] Как описывать бизнес процессы по BPMN методологии? (2026)",
+    "url": "https://cloud.mail.ru/public/b3PN/h5SDCxkYD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] Как HR создать свой чатбот для сотрудников? (2026)",
+    "url": "https://cloud.mail.ru/public/4YeS/MNUtL5Git",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] People Management MBA управление командой для лидеров (2026)",
+    "url": "https://cloud.mail.ru/public/SVgj/48XQYvZWD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] Директор рекрутинга: управление командой и процессами найма (2025)",
+    "url": "https://cloud.mail.ru/public/AQ5L/Mh2LRGgSD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] Корпоративная культура: создание, внедрение и развитие (2025)",
+    "url": "https://cloud.mail.ru/public/LGb3/nSDRBw8mQ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] Автоматизация сорсинга инструменты скрапинг и AI оценка (2025)",
+    "url": "https://cloud.mail.ru/public/wkL7/AGGQcKJKu",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] HR Маркетинг привлечение кандидатов через digital (2025)",
+    "url": "https://cloud.mail.ru/public/sXQ7/SUDK5YVUB",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Кочанов] [TutorPlace] Project manager (2026)",
+    "url": "https://cloud.mail.ru/public/pbd6/4ZqyhEwrW",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Олег Конюков] [Orex] Подписка на контент Нейросети и Stable Diffusion. Февраль (2026)",
+    "url": "https://cloud.mail.ru/public/Ncn9/XeZGeGdVD",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Евгений Андрианов] Специалист по контекстной рекламе с применением нейросетей (2026)",
+    "url": "https://cloud.mail.ru/public/BFYr/yfmLhbxMd",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Денис Платонов] НейроСтраница ВКонтакте. Вариант 2 (2025)",
+    "url": "https://cloud.mail.ru/public/pQ57/VUPVxqHvz",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Hugency Academy] Реалистичный контент с помощью ИИ. Тариф Стандарт (2026)",
+    "url": "https://cloud.mail.ru/public/jGPz/zsZYQxuVL",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[HTB Academy] Специалист по тестированию на проникновение Hack The Box. Часть 24 (2024)",
+    "url": "https://cloud.mail.ru/public/8t4D/fvXQ3RBm3",
+    "cloud": "Облако",
+    "category": "Хакинг и кибербезопасность"
+  },
+  {
+    "title": "[Александр Воеводов] [TutorPlace] Сканирование объектов (2026)",
+    "url": "https://cloud.mail.ru/public/QstK/3McxoQVL1",
+    "cloud": "Облако",
+    "category": "3D-моделирование"
+  },
+  {
+    "title": "[Степан Христофоров] Unreal by Brickspacer 2.0 (обновленный). Тариф Pro (2026)",
+    "url": "https://cloud.mail.ru/public/5PdQ/BFY5Szobi",
+    "cloud": "Облако",
+    "category": "3D-моделирование"
+  },
+  {
+    "title": "[Лиза Ткачук] Insta Star. Тариф Star (2025)",
+    "url": "https://cloud.mail.ru/public/qBYy/ogaaDDCNy",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Наташа Панфилова] Marketing Science. Тариф Исследователь (2026)",
-    "url": "https://cloud.mail.ru/public/b22H/fHnnd4nzv",
+    "title": "[Ксения Фёдорова] Маркетинговые игры. Тариф Сила группы (2025)",
+    "url": "https://cloud.mail.ru/public/5zw4/Ugw2JU5ne",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Наташа Панфилова] Наука маркетинга 4.0. Уровень Стратег (2025)",
-    "url": "https://cloud.mail.ru/public/24EL/Z4mAA8byN",
+    "title": "[Максим Котёнков] Клуб SEO мясо. Февраль - Март (2026)",
+    "url": "https://cloud.mail.ru/public/WKuB/DKiWcBEPj",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Наташа Панфилова] Наука блогинга. Тариф Бакалавр (2025)",
-    "url": "https://cloud.mail.ru/public/undk/wXGiZ9nuU",
+    "title": "[Светлана Афанасьева] Продающие истории (2026)",
+    "url": "https://cloud.mail.ru/public/otrB/EjXRudLSx",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Luna Boe] Вирусные Shorts без лица - как делать миллионы просмотров по готовой системе (2026)",
-    "url": "https://cloud.mail.ru/public/8FSy/jGrxCVy34",
-    "cloud": "Облако",
-    "category": "SEO & SMM"
-  },
-  {
-    "title": "[Илья Зенькович] [TutorPlace] Авитолог (2026)",
-    "url": "https://cloud.mail.ru/public/L7bk/mkw4hocgd",
-    "cloud": "Облако",
-    "category": "SEO & SMM"
-  },
-  {
-    "title": "[Полина Мальцева] Подросток, который может всё (2025)",
-    "url": "https://cloud.mail.ru/public/HM78/ov5THcQ1f",
-    "cloud": "Облако",
-    "category": "Дети и родители"
-  },
-  {
-    "title": "[Юлия Глушко] Как выводить лексику и грамматику ‌в активную речь‌ ‌с помощью карточек через лексический подход и получать результат сразу на уроке (2026)",
-    "url": "https://cloud.mail.ru/public/wYW8/8aGRZ2j36",
-    "cloud": "Облако",
-    "category": "Дети и родители"
-  },
-  {
-    "title": "[Кристина Козлова] [TutorPlace] Математика 1-11 класс (2026)",
-    "url": "https://cloud.mail.ru/public/uXko/FxiKu1RST",
-    "cloud": "Облако",
-    "category": "Дети и родители"
-  },
-  {
-    "title": "[Кристина Козлова] [TutorPlace] Геометрия 7-11 класс (2026)",
-    "url": "https://cloud.mail.ru/public/pAyd/FoXKdjRUq",
-    "cloud": "Облако",
-    "category": "Дети и родители"
-  },
-  {
-    "title": "[Валентина Паевская] Жизненная подготовка к школе (2018)",
-    "url": "https://cloud.mail.ru/public/zV4E/EJDj8vxZ9",
-    "cloud": "Облако",
-    "category": "Дети и родители"
-  },
-  {
-    "title": "[Дарья Пнева] Клуб иллюстрации «Волшебные миры» (Февраль 2026)",
-    "url": "https://cloud.mail.ru/public/JXhn/GBh4VEzbV",
+    "title": "[Александр Монетов] [TutorPlace] Моушн-дизайнер (2026)",
+    "url": "https://cloud.mail.ru/public/3FsY/tJ7w2aD6s",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[Елена Таткина] Академический рисунок. Развитие (2020)",
-    "url": "https://cloud.mail.ru/public/P6Yz/huEUzURuJ",
+    "title": "[Сергей Курбатов] [enterclass] Букет тюльпанов (2026)",
+    "url": "https://cloud.mail.ru/public/6F9v/96ZFzjFRZ",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[УОМ] Мозг и нейронауки: интегративный подход к поддержанию здоровья мозга и когнитивных функций. Модуль 5. Эмоциональная регуляция (2025)",
-    "url": "https://cloud.mail.ru/public/gTcg/WqXp4Zcx6",
+    "title": "[Александра Калугина] [TutorPlace] Ландшафтный дизайн (2026)",
+    "url": "https://cloud.mail.ru/public/QQZc/9yBYs3MtC",
+    "cloud": "Облако",
+    "category": "Дизайн и живопись"
+  },
+  {
+    "title": "[Егор Москалёв] Ошибки при лечении сколиозов (2026)",
+    "url": "https://cloud.mail.ru/public/3ac7/fbarQbuDW",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Алёна Ковальчук] Настойка для восстановления печени (2026)",
-    "url": "https://cloud.mail.ru/public/7pnD/3dASv5i4y",
+    "title": "[Виктор Блуд] 2 недельный вводный курс (2020)",
+    "url": "https://cloud.mail.ru/public/ETEC/HfLLnVHtz",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Вероника Порсина] О еде: крупы и бобовые (2026)",
-    "url": "https://cloud.mail.ru/public/cCw3/iyx9xTdHQ",
+    "title": "[Виктор Блуд] Армрестлинг без хаоса (2025)",
+    "url": "https://cloud.mail.ru/public/AhiC/QzHyVFA3Y",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Виктория Самира] [nativalife] Сбалансированное питание: мифология и морфология (2026)",
-    "url": "https://cloud.mail.ru/public/mGGb/f2CsVJ8en",
+    "title": "[Гога Тупурия] Курс с одной штангой (2025)",
+    "url": "https://cloud.mail.ru/public/QKHj/VrSWgZ57M",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Оксана Шайн] Exo-фишки (2025)",
-    "url": "https://cloud.mail.ru/public/LEQx/e36fzFeNa",
+    "title": "[Гога Тупурия] Укрепляем ноги дома (2021)",
+    "url": "https://cloud.mail.ru/public/nRGL/MWJgPqD9K",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Олеся Терпугова] Курс по костям черепа и работы с телом (2025)",
-    "url": "https://cloud.mail.ru/public/a738/ZWXJXHFGz",
+    "title": "[Гога Тупурия] Функционал с собственным весом (2022)",
+    "url": "https://cloud.mail.ru/public/54we/sFra4viVb",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Анна Селиверстова] [Центр Практика] Пилатес при работе с внутренними органами: Пищеварительная система (2025)",
-    "url": "https://cloud.mail.ru/public/KYrL/a4va7KcWZ",
+    "title": "[Гога Тупурия] Прокачиваем связки / сила рук (2022)",
+    "url": "https://cloud.mail.ru/public/feEe/BJDgi6jGL",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "Пилатес и работа с внутренними органами: Дыхательная и сердечно-сосудистые системы (2025)",
-    "url": "https://cloud.mail.ru/public/5CWB/5zEkMWRrL",
+    "title": "[Гога Тупурия] Снижение веса (2022)",
+    "url": "https://cloud.mail.ru/public/22fp/fmijmozzz",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Ольга Павлова] Холестерин, гормоны и здоровье (2024)",
-    "url": "https://cloud.mail.ru/public/kXgJ/L6qVE3xw4",
+    "title": "[Гога Тупурия] Набор массы (2022)",
+    "url": "https://cloud.mail.ru/public/afhA/Y5JMGYtD6",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Ольга Павлова] Настроение, память, энергия & гормоны (2024)",
-    "url": "https://cloud.mail.ru/public/9X9K/QuPqvqUdS",
+    "title": "[Виктор Блуд] Курс с гирей / Собственное тело (2022)",
+    "url": "https://cloud.mail.ru/public/KhJF/pU8bcVTc6",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Ольга Павлова, Татьяна Казначеева] Щитовидная железа. Энергия, стройность",
-    "url": "https://cloud.mail.ru/public/abme/C5j59ZJSa",
+    "title": "[Александр Корягин] [Школа атлетизма Виктора Блуда] Базовые упражнения (2025)",
+    "url": "https://cloud.mail.ru/public/tpae/x2QCCyTsD",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Мария Галицкая] Рецепты на Пасху (2026)",
-    "url": "https://cloud.mail.ru/public/JwgJ/PYmwQAdJN",
+    "title": "[Виктор Блуд] Курс на силу и массу 3.0 (2026)",
+    "url": "https://cloud.mail.ru/public/um5q/4b9rTbh5T",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Виктор Блуд] Курс на силу и массу 2.0 (2025)",
+    "url": "https://cloud.mail.ru/public/WuHV/QDxGenRDE",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Сергей Дрознин] Обучение катанию на горных лыжах. Пакет из всех 7 курсов (2026)",
+    "url": "https://cloud.mail.ru/public/u7bT/NX5MySGMW",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Виктор Блуд] Курс на силу и массу (2025)",
+    "url": "https://cloud.mail.ru/public/SSYW/rHEKuwFHC",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Максим Битаров] [Школа атлетизма Виктора Блуда] Крепкие связки (2025)",
+    "url": "https://cloud.mail.ru/public/gwhe/3ddu1AqbR",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Максим Битаров] Домашний армрестлинг с гирей (2026)",
+    "url": "https://cloud.mail.ru/public/CFYL/yssueWaYG",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Максим Битаров] [Школа атлетизма Виктора Блуда] Армрестлинг (2023)",
+    "url": "https://cloud.mail.ru/public/oV74/5tn2z8jRf",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Елена Гондорчин] [5D Regeneration] Секретные технологии (2026)",
+    "url": "https://cloud.mail.ru/public/7FP5/YN7ZcMsnt",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ирина Хисамова] [Клуб ХИВ] Система детоксикации организма (2026)",
+    "url": "https://cloud.mail.ru/public/6qei/7s3CHNqjz",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ксения Караваева (Пушкина)] Выбираю себя (2025)",
+    "url": "https://cloud.mail.ru/public/dT8F/9TNTmjgB3",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Альмир Марванов, Анна Щербина, Михаил Гурьев] [Центр Практика] Активный фасциальный релиз (2025)",
+    "url": "https://cloud.mail.ru/public/T2Jy/2RrA4cxXB",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Евгений Кабацков] [Центр Практика] Core и миофасциальные цепи (2025)",
+    "url": "https://cloud.mail.ru/public/xGgS/F6B2AbG8G",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Анастасия Лунегова] Сборник курсов (2022)",
+    "url": "https://cloud.mail.ru/public/UzZi/jAjN97BLs",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ксения Логвинова] [TutorPlace] Жестовый язык (2026)",
+    "url": "https://cloud.mail.ru/public/MNS9/jC7wD3Msi",
+    "cloud": "Облако",
+    "category": "Иностранные языки"
+  },
+  {
+    "title": "[Ольга Шмукста] [LoveCake] Пироги: сладкая и несладкая выпечка. Тариф Пироги 5 в 1 + Гастробоксы + Пасха (2026)",
+    "url": "https://cloud.mail.ru/public/L8ZD/PrXYkgpQH",
     "cloud": "Облако",
     "category": "Кулинария"
   },
   {
-    "title": "[Екатерина Абрамова] Большой пасхальный курс. Тариф Бизнес Пасха (2026)",
-    "url": "https://cloud.mail.ru/public/HSKg/puqCdf8ft",
+    "title": "[Светлана Маслова] 40 рецептов чатни, мостарда и соусы: вкусная алхимия (2025)",
+    "url": "https://cloud.mail.ru/public/XP5o/sTzx3k1un",
     "cloud": "Облако",
     "category": "Кулинария"
   },
   {
-    "title": "[Мария Арутюнова] Пасхальный сборник 2026 (2026)",
-    "url": "https://cloud.mail.ru/public/hYBu/iTmgP9cpy",
+    "title": "[Никита Климов] [TutorPlace] Этапы отношений (2026)",
+    "url": "https://cloud.mail.ru/public/kQd7/i92hupCsQ",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Пикап, искусство соблазнения"
   },
   {
-    "title": "[Make Cake] Пасхальный курс 2026. Тариф Для себя (2026)",
-    "url": "https://cloud.mail.ru/public/JUvi/rzsqyWexg",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Кристина Лова] [Krislen_cake] Пасхальное чудо 3.0 (2026)",
-    "url": "https://cloud.mail.ru/public/oEq1/HBkR2razT",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Оксана Лобачёва] [vkus_lobacheva] Царские Пасхи (2026)",
-    "url": "https://cloud.mail.ru/public/vYsg/7CTcDooCH",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Xleb.tartin] Молочный ломтик (2026)",
-    "url": "https://cloud.mail.ru/public/TtBi/2brLJoG36",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Xleb.tartin] Львовский сырник (2026)",
-    "url": "https://cloud.mail.ru/public/z7fM/pwaz15bbV",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Анатолий Грищенко] [TutorPlace] Создание музыки в Ableton Live (2026)",
-    "url": "https://cloud.mail.ru/public/AcCv/DpsCyxDi3",
-    "cloud": "Облако",
-    "category": "Музыка"
-  },
-  {
-    "title": "[Константин Сергеев] [TutorPlace] Python для Начинающих (2026)",
-    "url": "https://cloud.mail.ru/public/3VJ1/LvWXXhB7Z",
+    "title": "[Николай Алексеев] [Pixel Perfect] Webflow + Upwork: старт на зарубежном рынке (2025)",
+    "url": "https://cloud.mail.ru/public/zknd/dJQhfTTLe",
     "cloud": "Облако",
     "category": "Программирование и администрирование"
   },
   {
-    "title": "[Арина Веспер] [Vesperfin] VesperfinCode: Поддержка. 12-й поток (2026)",
-    "url": "https://cloud.mail.ru/public/rMqo/GJJwr3V9p",
+    "title": "[Виталий Юшкевич, Олег Мифле, Иван Трушин] [OTUS] Highload Architect (2025)",
+    "url": "https://cloud.mail.ru/public/3g8o/q3cwKJdtM",
     "cloud": "Облако",
     "category": "Программирование и администрирование"
   },
   {
-    "title": "[Akhil Sharma] Golang и искусственный интеллект: мастер-класс по созданию 6 AI-проектов (2026) (ENG)",
-    "url": "https://cloud.mail.ru/public/o9zw/qmKKFtNkx",
+    "title": "[Future People] [Stepik] Python для Excel с библиотекой openpyxl (2025)",
+    "url": "https://cloud.mail.ru/public/nqB6/n5NT1dWoL",
     "cloud": "Облако",
     "category": "Программирование и администрирование"
   },
   {
-    "title": "[Игорь Стурейко, Александр Алфимцев] [proglib.academy] Разработка AI-агентов (2025)",
-    "url": "https://cloud.mail.ru/public/LaFj/7WxaED4Zq",
+    "title": "[Ярослав Щербаков] [TutorPlace] Алгоритмы и структуры данных: продвинутый уровень (2026)",
+    "url": "https://cloud.mail.ru/public/3c7w/t3F7epVAY",
     "cloud": "Облако",
     "category": "Программирование и администрирование"
   },
   {
-    "title": "[Катерина Суратова] [Психоаналитический киноклуб] Разбор фильма «Торт» (2026)",
-    "url": "https://cloud.mail.ru/public/Xovh/bUnoW9ZHa",
+    "title": "[Фёдор Борщёв, Антон Давыдов] [Школа сильных программистов] Коммуникации систем. Пакет Аптечка (2026)",
+    "url": "https://cloud.mail.ru/public/4LxM/n7iHWAw5p",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[HTML Academy] Фронтенд на автопилоте: AI-агенты на практике (2026)",
+    "url": "https://cloud.mail.ru/public/MDnc/ttRKoZPvM",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Aurimas Griciūnas] End-to-End AI-инженерия: Bootcamp (2026) (ENG)",
+    "url": "https://cloud.mail.ru/public/h489/ZRSpFEWMV",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Илья Отькало, Виталий Онянов, Станислав Ганиев] [Cors Academy] Разработка на 1С в 2026 году: нейросети, интеграция, тренды. Тариф Базовый (2026)",
+    "url": "https://cloud.mail.ru/public/6RrR/f3jTGHbpu",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Константин Варнали] [Stepik] Bash-скрипты: магия автоматизации (2026)",
+    "url": "https://cloud.mail.ru/public/bvUY/HLRSfnfqk",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Михаил Саидов] [Академия Экспоненциального коучинга] Экспонента. Поток 13 (2025)",
+    "url": "https://cloud.mail.ru/public/emnS/E9zZfuAJs",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Ольга Скребейко] [Skrebeyko] В обнимку с собой. 7 семь шагов для тонкой настройки состояния (2026)",
-    "url": "https://cloud.mail.ru/public/3RFv/ukrW96CwA",
+    "title": "[Михаил Саидов] [Академия Экспоненциального коучинга] Саморазвитие и осознанность. Лекторий (2025)",
+    "url": "https://cloud.mail.ru/public/giVi/D8XbAzXBZ",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Майя Белова] Королевская энергия. Тариф Зритель (2026)",
-    "url": "https://cloud.mail.ru/public/izpr/4SnsTgoVS",
+    "title": "[Надежда Майн] Зачем мужчинам нужны женщины (2026)",
+    "url": "https://cloud.mail.ru/public/ik2M/17zFkq4VG",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Надежда Майн] Почему и как рушатся семьи (2026)",
-    "url": "https://cloud.mail.ru/public/yxTN/SpEVh5keh",
+    "title": "[Салман Ахтар] [МАПП] Хорошее в человеке: щедрость, благодарность, любопытство, любовь, доброта и счастье (2025)",
+    "url": "https://cloud.mail.ru/public/nk8Q/wHHKtAPWG",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Владимир Макулов] Высокая мужская ценность (2026)",
-    "url": "https://cloud.mail.ru/public/nzQj/BuAPA93HC",
+    "title": "[Inna de Almeida] [Ladies School] Мастер-класс «Существуют ли отношения на расстоянии?» (2026)",
+    "url": "https://cloud.mail.ru/public/qfwT/RxwaHvLze",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Марта Николаева-Гарина] СПА под гипнозом. Глубинная процедура реювенации кожи (2026)",
-    "url": "https://cloud.mail.ru/public/5aJz/Myn8C2HeV",
+    "title": "[Inna de Almeida] [Ladies School] Мастер-класс «5 врагов женственности» (2026)",
+    "url": "https://cloud.mail.ru/public/2WhJ/oMeEVVRvD",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Евгения Харитонова] Душа и разум (2024)",
-    "url": "https://cloud.mail.ru/public/PNQm/HGPeJJWgS",
+    "title": "[Любовь Кузьмина] [Иматон] Цифровой помощник психолога: практика использования искусственного интеллекта в психологическом консультировании (2026)",
+    "url": "https://cloud.mail.ru/public/k6Bb/dxtvizaW9",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Виктор Гусарь] Раскопки 5.0. Апрель (2024)",
-    "url": "https://cloud.mail.ru/public/JYfM/Ebi9m8qPW",
+    "title": "[Inna de Almeida] [Ladies School] Мастер-класс «Как распознать измену в отношениях» или почему мужчина изменяет? (2026)",
+    "url": "https://cloud.mail.ru/public/saVG/DERVwmJDR",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Александр Палиенко] Женщина и её Грани (2026)",
-    "url": "https://cloud.mail.ru/public/eETj/KnJUBY4z6",
+    "title": "[Тата Феодориди] Сексуальное раскрепощение. Как начать получать удовольствие от себя и партнёра (2025)",
+    "url": "https://cloud.mail.ru/public/uHHm/ybz4Yt4g2",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Евгений Теребенин] Факторы родовой системы: любовницы, убийцы, жертвы рода (2026)",
-    "url": "https://cloud.mail.ru/public/fHZQ/wQHxtYUoF",
+    "title": "[Екатерина Любимова] Долго и счастливо (2026)",
+    "url": "https://cloud.mail.ru/public/zA1k/AwY1cfLKj",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Yana Dzhumka] Современный путеводитель по аутизму без ярлыков (2025)",
-    "url": "https://cloud.mail.ru/public/rCY5/J1oL2uAmY",
+    "title": "[Дарья Трутнева] Супервизия PRO Master Kit - 4.0 (2026)",
+    "url": "https://cloud.mail.ru/public/ybXz/GWGoxDYLH",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Алексей Арестович] [Apeiron] Внутренняя честность (2025)",
-    "url": "https://cloud.mail.ru/public/oASM/UMUgZCTUP",
+    "title": "[Алексей Арестович] [Apeiron] Семантическое пространство. Занятие 2 (2026)",
+    "url": "https://cloud.mail.ru/public/5E5z/AwQhYsgSx",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Дина Таинская] [EduNote] Инверсия ролей: парентификация и структура патологического симбиоза (2026)",
-    "url": "https://cloud.mail.ru/public/xct1/g9zLDMyAF",
+    "title": "[Игорь Ледоховский] Серия Гипноз в действии - Метамодель (Часть 2 из 4)",
+    "url": "https://cloud.mail.ru/public/9zZS/FwQDuinnR",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Иван Негреев] Философский читательский клуб. Жан Бодрийяр «Симулякры и симуляция». Часть 3 (2026)",
-    "url": "https://cloud.mail.ru/public/Qi1a/4iBuqq7Hx",
+    "title": "[Logic and Chaos] Логика как фундамент мышления (2025)",
+    "url": "https://cloud.mail.ru/public/vfBK/qKFhNkdhE",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Гордон Винтерфилд] Демоническая магия: три эффективных ритуала для работы с 72-мя демонами (Часть 1 из 2)",
+    "url": "https://cloud.mail.ru/public/qLp5/nwmDErvPX",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Андрей Цыганков] [Идеал-метод] Полная система трансформации мышления (2026)",
+    "url": "https://cloud.mail.ru/public/izZp/stx1xtCEL",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 1 модуль (2020)",
+    "url": "https://cloud.mail.ru/public/kTi3/AR1x8h6tf",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 2 модуль (2020)",
+    "url": "https://cloud.mail.ru/public/wH1R/ks984baRa",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 3 модуль (2021)",
+    "url": "https://cloud.mail.ru/public/YHni/HuecikZgS",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 4 модуль (2021)",
+    "url": "https://cloud.mail.ru/public/vYQ1/WrjQqX74d",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 5 модуль (2021)",
+    "url": "https://cloud.mail.ru/public/Norz/d3aRLCVmj",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[ИПМП им. Б.Д Карвасарского] Когнитивно-поведенческая психотерапия. Шесть ступеней. 6 модуль (2021)",
+    "url": "https://cloud.mail.ru/public/9gvA/3enbJJmqN",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[НИИДПО] Детская психология. Практическая психологическая помощь детям и подросткам (340ч)",
+    "url": "https://cloud.mail.ru/public/dzGF/wfbaYQLdv",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[МИП] Сборная солянка по психологии, подписка на 2024 (2024)",
+    "url": "https://cloud.mail.ru/public/4DT4/RQgBgXpL3",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Константин Михайлов] Новое время: XVI и XVII века. Лекция 5. Империи пороха (2026)",
+    "url": "https://cloud.mail.ru/public/ADas/qMtQjDCPD",
     "cloud": "Облако",
     "category": "Разное"
   },
   {
-    "title": "[Валерия Путинцева-Арданская] [ММОМА] Философия любви: от Платона до СhatGPT. Лекция 3. Труд любить (2026)",
-    "url": "https://cloud.mail.ru/public/84KR/sy7xjNVA4",
+    "title": "[Руслан Темир-Булатов] [TutorPlace] Тайский бокс (2026)",
+    "url": "https://cloud.mail.ru/public/NcwA/Co9LhRYNG",
     "cloud": "Облако",
     "category": "Разное"
   },
   {
-    "title": "[Валерия Путинцева-Арданская] [ММОМА] Философия любви: от Платона до СhatGPT. Лекция 4. Смерть любви (2026)",
-    "url": "https://cloud.mail.ru/public/b1Sp/XEDQEQFDG",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Константин Михайлов] Золотой телец: лекции-игры о церковных финансах. Лекция 2. Собор (2026)",
-    "url": "https://cloud.mail.ru/public/cKbu/g2rJY17Hz",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Иван Негреев] [Точка интеллекта] Китайская философия: от конфуцианства до даосизма. Лекция 21 (2026)",
-    "url": "https://cloud.mail.ru/public/QnVe/v33gBwZHq",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Иван Негреев] [Точка интеллекта] Колдовство и магия в истории религий. Дальний Восток: Китай, Япония, Корея. Лекция 8. Колдовство в синтоизме. Часть 3 (2026)",
-    "url": "https://cloud.mail.ru/public/YNGm/ZbMiHkdTy",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Gerard ODriscoll] [Udemy] Домашняя автоматизация для начинающих: создайте свой собственный умный дом (2026)",
-    "url": "https://cloud.mail.ru/public/tZEX/2Q1i7vSps",
-    "cloud": "Облако",
-    "category": "Ремонт и строительство"
-  },
-  {
-    "title": "[Арина Веспер] [Vesperfin] Онлайн-школа трейдинга. Базовый Стандарт (2025)",
-    "url": "https://cloud.mail.ru/public/GLtY/V725cVeE9",
+    "title": "[Александр Зданович] [TutorPlace] Криптотрейдинг (2026)",
+    "url": "https://cloud.mail.ru/public/rjtY/WxDTzKSkb",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Александр Силаев] Трендовушка-универсалка (2024)",
-    "url": "https://cloud.mail.ru/public/p5ts/tBB3o7cSJ",
+    "title": "[Александр Силаев] Торговая система Трендовушка с хитрушкой (Мануал)",
+    "url": "https://cloud.mail.ru/public/2VME/xwx6Zde4D",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Александр Орлов] [TutorPlace] Монтаж в CapCut (2026)",
-    "url": "https://cloud.mail.ru/public/nHKx/14SnuUskZ",
+    "title": "[Александр Силаев] Торговая Система Моментум на акции (2024)",
+    "url": "https://cloud.mail.ru/public/XmXU/mzoGK4DRA",
+    "cloud": "Облако",
+    "category": "Форекс, трейдинг и инвестиции"
+  },
+  {
+    "title": "[James Dalton] Перевод двух книг James Dalton - Markets in Profile и Mind over Markets",
+    "url": "https://cloud.mail.ru/public/N2fe/4XMk2r9Nj",
+    "cloud": "Облако",
+    "category": "Форекс, трейдинг и инвестиции"
+  },
+  {
+    "title": "[Сергей Гунин] Гуру света. Фильм 8 - Библиотека бликов. Каустика. Смешанный свет (2025)",
+    "url": "https://cloud.mail.ru/public/SPFo/VfSdYUFCm",
     "cloud": "Облако",
     "category": "Фото и видео"
   },
   {
-    "title": "[Влад Череватый] Ключ 2. Глава 2. Пробуждение Силы. Тариф Онлайн в записи (2025)",
-    "url": "https://cloud.mail.ru/public/kjZ8/oi5FSs6P7",
+    "title": "[Сергей Гунин] Гуру света. Финал. Фильм 9 — Фрост-рамы. Нестандартные насадки (2025)",
+    "url": "https://cloud.mail.ru/public/MgvN/gHGhj3MJQ",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Александра Дроздова] New vision. Все про мобильный монтаж и контент 2025 года (2025)",
+    "url": "https://cloud.mail.ru/public/WK1S/L7AUaHzPW",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Елена Саулич] Позирование в купальнике и пляжной одежде (2026)",
+    "url": "https://cloud.mail.ru/public/5yMv/M4pqxJVkE",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Марина Майская] Прорыв 2026. Пакет Премиум (2026)",
+    "url": "https://cloud.mail.ru/public/3rMu/xcDgzm9W6",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
   },
   {
-    "title": "[Влад Череватый] Ключ 5. Глава 5. Незримые нити. Тариф Онлайн в записи (2026)",
-    "url": "https://cloud.mail.ru/public/qrg3/m8yLcjhCc",
+    "title": "[Анна Зайцева] [Mingli] Один цветок - две судьбы (2026)",
+    "url": "https://cloud.mail.ru/public/hDVy/EfpzC5DrZ",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
   },
   {
-    "title": "[Наталья Гедике] Ночь пробуждения Богини Гекаты (21.03.2026)",
-    "url": "https://cloud.mail.ru/public/5nBa/X1iV6Q3Sc",
+    "title": "[Джо Диспенза] Новое мышление - Новая жизнь (2020)",
+    "url": "https://cloud.mail.ru/public/4oHN/3kJBMqA8H",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
   },
   {
-    "title": "[Юдола Белимирова] Скрытые трансформации в карте ЦВДШ (2026)",
-    "url": "https://cloud.mail.ru/public/wP5t/DrxkgQVDV",
+    "title": "[Джо Диспенза] Inspire, Volume 1 - Десять треков для управления дыханием (2023)",
+    "url": "https://cloud.mail.ru/public/fuEz/PJ1yAuHVn",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
   },
   {
-    "title": "[Ирина Иванова] [Магия севера] Как снять сглаз с помощью воды — святой и пролитой (2025)",
-    "url": "https://cloud.mail.ru/public/yK3s/cT3BoJX3R",
+    "title": "[Джо Диспенза] Медитация в Ходьбе 1 (2022)",
+    "url": "https://cloud.mail.ru/public/e5EY/eSQV2h45v",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
   },
   {
-    "title": "[Lively] Структурированный обзор канала Nero Knowledge (2026)",
-    "url": "https://cloud.mail.ru/public/oXYH/83h7H9wcH",
+    "title": "[Джо Диспенза] Медитация: Синхронизируя Свою Энергию со Здоровьем (2022)",
+    "url": "https://cloud.mail.ru/public/oH9G/H2m3mzCp7",
     "cloud": "Облако",
-    "category": "Развитие и познание себя"
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Алексей Волошин] Система «Тотал Пророк» - Беспроигрышная система от 100 000 в месяц!",
+    "url": "https://disk.yandex.ru/d/B5xUE3L6gBJF7",
+    "cloud": "Облако",
+    "category": "Покер, ставки, казино"
+  },
+  {
+    "title": "GolPlyus Turbo 5. Анализ Футбола и хоккея на автомате",
+    "url": "https://cloud.mail.ru/public/Gdii/eQcUwVPpA",
+    "cloud": "Облако",
+    "category": "Покер, ставки, казино"
+  },
+  {
+    "title": "Хоккей (Программа на ИТ, Система Игрока от DexRate, Стратегия StegDan...)",
+    "url": "https://cloud.mail.ru/public/wZbv/T9GAQGRx2",
+    "cloud": "Облако",
+    "category": "Покер, ставки, казино"
+  },
+  {
+    "title": "[Лилия Дроздова] Жакет Эксклюзив (2026)",
+    "url": "https://cloud.mail.ru/public/PWVH/NjZsWBXhw",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Лилия Дроздова] Юбка Годе (2026)",
+    "url": "https://cloud.mail.ru/public/6Yax/ixvWQkFuM",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Ирина Вард] Группа Изюм (ноябрь 2025)",
+    "url": "https://cloud.mail.ru/public/obAe/2Pca4pRTK",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Ирина Вард] Группа Изюм (декабрь 2025)",
+    "url": "https://cloud.mail.ru/public/FVpw/tonscsuq3",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Ирина Вард] Группа Изюм (январь 2026)",
+    "url": "https://cloud.mail.ru/public/zwz3/X8JmYo6Bo",
+    "cloud": "Облако",
+    "category": "Сделай сам"
   }
 ]
