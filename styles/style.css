@@ -176,11 +176,6 @@ button, input {
   border-radius: 0;
   margin-left: .25rem;
 }
-@media screen and (max-width: 357px) {
-  .main__links {
-    display: none;
-  }
-}
 .main__items-count {
   display: flex;
   align-items: baseline;

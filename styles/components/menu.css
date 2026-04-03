@@ -48,6 +48,11 @@
   text-decoration: none;
   color: inherit;
 }
+.menu__container div {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
 .menu__container svg {
   margin-left: 6px;
 }
@@ -59,7 +64,9 @@
 }
 .menu__container:last-child {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
+  gap: 8px;
   border-top: solid 1px black;
   color: #00000050;
   padding: 1rem;

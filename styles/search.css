@@ -475,6 +475,11 @@ nav details[open] > summary::before {
 .category-row.collapsed::before {
   transform: translateY(-50%) rotate(-180deg);
 }
+@media screen and (max-width: 1000px) {
+  #new {
+    margin-bottom: 60px;
+  }
+}
 @media screen and (max-width: 600px) {
   .category-row {
     font-size: 18px;

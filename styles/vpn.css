@@ -76,15 +76,19 @@
 .vpn__items-container__block-links .line {
   border-left: solid 1px var(--color-black);
 }
+.vpn img {
+  border-radius: 500px;
+  max-width: 400px;
+}
 
 @media screen and (max-width: 1024px) {
-  .vpn svg {
+  .vpn img {
     display: none;
   }
 }
 @media screen and (max-width: 768px) {
   .vpntitle p {
-    font-size: 32px;
+    font-size: 26px;
     margin: 20px 0 2rem;
   }
   .vpn__items-container__block:first-child {
