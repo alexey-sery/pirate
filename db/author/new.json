@@ -1,410 +1,4622 @@
 [
   {
-    "title": "[Дамир Халилов] Нейросети 2026",
-    "url": "https://cloud.mail.ru/public/a1K6/gepTEFtEu",
+    "title": "[Денис Швец] [IndigoGo] Онлайн-курс по развитию вашей речи и дикции (2023) (Пароль: S1.SLIV.ONE)",
+    "url": "https://cloud.mail.ru/public/L7Gd/jKSzHboXM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Анисимова] [Formagiclife] Алгоритм «Океан возможностей» (2023)",
+    "url": "https://cloud.mail.ru/public/tsGs/zDFora4mv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Вагин] Как принимать трудные решения? (2021)",
+    "url": "https://cloud.mail.ru/public/Qqe4/AQfX4AAME",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Михаил Петров] [КТЦ Бурхан] Уверенность в себе (2023)",
+    "url": "https://cloud.mail.ru/public/4PGo/1JHx8QYFe",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катрин Форс] Денежный «Форсаж» (Июнь 2022)",
+    "url": "https://cloud.mail.ru/public/UfLb/orRQrfTbW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Фрейман] Интенсив «Магия речи» (2022)",
+    "url": "https://cloud.mail.ru/public/wZLa/7MZSjKLHM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Tony Robbins] Become Unshakeable Challenge (2023)",
+    "url": "https://cloud.mail.ru/public/kKyR/vrijjU467",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Исаева] Роковая женщина (2018)",
+    "url": "https://cloud.mail.ru/public/CYGA/Mew3U6rkN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Зыгмантович] Онлайн-тренинг «Сила воли». Неуклонное движение к цели возможно!",
+    "url": "https://cloud.mail.ru/public/b4Wq/PEBCxMic7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Мамаева] [Puzzlebrain] Мелкая моторика: курс для взрослых (2021)",
+    "url": "https://cloud.mail.ru/public/iJ8e/P17REkn7b",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[И. Мочалов, А. Василёнок] Аллергия и кожные симптомы. Тариф «С Анастасией Василёнок» (2023)",
+    "url": "https://cloud.mail.ru/public/JJmA/ai4wBcf4q",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[CWS] Мини-курс «Как писать смешно» (2023)",
+    "url": "https://cloud.mail.ru/public/ZDLY/A9teWPzsu",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Перукуа] Как реализовать себя, быть успешной и остаться женщиной (2020)",
+    "url": "https://cloud.mail.ru/public/if8i/gfN9JquGw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Цыганков] 30 шагов к ИДЕАЛьной жизни! (2023)",
+    "url": "https://cloud.mail.ru/public/5UYb/zi7WCEbbp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ксения Телешова] «Паразиты в речи» «Сексуальный голос» «Школа блогеров для взрослых» (2020)",
+    "url": "https://cloud.mail.ru/public/AGa7/eYZZb6Zfi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Шитикова] [EMDR SPB] Как найти своё предназначение? Помощь EMDR (2023)",
+    "url": "https://cloud.mail.ru/public/Ka4G/Wz6wWv2eH",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Кравцова] [Edston] Прокрастинация: как начать действовать (2023)",
+    "url": "https://cloud.mail.ru/public/L2uu/Ca1gbvFnN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Половинкина] Звучи собой. Прокачай свой голос (2021)",
+    "url": "https://cloud.mail.ru/public/XhsB/GY7YXDjMG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Хакамада] Версия Себя 2.023 (2022)",
+    "url": "https://cloud.mail.ru/public/tqHM/6dH6KLdCZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Курсы писательского мастерства] Речь литературных героев (2022)",
+    "url": "https://cloud.mail.ru/public/oGsm/STBZed8QJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Курсы писательского мастерства] Как описывать эмоции героев (2022)",
+    "url": "https://cloud.mail.ru/public/pcX5/s6tgiGS2i",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Науменко] Эмоциональный интеллект. Как управлять эмоциями",
+    "url": "https://cloud.mail.ru/public/b9vM/ackLQbtTL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Лилло] Свидание с мечтой (2020)",
+    "url": "https://cloud.mail.ru/public/GKGq/DAPS43dpe",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Комиссарова] [Эволюция] 12 ресурсов (2021)",
+    "url": "https://cloud.mail.ru/public/Ta55/KjehBkkQE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Валерия Фомина] От мечты к цели! (2021)",
+    "url": "https://cloud.mail.ru/public/b9tw/dhZP1uG8C",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[tvoyrestart] Курс по достижению целей «Твой ReStart» (2021)",
+    "url": "https://cloud.mail.ru/public/weLV/hZWC7F8dX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Тати Куренкова] Мастер-класс «Стратегия аутентичности в 2022 году»",
+    "url": "https://cloud.mail.ru/public/i8w8/wnno9JHk7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Горбунова] [Anna ProPsi] Курс «Самооценка» (2020)",
+    "url": "https://cloud.mail.ru/public/QK7c/ukD8x8PfU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Гордон] Как правильно знакомиться (2021)",
+    "url": "https://cloud.mail.ru/public/LvKg/haDh2GMgM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Екатерина Гомзова] [Iznutri] Трансформация мышления (2021)",
+    "url": "https://cloud.mail.ru/public/KwiB/ebhhQz8qQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наталья Козелкова] Речевые технологии. «Заговори, чтобы я тебя увидел!»",
+    "url": "https://cloud.mail.ru/public/739s/14cN8bqyw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наталия Закхайм] [ЛикPro] Деньги. Тариф Базовый (2020)",
+    "url": "https://cloud.mail.ru/public/6msV/Gwp7KkQzm",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Олешко] 5-дневный онлайн интенсив «Открой рот 2.0» (2021)",
+    "url": "https://cloud.mail.ru/public/Kxxk/cMx3VYXj5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Юр] Женский Ресурс",
+    "url": "https://cloud.mail.ru/public/Fr5H/aATWhpH3w",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Поздняков] Самооценка (2021)",
+    "url": "https://cloud.mail.ru/public/xxEz/9QLKwJtVj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Поздняков] Самооценка 2: Общение без разговоров (2021)",
+    "url": "https://cloud.mail.ru/public/mHMR/3hWSTi1vm",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лилия Нилова] Речевые стратегии (2021)",
+    "url": "https://cloud.mail.ru/public/Vb6L/MUsDG8LrU/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Станислав Скворцов] Экспресс-курс «Успеть все за 7 дней» (2020)",
+    "url": "https://cloud.mail.ru/public/M3cW/NW6UodLm5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Соколова] [Udemy] Это все эмоции. Как их понимать и регулировать (2021)",
+    "url": "https://cloud.mail.ru/public/vwHV/pn8aFDK5L",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Денис Швец] [IndigoGo] Онлайн-тренер по развитию речи и дикции (2019)",
+    "url": "https://cloud.mail.ru/public/N9eD/GCseBhWot",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Роберт Сапольски] Как ментальные практики влияют на мозг (2021)",
+    "url": "https://cloud.mail.ru/public/fda8/oK2BCoQkz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Университет карьерного роста] Как найти призвание и продать себя в новую сферу? (2021)",
+    "url": "https://cloud.mail.ru/public/rVUK/mdU89PLq6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Мурадян] [5prism] Мышление богатого коуча (2020)",
+    "url": "https://cloud.mail.ru/public/M1Sj/nEvopR3UB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юра РА] 22 привычки для раскрытия твоего потенциала, расширения сознания и реализации себя",
+    "url": "https://cloud.mail.ru/public/FZDC/QHtEHugBo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Боня] Я-женщина Богиня (2021)",
+    "url": "https://cloud.mail.ru/public/XsZq/di3L9m3by",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юлия Столярова] Искусство маленьких шагов (2020)",
+    "url": "https://cloud.mail.ru/public/pZJW/mznHTBBF1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[deannsssss] Интенсив «Женские роли» (2021)",
+    "url": "https://cloud.mail.ru/public/DmsK/Khm6wh6Wv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Гультяев] Империя (2019)",
+    "url": "https://cloud.mail.ru/public/XXzE/6abaoe36b",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[М.Пелехатый, М.Антончик] Шантаж и провокации в переговорах (2021)",
+    "url": "https://cloud.mail.ru/public/SqvZ/gDvqumMEz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Галина Ткаченко] Урок «Чувство вины» (2021)",
+    "url": "https://cloud.mail.ru/public/xR2D/AyGBRnZa2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Ковалевский] 8 шагов к стройности (2020)",
+    "url": "https://cloud.mail.ru/public/U5xG/dNBQwya3Y",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Харизматик] Построение харизматичного голоса + харизматичный взгляд (2021)",
+    "url": "https://disk.yandex.ru/d/c8BRz_dAQzcRGg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Левченко] Марафон «Уверенная Я» (2021)",
+    "url": "https://cloud.mail.ru/public/6kxg/gNKqP3VM7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вероника Хацкевич] Всё должно быть по нашему или как приручить дракона (2021)",
+    "url": "https://cloud.mail.ru/public/trAR/jGFx3z3RW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Abhishek V R - Ofpad] Быстрые уловки с умственной математикой (2021)",
+    "url": "https://cloud.mail.ru/public/Q2eW/TgaLjPrw6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лина] Гайд «Зажги свою Венеру!» (2021)",
+    "url": "https://cloud.mail.ru/public/35GB/YbcUZzG2y",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алина Солопова] Дневник медитаций (2021)",
+    "url": "https://cloud.mail.ru/public/vTAM/4wfYESVAB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Седа Каспарова] Голос может 2.0 (2019)",
+    "url": "https://cloud.mail.ru/public/bzZ5/ZpGvZCqMg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Мастер-группа «Романтика текстом». Как писать мужчине, чтобы вызывать влюбленность",
+    "url": "https://cloud.mail.ru/public/Em1W/se8foXaLS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[_ritmoo_] Мастермайнд по избавлению от проблем, прокачку внутреннего я, своей энергии и ресурсности (2021)",
+    "url": "https://disk.yandex.ru/d/vJtUb42fMY6qmA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[М. Самарина] Включите режим исполнения мечты с помощью продвинутых техник реализации желаний (2021)",
+    "url": "https://cloud.mail.ru/public/Phci/mqtc2GAhF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гил Бойн] 3 в 1 Супер память, здоровый сон, уверенность в себе (2021)",
+    "url": "https://cloud.mail.ru/public/UNBb/R1p6iqDvW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Красильников] Осваиваем 27 приемов юмора. Хахатор 4 (2021)",
+    "url": "https://cloud.mail.ru/public/TfWY/zV96h6xFn",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Курпатов] Онлайн-курс «Шаг за Шагом» (2021)",
+    "url": "https://cloud.mail.ru/public/u39v/ck1CSSgJs",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Lateral Summer] Как победить страх белого листа (2021)",
+    "url": "https://cloud.mail.ru/public/qaNT/s7kjBHwzc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Матвей Северянин] Марафон Стоицизм (2021)",
+    "url": "https://cloud.mail.ru/public/4WDo/8Pxvw7Jzy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Константин Савкин] [Udemy] Вся жизнь игра: как найти себя и адаптироваться к новому (2021)",
+    "url": "https://cloud.mail.ru/public/c7Gp/VZZJ3SZ84",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Гоголадзе] Женщина и деньги",
+    "url": "https://pixeldrain.com/u/fLf4JsVS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[poli.diarydfood] Карта Желаний. Планируй. Мечтай. Создавай",
+    "url": "https://cloud.mail.ru/public/DrQz/o41tS56QY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Олеся Полканова] Стрип пластика (2021)",
+    "url": "https://cloud.mail.ru/public/3yw7/Sbo93fxZJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Andry__alice] Интенсив «Куда уходит энергия и как войти в ресурсное состояние» (2021)",
+    "url": "https://disk.yandex.ru/d/9d586dz6o-T6Jw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Вадим Стреналюк: Экcпресс – обучение умению учиться (чему угодно) (2021)",
+    "url": "https://cloud.mail.ru/public/bznq/KDZgnB8nW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Ходченков, Алексей Унжаков] Напиши книгу «Ген Богатства» (2020)",
+    "url": "https://cloud.mail.ru/public/2XgN/XG48vAQ9p",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кристина Иваненко] [Level One] Хороший манипулятор: почему важно уметь убеждать людей (2021)",
+    "url": "https://cloud.mail.ru/public/9YgC/7NbeeBUas",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вероника Степанова] Марафон «Деньги и свобода» (2021)",
+    "url": "https://cloud.mail.ru/public/ugNH/wpyqaaJhR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Серега Романович] Воркбук «Отношения» (2021)",
+    "url": "https://wdfiles.ru/0d3d55",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[sb__goddess] Гайд «12 архетипов женщин» (2021)",
+    "url": "https://disk.yandex.ru/d/ZaXSa7U7lSwxLw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Викиум] 12 файлов для саморазвития (2021)",
+    "url": "https://cloud.mail.ru/public/iQYU/3b9dbSZ5L",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Все успевать (Полное обновление 2021)",
+    "url": "https://cloud.mail.ru/public/2TpN/q61gb9fW1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Sigh Energy] Время обновления Мощный Плюс +11x (Очень сильный) (2021)",
+    "url": "https://cloud.mail.ru/public/mero/dbgTkWw19",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Тит Нат Хан] Искусство жить. Гармония и свобода - здесь и сейчас",
+    "url": "https://cloud.mail.ru/public/XZEh/RW4Vk3tKt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Порхун] 108 вопросов и ответов по медитации",
+    "url": "https://cloud.mail.ru/public/k13s/5DDVxQk85",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ника Руд] ОНЛАЙН-ВОРКШОП «голосО.М». Авторская программа расскрытия природного голоса (2021)",
+    "url": "https://cloud.mail.ru/public/kNjT/ZTF6TcJo6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Аблай Юсупов] [Udemy] Soft Skills - главные навыки ХХI века (2021)",
+    "url": "https://cloud.mail.ru/public/AVWC/j3NuVdPWA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[deannsssss] Пакет практик для раскрытия женской энергии и обретения самоценности (2020)",
+    "url": "https://wdfiles.ru/a8e1cc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Федоренко, Илья Качай] Безусловное самопринятие (2021)",
+    "url": "https://cloud.mail.ru/public/bidN/SR6Q2u5h6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нелли Давыдова] Твори Жизнь (2021)",
+    "url": "https://cloud.mail.ru/public/8mcb/qsAtaXk2d",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Andrey Tsarapkin] [Udemy] Как планировать и развивать навыки в 21 веке (2021)",
+    "url": "https://cloud.mail.ru/public/gxVh/rwCDKaqjd",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Andrey Tsarapkin] [Udemy] Как выбрать профессию мечты в 21 веке (2021)",
+    "url": "https://cloud.mail.ru/public/fbMA/86ya8mLrM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Красильников] Хахатор2: тренируем мозг на юмор, умение шутить в моменте и придумывать шутки (2021)",
+    "url": "https://disk.yandex.ru/d/Jbp2XZb6Si-PmA?w=1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лилли Сингх] Неукротимая. Самое дерзкое руководство по уверенности в себе (2021)",
+    "url": "https://wdfiles.ru/aab7fb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Николай Шерстенников] Дом нашего детства. Детские корни взрослых проблем",
+    "url": "https://cloud.mail.ru/public/edCK/thDp5bMnr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Заккери] Нейроактивация удачи (2021)",
+    "url": "https://wdfiles.ru/ff7a28",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Борисов] [Stepik] Как учиться эффективно (2020)",
+    "url": "https://wdfiles.ru/7ee0a1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ксения Шокина] Миллиарды. Самая мощная и полная денежная программа (2021)",
+    "url": "https://cloud.mail.ru/public/7EqV/YDKL7ywP5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Берестнев] Как схватить время за хвост, оседлать и заставить работать на Вас (2021)",
+    "url": "https://wdfiles.ru/e9a99c",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Берестнев] В дружбе с временем (2020)",
+    "url": "https://cloud.mail.ru/public/LrGd/Kt773kvwM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Воронова] Трансовый, выразительный, уверенный голос (2021)",
+    "url": "https://cloud.mail.ru/public/y579/P5n8c7HrN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Берестнев] Мастер Себя 2.0 – Автоматический тренинг (2021)",
+    "url": "https://cloud.mail.ru/public/MYVo/8uGrhJkho",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мэтью Свейгарт] Путь Ци. Энергия жизни в вашем теле. Упражнения и медитации (2019)",
+    "url": "https://cloud.mail.ru/public/mChB/jB2azu9bR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Константин Шереметьев] Трансформация личности 6.0",
+    "url": "https://wdfiles.ru/238cb6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Паук] Чек-лист «Любовь и принятие себя» (2020)",
+    "url": "https://cloud.mail.ru/public/dGzf/oXjZw72KA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Дель Соль] 10 способов победить Ваш страх (2020)",
+    "url": "https://wdfiles.ru/272fcd",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Хара] 64 дара бытия. Путешествие к себе. Книга-медитация (2020)",
+    "url": "https://cloud.mail.ru/public/1qxG/gDcML9joz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Крянева] Ваш голос и невербальная коммуникация. Режиссура речи и развитие голоса",
+    "url": "https://cloud.mail.ru/public/pEKL/VxucKZQZf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ицхак Пинтосевич] Победитель лени (2021)",
+    "url": "https://cloud.mail.ru/public/sgf2/GNbUGdoEv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[naidi.nadu] Планирование жизни. Гайд по планированию (2020)",
+    "url": "https://cloud.mail.ru/public/L4EP/PvRzZJH7u",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Майская] Я - творец своей реальности (2019)",
+    "url": "https://cloud.mail.ru/public/6tFB/rSLGZLxoj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[artforintrovert] Как найти свой путь и понять предназначение (2020)",
+    "url": "https://cloud.mail.ru/public/CFTZ/kr2yEjwNW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] Улучшайзер экспресс (2020)",
+    "url": "https://cloud.mail.ru/public/2ybx/BkEAAEHV4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] [Сила Воли] Юмор.Stand Up 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/xw83/JPd4dABhg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кристина Иваненко] Как мы развиваемся: научный взгляд (2020)",
+    "url": "https://cloud.mail.ru/public/Qe7H/8DvFHXzTZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Оксана Алексеева] Любовь к себе (2020)",
+    "url": "https://cloud.mail.ru/public/zmYR/m5ZejG99o",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[olja_help] Гайд «Как вернуть уверенность в себе в нужный момент» (2020)",
+    "url": "https://wdfiles.ru/e687df",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Илья Качай] Как выйти из созависимых отношений и перестать бояться быть брошенным? (2021)",
+    "url": "https://cloud.mail.ru/public/By1w/Y4ntFE3Ef",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Makkitina] Денежный марафон «В погоне за благополучием. Как успеть стать богатым» (2020)",
+    "url": "https://disk.yandex.ru/d/CXVkl8T-7vqh5g?w=1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Олеся Власова] Создай себя заново. Ежегодный рывок (2020)",
+    "url": "https://cloud.mail.ru/public/ri5n/VvkSircXc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[stasya.miss] Cвидание с собой (2020)",
+    "url": "https://cloud.mail.ru/public/hCgt/m9eKrYkwi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Матвей Северянин] Марафон. Путь к победе. Возьми свою жизнь под контроль. Поток V (2020)",
+    "url": "https://cloud.mail.ru/public/7R51/9WwfonvN2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Цыганков] Денежный подъем! Лекция 1 (2020)",
+    "url": "https://cloud.mail.ru/public/yoCA/FqunCj897",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Богданов] Цикл Успеха (2020)",
+    "url": "https://cloud.mail.ru/public/wtGw/Lv6hHNkWN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Станислав Матвеев] Суперпамять на 100%. От рекордсмена России по памяти (2020)",
+    "url": "https://drive.google.com/drive/folders/1OOh0xzbttyTzjVZ2XkXUgayrcoDn-34o",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Университет Синегрия] Brain 2020 | Конференция о мозге и мышлении (2020)",
+    "url": "https://cloud.mail.ru/public/gEWW/bXnp4Ftsq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Peruquois / Перукуа] Как выйти из под влияния страха",
+    "url": "https://cloud.mail.ru/public/eBWn/fSTCZCFeB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Яр Громов] Основы денежного мышления (2020) (Пароль: boominfo.org)",
+    "url": "https://cloud.mail.ru/public/YWDm/RDPUSTsJU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Робин Шарма] Герой, Гений, Легенда",
+    "url": "https://cloud.mail.ru/public/1Ka4/MRp1E9WSP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Тимур Кадыров] ИгроРум (2020)",
+    "url": "https://cloud.mail.ru/public/23KW/4ydS4Arod",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[СКИ] Действенные медитации (2020)",
+    "url": "https://cloud.mail.ru/public/7CBR/5AmpDqeZV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мастерская счастливой судьбы] Как преодолеть зависание в соцсетях и другие зависимости (2020)",
+    "url": "https://cloud.mail.ru/public/rdev/3xnKmcQ2R",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Конфликты: как оценивать и решать споры любого уровня (2020)",
+    "url": "https://cloud.mail.ru/public/5iFC/3kshAJtM7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Юрковская] Базовый курс личной эффективности и достижения целей (2020)",
+    "url": "https://cloud.mail.ru/public/5xc2/VCN9a5g1V",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Майская] Притяжение денег 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/uaBq/jYJvXcwLz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Женя Кривцова] 108 желаний (2020)",
+    "url": "https://cloud.mail.ru/public/3Rnz/2udDZUhkv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Светлана Керимова] [Woman Insight] Высший пилотаж в жизни (2020)",
+    "url": "https://cloud.mail.ru/public/pZ1e/2AnYfKqCi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катерина Ленгольд, Марк Саневич] Как стать лидером и эффективно управлять командой (2020)",
+    "url": "https://cloud.mail.ru/public/SYKA/ZcWZoBsrC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Сандлер, Сергей Сидоренко] Говори легко 2.0. Интенсив по технике речи (2020)",
+    "url": "https://cloud.mail.ru/public/aYff/3PcQhabuU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кристина Граник] Дикция на 100% (2020)",
+    "url": "https://cloud.mail.ru/public/nsQz/Ui9xsvKnx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сергей Смирнов] Шляпа уверенности (2020)",
+    "url": "https://cloud.mail.ru/public/55LS/27AnwfN48",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Максим Дорофеев] Марафон джедайских техник HYLS 2020",
+    "url": "https://cloud.mail.ru/public/1Jbt/HfVkBk872",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Аркадий Петров] Система упражнений по развитию способностей человека",
+    "url": "https://cloud.mail.ru/public/2okE/45AgCFYFN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нелли Давыдова] Продвинутый хакер-list «60 точек взлома вашего мышления» (2020)",
+    "url": "https://cloud.mail.ru/public/3Rec/5sTGyVvyL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лилия Нилова] Автор жизни. Пакет Hard (2020)",
+    "url": "https://cloud.mail.ru/public/3nDS/qRrpNPWPz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[МИФ.Курсы (коллектив авторов)] Мастерство учиться",
+    "url": "https://cloud.mail.ru/public/2VQd/3sYU8wkYq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Кульпина] Меня услышат",
+    "url": "https://cloud.mail.ru/public/2AXb/3fC8bS68V",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Эдуард Хлопов] Avatar. Масштабирование личности и результатов (2020)",
+    "url": "https://cloud.mail.ru/public/2v1h/4T9RinF9Q",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Татьяна Рожкова] Психосоматика заболеваний органов зрения (2020)",
+    "url": "https://cloud.mail.ru/public/5PbY/5mSXcRxdh",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сергей Егоров] Отечество. Твое место силы (2020)",
+    "url": "https://cloud.mail.ru/public/2Caf/3w4X84UBF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кэрин Шлангер] Мастер стратегического и краткосрочного системного консультирования",
+    "url": "https://cloud.mail.ru/public/4GgG/3LrU123N1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[reira_reira] Гайд по скорочтению (2020)",
+    "url": "https://cloud.mail.ru/public/3R11/2YPvq5xoT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Менторство Mindvalley. 80+ интервью с экспертами мирового уровня (2020)",
+    "url": "https://cloud.mail.ru/public/2dwB/oyCMNyR7B",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Манн] Как стать №1 в том,что ты делаешь?",
+    "url": "https://cloud.mail.ru/public/zoUh/Tq65X11qy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Энергия 320+ дней в году (2020)",
+    "url": "https://cloud.mail.ru/public/GnYq/G94bzZDR3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Roman Banytskyy] [Udemy] Как решать головоломки на собеседовании в IT?",
+    "url": "https://wdfiles.ru/498af4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Михаил Лабковский] Нам надо поговорить. О том, как не стать жертвой манипуляции (2020)",
+    "url": "https://cloud.mail.ru/public/55DN/5noL4Zcv1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марго Савчук, Михаил Грибов] Нетворкинг для всех (2020)",
+    "url": "https://cloud.mail.ru/public/wLNk/W6D7MZYZw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мари Буше] [Школа леди] Элегантный юмор (2020)",
+    "url": "https://wdfiles.ru/f8me",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сергей Смирнов] Работа с мотивацией и прокрастинацией (2020)",
+    "url": "https://cloud.mail.ru/public/jyg3/kUh3iCaw3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Светлана Керимова] Перезагрузка жизни (2020)",
+    "url": "https://cloud.mail.ru/public/njbX/YPhXKystd",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[danilova_plus igra_s_love_] Неконтролируемый приступ яркости, или как развить в себе сексуальность",
+    "url": "https://cloud.mail.ru/public/myAG/m4dL6ty2r",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Радислав Гандапас] Финансовый интеллект (2020)",
+    "url": "https://cloud.mail.ru/public/kA8H/Kmu7Tpepw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Галина Ткаченко] Урок «Конкуренция» (2020)",
+    "url": "https://cloud.mail.ru/public/pPZR/WTUzfKYWC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Спортивный метод достижения целей (2019)",
+    "url": "https://cloud.mail.ru/public/mqqi/zWHQJ4eyA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Победи страх (2019)",
+    "url": "https://cloud.mail.ru/public/EmG2/RPiTFdfHz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дарья Игнатович] Виртуальный порядок (2019)",
+    "url": "https://cloud.mail.ru/public/3QfY/3fsT1WKkY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктор Горбатов] Как не растеряться в споре: учимся аргументации и логике (2020)",
+    "url": "https://cloud.mail.ru/public/4irj/2wbb26rKV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Захарова] От романтики к Тиндеру. Как строить отношения в цифровом мире XXI века? (2020)",
+    "url": "https://cloud.mail.ru/public/AMqT/uYVwAiHRh",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Денис Шальнов, Пётр Кузнецов] Онлайн-тренинг «Ты стоишь больше!» Премиум (2018)",
+    "url": "https://cloud.mail.ru/public/GxmM/A8ZiF5YvD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Николай Зимич] Пробуждение голоса. Пакет VIP (2020)",
+    "url": "https://cloud.mail.ru/public/zV9z/ViGArSTpN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Жить в удовольствие (2019)",
+    "url": "https://cloud.mail.ru/public/rN9K/36PzjVj3n",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Яковлев] Легче жить - как выйти из тупика (2020)",
+    "url": "https://cloud.mail.ru/public/TMgA/HKbHpotBG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Привычки успешных людей (2020)",
+    "url": "https://cloud.mail.ru/public/8TEE/mLopD6BZi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Садхгуру] Внутренняя инженерия",
+    "url": "https://cloud.mail.ru/public/4Heo/2PxzqZsEw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Василенко] Как найти себя до 25 (2019)",
+    "url": "https://cloud.mail.ru/public/9uYJ/uXecdVxbh",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Оксана Алексеева] Возрождение природного голоса (2020)",
+    "url": "https://cloud.mail.ru/public/25bV/2STDrJJs3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катерина Ленгольд] Как достигать целей без перегрузок и выгорания с помощью agile-спринтов (2020)",
+    "url": "https://cloud.mail.ru/public/g7m9/9b2aUEXjN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Котова] [Король говорит] Техника речи (2020)",
+    "url": "https://disk.yandex.ru/d/fGg8EeUhpxE0Og",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Козаренко] Основы мнемотехники GMS (2020)",
+    "url": "https://cloud.mail.ru/public/xn1k/qmsvvHThD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Арик] Курс от Арика (2020)",
+    "url": "https://cloud.mail.ru/public/hTDq/EtsQNQEdK",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Рейра] Скорочтение и мнемотехники (2020)",
+    "url": "https://cloud.mail.ru/public/2krb/AoDHsZMHZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Wish.school] Гайд Будь с собой. Практики по принятию собственного тела (2020)",
+    "url": "https://cloud.mail.ru/public/5CEX/5BvfZJaqc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Ланцбург] Самооценка - как обрести уверенность в себе (2020)",
+    "url": "https://cloud.mail.ru/public/pg2A/44RbbSnh5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Мазепова] Мастер убеждения (2020)",
+    "url": "https://cloud.mail.ru/public/NUDY/3jXta9g3L",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Артем Держун] Мужской голос: Уникальный курс-практикум для раскрытия потенциала вашего голоса 2020",
+    "url": "https://cloud.mail.ru/public/FGSJ/5M74gVzgs",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Maxim Dorofeev] [Udemy] Джедайские техники, а не какой-то там тайм-менеджмент (2020)",
+    "url": "https://cloud.mail.ru/public/ovA3/peSBDascv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Никита Ларионов] Дзен эффективности (2020)",
+    "url": "https://cloud.mail.ru/public/LTct/a58644E5o",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Филипп Литвиненко] Абсолютная женственность (2018)",
+    "url": "https://cloud.mail.ru/public/cfLy/WEyg9sRNA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Татьяна Бахтиозна] Как стать для мужчины единственной и неповторимой",
+    "url": "https://cloud.mail.ru/public/m1dG/eJuxS9vnb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наталья Зубова] Турбоусилитель",
+    "url": "https://cloud.mail.ru/public/RtVc/m5SY7sj2f",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юлия Горбатова] Аргументация: как убеждать людей (2020)",
+    "url": "https://cloud.mail.ru/public/pJBN/fTp42M6Kp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сергей Ковалев] Как победить (в) кризис (2020)",
+    "url": "https://cloud.mail.ru/public/LP5E/hcb7RsVxp/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Луиза Гофман] Самодисциплина и осознанность: из точки А в точку Б (2020)",
+    "url": "https://cloud.mail.ru/public/XvyZ/y96DTurNY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[@naselinas] Тревожный гайд",
+    "url": "https://cloud.mail.ru/public/4XbM/rKWc4cJeF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Трейон Мюллер] Взрыв обучения. Девять правил эффективного виртуального класса",
+    "url": "https://cloud.mail.ru/public/WxgX/fY6XcCzJG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Кулькова] Психология эмоций. Управление гневом (2020)",
+    "url": "https://cloud.mail.ru/public/mEEV/1ntbYQS3y",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Максим Марков] Жизненное руководство для мужчин (2020)",
+    "url": "https://cloud.mail.ru/public/Mpcu/ugJgV6Wv5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вадим Демчог] Такая разная я + косметичка ролей (2020)",
+    "url": "https://cloud.mail.ru/public/VAZL/3q2LB1EYm",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Mastering IELTS Speaking: The Express Course (2020)",
+    "url": "https://cloud.mail.ru/public/dNKS/bw7kAbM9k",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Руслан Мещеряков] Мнемотехника - система запоминания «Джордано»",
+    "url": "https://disk.yandex.ru/d/L_BYxymLWwYDCQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгения Изотова] Как перестать откладывать дела на «завтра»? (2020)",
+    "url": "https://cloud.mail.ru/public/YPBd/3gxHNjV6e",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Кулькова] Как самооценка влияет на нашу жизнь: успех, агрессия и отношения (2020)",
+    "url": "https://cloud.mail.ru/public/44yV/TNm8v8eDf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Романов] Прокачай своё чувство юмора (2020)",
+    "url": "https://cloud.mail.ru/public/2g8a/4Dw2mGDQ3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ян Дворянкин] [Udemy] Быстрое обучение любым навыкам на основе практики спецслужб (2020)",
+    "url": "https://cloud.mail.ru/public/wPcy/BZJKg7tP5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юлия Пономарева] Марафон 2.0 Голос на миллион (2020)",
+    "url": "https://cloud.mail.ru/public/CLWH/RCAkYi4vv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Михаил Ковалёв] Эффективное самообразование (2020)",
+    "url": "https://cloud.mail.ru/public/4xaB/TryrbpWiM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вячеслав Губанов] 15 универсальных психотехнологий для решения 150+ проблем (2020)",
+    "url": "https://cloud.mail.ru/public/Q2AG/goMeuCDXD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Пугачев] Лени не существует (2020)",
+    "url": "https://cloud.mail.ru/public/23QX/5gk6BXKs1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Матвей Северянин] Марафон. Путь к победе. Возьми свою жизнь под контроль (2020)",
+    "url": "https://cloud.mail.ru/public/57Wg/4pKjxnXaE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ицхак Пинтосевич] Действуй! Удвойся!",
+    "url": "https://cloud.mail.ru/public/3iS2/5PdNX2DhG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Alex Nekrashevich] [Udemy] Скороговорки для дикции. Как быстро улучшить дикцию (2020)",
+    "url": "https://cloud.mail.ru/public/AFX5/DyoJ5zrjc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Как учиться эффективно (2020)",
+    "url": "https://cloud.mail.ru/public/4ATG/3TArWiTi1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Галина Елтонская] [Мамин Дом] Вырастить себя снова (2020)",
+    "url": "https://cloud.mail.ru/public/2dL4/jNqXni28y",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Яковлев] Продолжение следует (2020)",
+    "url": "https://cloud.mail.ru/public/XQFd/Fu5gCiHA4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ильгиз Сабиров] Взлом обучения (научись учиться) (2020)",
+    "url": "https://cloud.mail.ru/public/erK4/WMcVtyBMc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Ковпак] Свобода от депрессии (2020)",
+    "url": "https://cloud.mail.ru/public/cmBH/qX2Z2MXZx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Соколовский] 21 шаг к тантрическому сексу. Трехнедельный пошаговый курс для мужчин",
+    "url": "https://cloud.mail.ru/public/5FnY/ZPFZsqonz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Татьяна Кожевникова] Женщина на миллион долларов (2019)",
+    "url": "https://cloud.mail.ru/public/JzHu/1dKLw9RBR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Макс Шарапенко] 100% ценность",
+    "url": "https://cloud.mail.ru/public/2Btw/fLQRPtjDR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Kleiton] Энергетический Взрыв (2019)",
+    "url": "https://cloud.mail.ru/public/Whyc/31KPAohPr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Боня] Женщина на миллион (2020)",
+    "url": "https://cloud.mail.ru/public/2MrV/2s93nG5Fo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ника Верникова] АРТ МАК. Эмоциональный интеллект - как приручить эмоции (2020)",
+    "url": "https://cloud.mail.ru/public/f6eR/q38qLgduM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Буянов] ТРИЗ на практике. Творческий подход на работе и в жизни (2020)",
+    "url": "https://wdfiles.ru/4eee2d",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[krissi.diary] Гайд по о*уевшей самооценке (2020)",
+    "url": "https://cloud.mail.ru/public/4XXB/2iCVwFJBT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Рыбаков] Видео-курс «Цели» (2020) (Пароль: Adrian-begild-unhollow)",
+    "url": "https://cloud.mail.ru/public/3uM8/2Ar5fZjxS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Михаил Бородянский] Управление событиями своей жизни 2.0 (2019)",
+    "url": "https://cloud.mail.ru/public/G9vZ/s136Z4K2x",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вячеслав Губанов, Алексей Губанов] Защиты. На все случаи жизни! 35 эффективных психотехник (2020)",
+    "url": "https://cloud.mail.ru/public/rH8N/aD1gS6aBM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[4brain] Лучшие техники тайм-менеджмента (2020)",
+    "url": "https://cloud.mail.ru/public/7zbu/58VgVBDaz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ariuna Kostova] [Udemy] Определи свою работу мечты (2020)",
+    "url": "https://cloud.mail.ru/public/5xiw/4ciYifPCt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лена Ангел] Самообесценивание (2020)",
+    "url": "https://cloud.mail.ru/public/2VqN/33QQGagLf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Как управлять своим временем и разгрузить свою жизнь? (2019)",
+    "url": "https://cloud.mail.ru/public/93nW/azaCzWgKT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Травкова] Под диваном — никого 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/4G5x/4vnK3SSL7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Трофимова] Курс «Речь бизнес-леди» (2020)",
+    "url": "https://cloud.mail.ru/public/4JZQ/36pFjzFFR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Полина Тур] Навыки убеждения и аргументации (2020)",
+    "url": "https://cloud.mail.ru/public/NXhQ/ythWrs1fS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Валентинa Букеевa] Вебинар по убеждениям",
+    "url": "https://cloud.mail.ru/public/3csm/5ny7jipwM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Артем Держун] Привычка говорить красиво (2020)",
+    "url": "https://cloud.mail.ru/public/KyBg/r8VJi9yGy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Екатерина Оаро] Вебинар «10 страхов о писательстве, которые пора победить» (2020)",
+    "url": "https://cloud.mail.ru/public/33AJ/KMUAHmnRU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[4brain] Мнемотехники (2020)",
+    "url": "https://cloud.mail.ru/public/35hg/5m7WEjj68",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дарья Черненко] Тайм-менеджмент для продвинутых (2020)",
+    "url": "https://cloud.mail.ru/public/2or4/4LiRUDiUx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Школа леди] Элегантный флирт (2019)",
+    "url": "https://cloud.mail.ru/public/6LjG/vZ6xyBQk5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[4brain] Когнитивистика развитие мышления (2019)",
+    "url": "https://cloud.mail.ru/public/3WYn/5JnLDuCyN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Сандлер] Марафон по технике речи «Выговаривай легко» (2020)",
+    "url": "https://cloud.mail.ru/public/h3xb/5g9obFtfg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Довгань] Инструкция к большим деньгам",
+    "url": "https://drive.google.com/file/d/1jpY2-ebGRQDulnVieJQoBMCNhbhGMhRk/view",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анастасия Шальнева] Самооценка. Заведи роман с собой (2019)",
+    "url": "https://cloud.mail.ru/public/39Uu/2x3H6iWPf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Артем Овечкин, Анна Морозова] Конфликт между супругами. Развод или счастливая семья? (2019)",
+    "url": "https://cloud.mail.ru/public/4soB/2Edc9KU6D",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Приходько] Моделирование совершенства 4.0. Пакет «Basic» (2019)",
+    "url": "https://cloud.mail.ru/public/qB5C/3qs7uDJHz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Влада Попутаровская] Психология похудения (2019)",
+    "url": "https://cloud.mail.ru/public/49Qy/37pb81HwE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Туся] Путь к себе (2019)",
+    "url": "https://cloud.mail.ru/public/f35Y/ZujUyVaeC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Солодар] Новогодний марафон по целеполаганию",
+    "url": "https://cloud.mail.ru/public/4eqW/B2PuSRtkb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Приходько] Обучение со скоростью мысли 2.0 (2019)",
+    "url": "https://cloud.mail.ru/public/sJwU/FG4mMbPfq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Диана Щербанская] Сексуальность (2019)",
+    "url": "https://cloud.mail.ru/public/2nGh/4594SToJY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Приходько] Дизайн жизни 5.0 (2019)",
+    "url": "https://cloud.mail.ru/public/4JMq/2ut12Zt95",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Якименко] Профессиональный оратор (2019)",
+    "url": "https://cloud.mail.ru/public/5NDH/3YARVubvV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Карпачёв, Анна Кушнерук] Как жить не раздражаясь (2019)",
+    "url": "https://cloud.mail.ru/public/TVFu/nnxJYGht8",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кевин Спейси] Уроки актерского мастерства (Все части 1.2.3.4)",
+    "url": "https://cloud.mail.ru/public/494X/qHjvLfMgS/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Живу так, как хочу (2019)",
+    "url": "https://cloud.mail.ru/public/WhL5/3K6CEjBEf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Светлана Тишкова] Как найти свой путь и привлечь золотые возможности (2019)",
+    "url": "https://cloud.mail.ru/public/GZ6n/EM5bHJMoK",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Сподин, Антон Сподин] Мегаскорочтение 4Х4 (2019)",
+    "url": "https://cloud.mail.ru/public/5nJR/4qa5qcRrL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Полный курс по развитию самодисциплины и силы воли. Часть 1 из 6 (2019)",
+    "url": "https://cloud.mail.ru/public/ZXEW/4UZYtHmTj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Матвей Северянин и Доктор Фил] Онлайн-Марафон «Я – Машина»",
+    "url": "https://cloud.mail.ru/public/3We2/28upPD9A9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Константин Шереметьев] Трансформация личности (2019)",
+    "url": "https://cloud.mail.ru/public/fzb4/X9p9VATHG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Боня] Женщина на Миллион (2019)",
+    "url": "https://cloud.mail.ru/public/3rKJ/zQ8nkgxDh",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Беловешкин] Курс Стресс. Осознанная стрессоустойчивость (2019)",
+    "url": "https://cloud.mail.ru/public/fBK9/Hnoa94jWV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анжелика Артемьева] Must Have «Баланс»",
+    "url": "https://cloud.mail.ru/public/8E1X/WqUyW7f6B",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Приходько] Формула убедительности (2019)",
+    "url": "https://cloud.mail.ru/public/5iJZ/3E1bbBAxo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Minlife] 30 дней до простой жизни (2019)",
+    "url": "https://cloud.mail.ru/public/4XiZ/Q8M2KwaiB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Карпачёв] Психология бедности: проблемы и решения (2019)",
+    "url": "https://cloud.mail.ru/public/5Ekb/4PY9Kvvbs",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Носова] Золотые слова. Практикум по техникам общения (2019)",
+    "url": "https://cloud.mail.ru/public/v1ur/4pEVkj4vB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Кульпина] Мошеннический патруль (2019)",
+    "url": "https://cloud.mail.ru/public/5fqt/5uQUmuGof",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Байчурина] Помоги себе сам! Активация жизненных сил и внутренних ресурсов (2019)",
+    "url": "https://cloud.mail.ru/public/LjXR/2v7YmrGcK",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Роман Карловский] Холотропное дыхание (2019)",
+    "url": "https://cloud.mail.ru/public/fS5x/45gCsE9yG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александра Рудаманова] Реактивный мозг. Интенсив от чемпиона (2019)",
+    "url": "https://cloud.mail.ru/public/MWu5/4bdevZp64",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Ярцев] Как развить креативность (2019)",
+    "url": "https://cloud.mail.ru/public/MSji/4jRnK5Frb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елизавета Вацлавская] Я -источник наслаждения и кайфа",
+    "url": "https://cloud.mail.ru/public/2ntx/363dya1Jm",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Веритов] Методика самоанализа (2019)",
+    "url": "https://cloud.mail.ru/public/tkYh/3aJUjaw6K",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Университет харизмы - Главная программа Чарли",
+    "url": "https://cloud.mail.ru/public/ekxJ/3PdCWR1uT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Полина Тур] 5 ключей к самооценке (2019)",
+    "url": "https://cloud.mail.ru/public/KRxb/528h8ScGP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Инесса Власова] Интуиция. Секретные настройки",
+    "url": "https://cloud.mail.ru/public/3kfm/3vTMvb69x",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анатолий Донской] Энергия мысли. Открой себя. Обновленый курс (2019)",
+    "url": "https://cloud.mail.ru/public/2QnB/2jKPkZy9a",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Журек] Работа с внутренним ребёнком и внутренним родителем (2019)",
+    "url": "https://cloud.mail.ru/public/9Pqh/7jkgRMrFF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Инесса Власова] Секретные Технологии Влияния и Манипулирования Сознанием. Метод Джокера.",
+    "url": "https://cloud.mail.ru/public/SJC7/LGpQ747LP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Герасимов] Сила подсознания. Достижение целей 4.0 (2019)",
+    "url": "https://cloud.mail.ru/public/VknE/1xRiSSgTj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Хасай Алиев] Техника работы с подсознанием и включения внутренних резервов для здоровья (2019)",
+    "url": "https://cloud.mail.ru/public/31Df/5mJWmaHrE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Ширяев] Секреты высокой продуктивности (2019)",
+    "url": "https://cloud.mail.ru/public/4qoi/3om1UPKGe",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Ледда] Духовное Развитие. Управление жизнью на осознанном уровне (2019)",
+    "url": "https://cloud.mail.ru/public/RxK3/8bfmbFYA4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Татьяна Бахтиозина] «Зазеркалье»: методы управления объектами и ситуациями (2019)",
+    "url": "https://cloud.mail.ru/public/5PCp/Wo3vbT9Wc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Трофимова] Привычка жить со вкусом (Онлайн-курс для женщин) (2019)",
+    "url": "https://cloud.mail.ru/public/223e/5DeYvzSgG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анатолий Донской] Стабильное эмоциональное состояние (2019)",
+    "url": "https://cloud.mail.ru/public/5ioC/26yushnps",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Яковлев] Как правильно отказывать: 3 способа сказать Нет, сохранив хорошие отношения (2019)",
+    "url": "https://disk.yandex.ru/i/mtN8yeh51I8yFAboominfo.ru",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мила Левчук] Подними Самооценку с Милой Левчук за 7 дней. 2 ступень (2019) (Пароль: boominfo.ru)",
+    "url": "https://wdfiles.ru/64co",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Исаева] С чистого листа. Как составить карту желаний, которая сбудется за 6 мес (2019)",
+    "url": "https://cloud.mail.ru/public/4RX3/3FsuwweaH",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[psy.organic] Я и деньги (2019)",
+    "url": "https://cloud.mail.ru/public/2yRH/jFAjEAYNR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Сандлер] Отвечай легко (2019)",
+    "url": "https://cloud.mail.ru/public/5MHc/sQYJuE66K",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юлия Бокачева] Самоценность и самопринятие (2019)",
+    "url": "https://cloud.mail.ru/public/5h8V/XDnhimTxV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Трофимова] Речь в режиме онлайн (2019)",
+    "url": "https://cloud.mail.ru/public/5bwg/3MV2hCBCF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Нейрософия: Как побороть лень и начать все успевать (2018)",
+    "url": "https://cloud.mail.ru/public/2h6A/2Q4aebAPu",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мужской университет] Интеграция (2019)",
+    "url": "https://cloud.mail.ru/public/4QmZ/Jj2yBMMj8",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Древс] Уверенность в себе (2019)",
+    "url": "https://cloud.mail.ru/public/3nRm/3CdkMrzbX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Молчанов] Сторителлинг для жизни и бизнеса",
+    "url": "https://cloud.mail.ru/public/e6TG/cEntYP2XY/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юлия Бокачева] С тобой всё в порядке! (2019)",
+    "url": "https://cloud.mail.ru/public/2ML7/5zxLmQTna",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Черников] Система управления жизнью (2019)",
+    "url": "https://cloud.mail.ru/public/2nAk/4bt9buKHJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мила Левчук] Подними Самооценку с Милой Левчук за 10 дней (2019)",
+    "url": "https://cloud.mail.ru/public/aBgw/GGV7L9j5X",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Критика и творчество. Откуда берутся идеи и разногласия? (2019)",
+    "url": "https://cloud.mail.ru/public/5NFk/4y1CvvvoB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Трофимова] Привычка говорить красиво. Онлайн-курс по элегантной речи (2019)",
+    "url": "https://cloud.mail.ru/public/nj29/YRYxM4H8M",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Зина Шамоян] Как разрешить себе больше без вины и стыда (2019)",
+    "url": "https://cloud.mail.ru/public/Sbui/3fHa2oiUp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Сандлер] Голос - инструкция по применению (2019)",
+    "url": "https://cloud.mail.ru/public/B1sS/P1p2A193e",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Собеседование просто. Учимся «продавать» себя правильно и дорого",
+    "url": "https://cloud.mail.ru/public/tqUM/YLj8JbQW3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Древс] Секреты масонов или финансовое ДНК (2019)",
+    "url": "https://cloud.mail.ru/public/mEt1/PvbfLtSFZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Ледда] Я все смогу! Я все успею! (2019)",
+    "url": "https://cloud.mail.ru/public/7HFu/47BWTPwxv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Светлана Керимова] Три пакета курсов. Психология отношений.",
+    "url": "https://cloud.mail.ru/public/rxQY/kbCZth6C7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Настя Тропицель и Алина Kreida] Чек-листы: 92 способа заработать летом и 92 способа прокачать себя",
+    "url": "https://cloud.mail.ru/public/jx6W/kdzoLpnYX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Ролева и Вероника Юрина] Деньги-2.0 (2019)",
+    "url": "https://cloud.mail.ru/public/ggtN/KoVp8kku5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Давыдов] Территория Автора - Как набраться уверенности и смелости (2019)",
+    "url": "https://cloud.mail.ru/public/PfJ4/sMTJka49r",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Nova-Tech] Родительские установки. Свобода выбора (2019)",
+    "url": "https://cloud.mail.ru/public/PJBo/JZPxMhgBw",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Брежестовский] Эффективные разговорные формулы",
+    "url": "https://cloud.mail.ru/public/2moo/4JwXnhbpC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Мироненко] Марафон по преодолению страхов",
+    "url": "https://cloud.mail.ru/public/jYGa/KHc2LJreo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Николай Козлов] Видеокурс «Не играю Жертву: Как стать Автором собственной жизни»",
+    "url": "https://cloud.mail.ru/public/frnV/9iZ4oUXzc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Как перестать угождать и искать одобрения (2019)",
+    "url": "https://cloud.mail.ru/public/j8oJ/2Zr8CkVbt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катерина Ленгольд] Космический Взлет (2019)",
+    "url": "https://cloud.mail.ru/public/s6T9/uDPtMhWAg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ксения Телешова] Курс ораторского мастерства (2019)",
+    "url": "https://cloud.mail.ru/public/sUpb/sAPbV2V8F",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Шаро] Харизма голоса (2019)",
+    "url": "https://cloud.mail.ru/public/2cTt/9GxgShvhp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгения Харитонова] Личная эффективность",
+    "url": "https://cloud.mail.ru/public/WJkk/FpFxdnwMZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Карпачев] Уверенность в себе.Как получить от жизни всё",
+    "url": "https://cloud.mail.ru/public/msMX/B9uBaw58D",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Карпачев] Своя жизнь (2018)",
+    "url": "https://cloud.mail.ru/public/qxJG/Y1cV72AnA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Светлана Новоселова] Прокачай свой имидж (Запись+Транскрибация)",
+    "url": "https://cloud.mail.ru/public/2Ggk/3knG2moMr/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Олег Торсунов] Мужской клуб. 1-ый семинар",
+    "url": "https://cloud.mail.ru/public/qmPq/8a8WF3Y7g",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катерина Ленгольд] Как научиться эффективно учиться? (Пароль: boominfo.ru)",
+    "url": "https://wdfiles.ru/rz41",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наталья Майорова] Посмотри себя. Ежедневная тренировка устной спонтанной речи и мимики (2019)",
+    "url": "https://cloud.mail.ru/public/ReEu/ajimRVZzY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вероника Хацкевич] Женщина высшего пилотажа (2019)",
+    "url": "https://cloud.mail.ru/public/3x91/5LAL2mGu1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Денис Чернаков] Быть женщиной. Как?",
+    "url": "https://cloud.mail.ru/public/2eZF/3bA1PLtpr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Поплавская] Разреши Себе Жить",
+    "url": "https://cloud.mail.ru/public/5Vvh/5fZ2Fc6Q2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Захаров] Модель ЛегоЛюди 8x (2019)",
+    "url": "https://cloud.mail.ru/public/RNwJ/n3tRPnCwN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Илья Трикси] От слов к действию (2019)",
+    "url": "https://cloud.mail.ru/public/3GzF/2J6UtXY7m",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Иван Полонейчик] Тренажерный зал для развития памяти (2019)",
+    "url": "https://cloud.mail.ru/public/4hsA/9k3HXiff9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Smart-Planner] Визуальные заметки от А до Я (2019)",
+    "url": "https://cloud.mail.ru/public/3dwG/5yAV4sSaf",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Профориентация: подходы и цели - Каменева (2019)",
+    "url": "https://cloud.mail.ru/public/4qo2/TWpZrAdF2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алена Фаверо] Банк единорогов (2018)",
+    "url": "https://cloud.mail.ru/public/4ZHT/5b47sJ9XL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Школа Леди] Как элегантно реагировать на хамство? Вербальная агрессия и светская беседа",
+    "url": "https://cloud.mail.ru/public/3NcX/3QFSiTzzj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[DaoSchool] Духовная Семья",
+    "url": "https://cloud.mail.ru/public/dgcV/3yyf1ZYTT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Дисперсия плотности [Юджиния Квант]",
+    "url": "https://cloud.mail.ru/public/DBGz/ZW7F1JY4t",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Иван Зимбицкий] Электронный мозг 2.0 Ускорение 10х (2019)",
+    "url": "https://cloud.mail.ru/public/KM7U/tvEEbzgR9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Диана Быстрицкая] Гипнотическая Сила Голоса: постановка объёмного и властного голоса (2019)",
+    "url": "https://cloud.mail.ru/public/NAgL/iu7moMv9q",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Бронников] Онлайн-интенсив NEOчеловек (2018)",
+    "url": "https://cloud.mail.ru/public/8cx1/j5PRMX6zx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мария Шаро] Харизма голоса (2019)",
+    "url": "https://cloud.mail.ru/public/BBwW/3ApCYc3AU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Тони Роббинс] Абсолютное превосходство (2018)",
+    "url": "https://cloud.mail.ru/public/ruN2/2qp25Hs5U",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Килина] Антипланирование (2019)",
+    "url": "https://cloud.mail.ru/public/JqSG/TMaaYX5op",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Моженков] Гены директора. 1,2,3 части",
+    "url": "https://cloud.mail.ru/public/7PPy/1hDRreath",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Основы мнемотехники GMS. Тренировка памяти. Система запоминания «Джордано» (Пароль: openssource.biz)",
+    "url": "https://cloud.mail.ru/public/KDcG/2vNVTDTJ9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Третий поток] Как я выбирался из социальной задницы",
+    "url": "https://cloud.mail.ru/public/5Es2/ByzGrh1jh",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Олег Луканов] Становление мужчины 2.0",
+    "url": "https://cloud.mail.ru/public/6LRw/ACWq53hk1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Ходченков] Стратегия Жизни (2018)",
+    "url": "https://cloud.mail.ru/public/GUgp/BfNgG9Tfe",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Как за 3 часа успевать больше, чем другие успевают за 3 дня!",
+    "url": "https://cloud.mail.ru/public/9DT3/ftn1iiuuM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Белановский] Монетизация таланта (2018)",
+    "url": "https://cloud.mail.ru/public/HiSS/aNMmgxpyL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Ушков] Как правильно завершать дела и начинать великие проекты (2017)",
+    "url": "https://cloud.mail.ru/public/MMTf/rZCUFA1uC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кондратьева, Черненко] Как задавать вопросы так, чтобы Сократ вам завидовал (2018)",
+    "url": "https://cloud.mail.ru/public/B8Rb/uUYq173Pg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дарья Ерёмина] Моя ценность (2018)",
+    "url": "https://cloud.mail.ru/public/5Bjx/SKEQAWvF4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Михаил Рысак] Действуй аки машина! (2018)",
+    "url": "https://cloud.mail.ru/public/syuJ/v98eJSpFk",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Вялых] Управление собой. Как быстро переключить мозг в режим делания (2018)",
+    "url": "https://disk.yandex.ru/i/DpdT28MYzWKjwA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Найденова] Практики развития внимания (2018)",
+    "url": "https://disk.yandex.ru/d/DhPdcCwLiOe-Lg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ульяна Алексеева и Рашид Хамидулин] Осознанность и Присутствие",
+    "url": "https://cloud.mail.ru/public/BBya/8xtfserTP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Шуст] Привычка писать эффективно (2018)",
+    "url": "https://cloud.mail.ru/public/92HX/ebvNi1pqx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Ролева, Вероника Юрина] Ключи к дизайну человека (2018)",
+    "url": "https://cloud.mail.ru/public/YgqH/MGxUG4Smi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Джедайские техники пустого инбокса (2018)",
+    "url": "https://cloud.mail.ru/public/EvJC/PLxHCvLTN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александра Рудаманова] Перепрошивка (2018)",
+    "url": "https://cloud.mail.ru/public/52rL/p8friKK3N",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Закончи то, что начал. Как доводить дела до конца (2018)",
+    "url": "https://cloud.mail.ru/public/HSao/ZTotgsVPv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] Импровизация. Как стать более легким и интересным человеком (2018)",
+    "url": "https://cloud.mail.ru/public/2PDa/dw9N1dtPg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Упражнения для совершенствования техники речи (2018)",
+    "url": "https://disk.yandex.ru/d/Jp-EFKMI3aMoht",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Егоров С] Голос как у Вина Дизеля",
+    "url": "https://cloud.mail.ru/public/Hi3D/m8qQJQxcr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Радислав Гандапас] К выступлению готов! Презентационный конструктор (2018)",
+    "url": "https://cloud.mail.ru/public/HAL2/HRba9NEL3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Джим Квик] 30-дневный квест «Супермозг» (2018)",
+    "url": "https://cloud.mail.ru/public/3iuN/iBoBKXZ8v",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Заряди мозг за 10 минут. Активация обоих полушарий (2018)",
+    "url": "https://cloud.mail.ru/public/9gCa/H4DpavmqT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вик Орлов (Мастер Консильери)] Фактор Силы - Май 2018",
+    "url": "https://cloud.mail.ru/public/EV4a/BKMoVZdR1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Импровизация в жизни. Быть легким и интересным - Воля, Шеминов (2018)",
+    "url": "https://cloud.mail.ru/public/9U1j/E95fTmUe9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Запись онлайн-вебинара «ДЛЯ НАСТОЯЩИХ МУЖЧИН»",
+    "url": "https://cloud.mail.ru/public/EKBb/gTk51EdPR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Шаматрин, Алексей Хохлатов] Капля памяти",
+    "url": "https://cloud.mail.ru/public/JLuE/ro87en9Cb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Аналитическое мышление = эффективность + логика - Артёмов (2014)",
+    "url": "https://disk.yandex.ru/d/hLLQ7C7_fkt59",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Иван Зимбицкий] Старт 3 - Определи свои сильные стороны.",
+    "url": "https://disk.yandex.ru/d/NPa6oLW53XpGiz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Реактивный мозг (2018)",
+    "url": "https://cloud.mail.ru/public/9oiv/G76A54Hzg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как вопреки всему преуспевать, процветать и выживать в 21 веке - Уинфри (Перевод Олег Матвеев) (2007)",
+    "url": "https://cloud.mail.ru/public/L3PJ/LgdiNBeiv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Стивен Бизби, Лори Бет Бизби (Перевод Олег Матвеев)] Практический курс по созданию Схемы жизни",
+    "url": "https://cloud.mail.ru/public/KSTk/MHTxUTVCW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Олег Матвеев] Где ты, счастье?",
+    "url": "https://cloud.mail.ru/public/9kBy/9Eqr5UK3n",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Живорад Славинский] Духовный выбор (Перевод Олег Матвеев)",
+    "url": "https://cloud.mail.ru/public/K5Sc/auTM4skUs",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Курс по копирайтингу, сторителлингу и писательскому мастерству - рыба - Лукичева, Зверева (2018)",
+    "url": "https://cloud.mail.ru/public/ZTdo/SJBzCK1xc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Буянова Кристина, Ногалесс Кирилл, Крутько Сергей] Сторителлинг (2017)",
+    "url": "https://cloud.mail.ru/public/Dg5Z/ydzqjabmE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Маматов Алексей] Внутренняя сила",
+    "url": "https://cloud.mail.ru/public/JZUj/FSCcVHm4H",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Бутакова] Здоровый мозг в любом возрасте. Как развить и сохранить память",
+    "url": "https://cloud.mail.ru/public/DQGn/BcVur9ZbW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Владиславова] НЛП. Техники, меняющие жизнь",
+    "url": "https://disk.yandex.ru/i/f9RUnOmiVyfpmQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[А.Касаткина] Как правильно вдохновлять мужчину",
+    "url": "https://cloud.mail.ru/public/5LAv/2qv2FgXDH",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Обретение своей безусловной ценности",
+    "url": "https://cloud.mail.ru/public/KTgw/duq57ig4c",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Богданов] Генератор желаний",
+    "url": "https://cloud.mail.ru/public/u3QH/QCNXtbNGj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] Юмор Начало 2.0 - Развитие чувства юмора (2018)",
+    "url": "https://cloud.mail.ru/public/FZqs/22HGcdLXH",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Галевич] 5 векторов личного развития",
+    "url": "https://cloud.mail.ru/public/4Q8A/4nQwyEXdk",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Исцеление внутреннего ребенка",
+    "url": "https://cloud.mail.ru/public/cBs2/SgbSBsMCG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Правильное воздержание. Трансформация сексуальной энергии. Магическое саморазвитие",
+    "url": "https://cloud.mail.ru/public/2ATe/YJ6rjVed7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Надежда Семененко] Как сделать гнев своим союзником",
+    "url": "https://cloud.mail.ru/public/5CHk/Uxf9gvcxy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нико Бауман] Привычки",
+    "url": "https://drive.google.com/open?id=12ouHx2WNWufF5E6Ms2qdF3oMG4r0c2YI",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нико Бауман] Как загадывать желание",
+    "url": "https://drive.google.com/open?id=1YPi5hoWYaJYG_OykIJux7z2FH9dPS9te",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как запомнить всю колоду карт? Тренинг от рекордсмена по запоминанию (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/9UtU/j9kggLnFi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нико Бауман] Как разгрузить мозг и мысли",
+    "url": "https://drive.google.com/open?id=1t0fDxLJFQeW8-pgWYYxZZ8uI5v_ohx8G",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нико Бауман] Физиология уверенности",
+    "url": "https://drive.google.com/open?id=1FDjSEZXd3T2FX2F-QryHlo5KKv93Cl6j",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Владимир Сибирцев] Лень. Как понять и управлять",
+    "url": "https://cloud.mail.ru/public/3V7H/JDn5UZkuc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "НЛП практик. Комплексное нейропрограммирование",
+    "url": "https://cloud.mail.ru/public/MNoj/Ufc7i7pe8",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Красин Сергей] Смотри кино и трансформируй себя! Алгоритм работы",
+    "url": "https://cloud.mail.ru/public/vRpC/WjvBqm8cT",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Aaron Sorkin] Уроки сценарного мастерства с Аароном Соркиным",
+    "url": "https://cloud.mail.ru/public/LpHk/nypgQ6Tjt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Викиум] Целеполагание",
+    "url": "https://cloud.mail.ru/public/2fDY/cLkv4RQm7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Буриличев Андрей] Обучающий тренажер СДП - Слепая печать за два часа",
+    "url": "https://cloud.mail.ru/public/3YUs/Ysn5VxvBg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[С. Болсун] Семинар по гипнотерапии с Александром Блинковым",
+    "url": "https://cloud.mail.ru/public/DQGu/VAamXyUxv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Парабеллум] Самодисциплина 2. Жизнь чужими руками (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/PmUT/yTKDXrWU1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Андрей Парабеллум] Самодисциплина 3",
+    "url": "https://cloud.mail.ru/public/3ZKk/m95tNiEzQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Преображенская] Скорочтение",
+    "url": "https://disk.yandex.ru/mail/?hash=7tUqkri0WT1oICFDPh0%2FKzz16YsT5hrGpenelv4UP1s%3D",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Федотова] Искусство речи и владение голосом (Пароль: iloveeachfree)",
+    "url": "https://cloud.mail.ru/public/LMAp/YTV53JX1N",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ника Зебра] Тысяча смелых. Практический курс по борьбе с синдромом самозванца",
+    "url": "https://cloud.mail.ru/public/2xpJ/3vdMQ11RE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Ледоховский] Разговорный гипноз: программа профессиональной гипнотерапии 2.0 (часть 5 из 9)",
+    "url": "https://drive.google.com/drive/folders/1e-55RWVkP0hXLr5xKwjB36xkY0ssXT2Z?usp=sharing",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Супер-интеллект. Как стать умным - Шереметьев (2014) (Пароль: jas78n1smgvw2s)",
+    "url": "https://disk.yandex.ru/d/NQpZ4LnP3U2TvF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Чернозем] Финансовый приворот по-женски 2.0",
+    "url": "https://cloud.mail.ru/public/Ju9o/7bsMbXH9G",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Ораторское искусство от А до Я | 21 секрет лучших ораторов мира (Белановский, Парабеллум)",
+    "url": "https://cloud.mail.ru/public/ShWv/ehq48U7xv/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Филипп Гузенюк] Жизненный баланс или синергия",
+    "url": "https://cloud.mail.ru/public/yo67/Rp7N9jPh9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Тони Роббинс] Возрождение своей подлинной личности: Сильная сторона уязвимости",
+    "url": "https://cloud.mail.ru/public/2Unm/AoY6D71dS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лидия Радичи-Шпаковская] Коучинг - профессия 21 века",
+    "url": "https://cloud.mail.ru/public/BRpc/b7sXowNcN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Компьютерный Гений - Арсланов (2012)",
+    "url": "https://cloud.mail.ru/public/2zBc/W5SNNwSwk",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Джеральд Кейн] Полная учебная программа по метафизическому гипнозу (Часть 5)",
+    "url": "https://cloud.mail.ru/public/G48c/qkd89F5xJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Литвак Борис] Семинар-тренинг «Черты и черти характера»",
+    "url": "https://cloud.mail.ru/public/68wj/C8jjDeqBP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Эдгар Куликов] Жизнь Без Границ 3.0 (Пароль: boominfo.ru)",
+    "url": "https://disk.yandex.ru/d/c375NQb43S6zf6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктория Исаева] Годовой марафон «Не жизнь, а сказка»",
+    "url": "https://cloud.mail.ru/public/4Cyg/24fq5eKMz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Базовые навыки общения. Управляй общением (или как интересно общаться)",
+    "url": "https://cloud.mail.ru/public/54NH/mgJPDgXTi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Уроки актерского мастерства от Кевина Спейси (часть 2 из 3) - Спейси (2016)",
+    "url": "https://cloud.mail.ru/public/J94c/KzJyL4sue",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Татьяна Бахтиозина] Как женщине вернуть свою силу и энергию",
+    "url": "https://cloud.mail.ru/public/etj1/uLkZECSSy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Карпачёв] Воспитание в стиле Коучинг",
+    "url": "https://cloud.mail.ru/public/GXmC/rMaamQDXU/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Ледоховский] 7 основных барьеров, мешающих взаимопониманию",
+    "url": "https://cloud.mail.ru/public/4gVi/VH9naRCqR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гильбо Е.В] Магия без мистики",
+    "url": "https://cloud.mail.ru/public/6rPR/V3PL4dqew",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елизавета Гурьянова] Моя внутренняя Женщина",
+    "url": "https://cloud.mail.ru/public/21cP/HDoBuUJdS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Уроки актерского мастерства от Кевина Спейси (часть 1 из 3), 2 Оскара",
+    "url": "https://cloud.mail.ru/public/2Swk/3GGYoGVze",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Эффективная коммуникация - Козлов (2017)",
+    "url": "https://cloud.mail.ru/public/d4aM/MAcjRAkF6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Нейрографика для быстрых и комфортных изменений в жизни - Петрова (2018)",
+    "url": "https://cloud.mail.ru/public/iAKw/2snbDgKE1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Николай Иванович Козлов] Мастерство осмысленной речи. Эффективная коммуникация.",
+    "url": "https://cloud.mail.ru/public/T5zV/YC9P5zSnQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Стратегии эффективного обучения - Зеленин (2014)",
+    "url": "https://cloud.mail.ru/public/Ket2/69Vf9mdjJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Смирнов Сергей] Уверенность",
+    "url": "https://cloud.mail.ru/public/DciZ/tGHQ4k6ch",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Денис Бурхаев] Гид проработчика и все необходимые по нему семинары",
+    "url": "https://cloud.mail.ru/public/w2Xt/sNQ12pJyJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алуника Добровольская] ДЕСЯТЬ СИЛЬНЫХ ЦЕЛЕЙ НА ГОД (Обновленная студийная версия)",
+    "url": "https://disk.yandex.ru/i/MGbbluZBd7bxa",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Крюгер Камилла Художник: Янковская Стефания] Арт-терапевтические карты «Краски моей души»",
+    "url": "https://cloud.mail.ru/public/Lp6f/dMDaxNw43",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Беттина Лемке] Икигай: японское искусство поиска счастья и смысла в повседневной жизни",
+    "url": "https://disk.yandex.ru/d/YhtvsmJv3Rdwpa",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Рей] АнтиТаро Мистера Фримена. Трансформационные карты",
+    "url": "https://cloud.mail.ru/public/uRL2/TN16ifX6r",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вик Орлов] ХИЛЕРТОНЫ 2017 (Мастер Консильери)",
+    "url": "https://cloud.mail.ru/public/qNsW/dJWqP8cr2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гил Петерсил] Знакомства на мероприятиях (аудио) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/34bf/5C54SHfBL",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Проект “НА ПРЕДЕЛЕ” - Шабутдинов (2017)",
+    "url": "https://cloud.mail.ru/public/bEr1/pCkuLzw41",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Валуева] Предназначение быть женщиной",
+    "url": "https://cloud.mail.ru/public/LeTM/L7oSpSCfn",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Офра Аялон, художник: Марина Лукьянова] Метафорические ассоциативные карты «Tandoo»",
+    "url": "https://cloud.mail.ru/public/R5JF/Kwp7NiQKJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Итцик Шмулевич] Метафорические карты «Нерия»",
+    "url": "https://cloud.mail.ru/public/JfxY/6E1RvyqQJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Текстура. 21-дневный курс по написанию взрывных текстов - Парфентьева (2017)",
+    "url": "https://cloud.mail.ru/public/2TzD/2FGt6qrDx",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[kleiton] От пешки до ферзя. Правила победы в игре с системой, людьми и самими собой (2017) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/7SEX/bekQvKKoU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Строганов] Финансовый интеллект 2.0. Модуль 1. Интеллект цели",
+    "url": "https://drive.google.com/drive/folders/1e0uzdWi1jcViCMNTBbp86iBZqcVI9q-Z",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Керимова Светлана] Высший пилотаж в жизни (VIP) (Пароль: boominfo.ru)",
+    "url": "https://wdfiles.ru/egvU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дeниc Буpxaев] Избaвляемся от любoвной зависимости",
+    "url": "https://cloud.mail.ru/public/MkRr/ygQvxjeGM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] Stand Up (2017)",
+    "url": "https://cloud.mail.ru/public/kTw2/oLb8aorNs",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Зеленин Всеволод] Финансовый взлет (2017)",
+    "url": "https://cloud.mail.ru/public/7Hm8/4EyXzbhqN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Багрянцев] ХАРИЗМА ОРАТОРА И ВЛИЯНИЕ НА СОБЕСЕДНИКА (2017)",
+    "url": "https://cloud.mail.ru/public/FqAq/SDzNTu5SZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Игорь Ледоховский] Секреты скрытого гипнотического воздействия (комплект гипнокарт) (2017)",
+    "url": "https://cloud.mail.ru/public/2827/4GnsoBygU/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Жванский‍] Простой метод осознанного мышления для снижения стресса в повседневной жизни",
+    "url": "https://cloud.mail.ru/public/E6bM/EG4UVnNtM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев] Введение в человеческое благополучие",
+    "url": "https://cloud.mail.ru/public/973s/xXdrmwfx6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Мастер-группа Арины Полях - Новая Я",
+    "url": "https://cloud.mail.ru/public/yEPc/DStUXxMYZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "КОКС для тренеров и спикеров 2.0 - Булыгин (2016)",
+    "url": "https://cloud.mail.ru/public/3XG7/5DURsY3Q6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "КОКС для тренеров и спикеров 1.0 - Булыгин (2015)",
+    "url": "https://cloud.mail.ru/public/3XG7/5DURsY3Q6/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[infobusiness] Связи решают всё (2017)",
+    "url": "https://cloud.mail.ru/public/6qoE/rFwHzGEmo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Джулиан Бланк (RSD Julien)] Мастерство Трансформации",
+    "url": "https://cloud.mail.ru/public/C9Rs/wB8nJVuv4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ицхак Пинтосевич] Новый Я! (2017)",
+    "url": "https://cloud.mail.ru/public/J4rP/wuUXad786",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Умение мыслить здраво - Гильбо (2012)",
+    "url": "https://cloud.mail.ru/public/Wg49/bwmhVtf2a",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Полный «Комплект Вершителя Судьбы» - Малаев (2015) (Пароль: pkLPKkPK^[email protected]#!45545&*)",
+    "url": "https://cloud.mail.ru/public/GZyH/sNua8GAN2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как рассказывать анекдоты и подавать шутки - Красильников (2014)",
+    "url": "https://disk.yandex.ru/d/CGOGChkWZJnks",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Максим Дорофеев] Джедайские техники доведения дел до ума (2018)",
+    "url": "https://cloud.mail.ru/public/4Ybp/2EJQof35n",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[igleb4eg] Глобальное раскрепощение. Убираем социальные страхи. Уверенность в себе (Пароль: Open-Hide.Biz)",
+    "url": "https://cloud.mail.ru/public/DjPP/TDxAKEYP3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кaц, Мухaмaтулина] Из сундукa прoшлoгo",
+    "url": "https://disk.yandex.ru/d/CaLpiWfk3R7KGU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алла Касаткина] Женщина и ее деньги: от страхов к процветанию",
+    "url": "https://cloud.mail.ru/public/gbnc/9NMW6qhfV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Ляхова] Синемология по фильму «Мирный воин»",
+    "url": "https://cloud.mail.ru/public/AGyJ/Q9NoBnKqY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сeргeй Михaйлoв] Рaзвитиe интeллeкта. Для тeх, ктo хoчет пoумнeть (2015) (Пароль: g2kgdZ2vS4)",
+    "url": "https://cloud.mail.ru/public/H2xT/7FDJYttQr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Давыдов и Дмитрий Богданов] Уплотнитель жизни (продукт + транскрибация)",
+    "url": "https://cloud.mail.ru/public/2VYJ/2N96SmdeY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Приходько] Дизайн жизни 4.0. Перезагрузка (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/2gXq/2afoJmX6X",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Раков] Мастер-класс «Секреты женской самопрезентации»",
+    "url": "https://cloud.mail.ru/public/5AHz/kHS9FDtB7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наталья Правдина] Психология победителя или Как стать уверенным в себе на 100% (Пароль: www.infosklad.org)",
+    "url": "https://cloud.mail.ru/public/4eWH/5uRrGM5Gj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Aллaн и Бaрбaра Пиз] Хaризма. Искусствo успешногo oбщения (Аудиoкнига)",
+    "url": "https://disk.yandex.ru/d/ChEh-MHR37ZQko",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Денис Шальнов, Пётр Кузнецов] Харизма 21 века от известных авторов",
+    "url": "https://cloud.mail.ru/public/Nx8k/pa3VGkyHX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "13 принципов магии ораторского мастерства - Ланд (2017)",
+    "url": "https://cloud.mail.ru/public/mBW5/TopGzh5kn",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Ребенок с характером - Бурмистрова (2017)",
+    "url": "https://cloud.mail.ru/public/Bsou/3EhVgLWfD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Известный писатель - Барякина (2017)",
+    "url": "https://cloud.mail.ru/public/4T6y/4mRfgRK26",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Игры Афродиты - Ланске (2017)",
+    "url": "https://cloud.mail.ru/public/p5Eg/54pp6pqtD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кевин Круз] 15 секретов управления временем: Как успешные люди успевают всё",
+    "url": "https://cloud.mail.ru/public/GYhY/Jh69SjXB1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Фролова] Быстрый ум",
+    "url": "https://cloud.mail.ru/public/snF8/xrjMPFesE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "«Антихомяк. как перестать качать и начать изучать»",
+    "url": "https://cloud.mail.ru/public/NDih/YRMV4CQ2A",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Булыгин - квантовая настройка бессознательного",
+    "url": "https://cloud.mail.ru/public/wS3x/AuvmDUqj6",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Легендарный оратор: Улучши свою подачу за 7 дней! (Пароль: openssource.biz)",
+    "url": "https://cloud.mail.ru/public/24FF/2XjAGgHeo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Бубнов Р.] Полный перезапуск себя за 177 дней",
+    "url": "https://cloud.mail.ru/public/4BzU/Ks6WMVHj2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Воробьев С.] Самозапуск: Возьми жизнь в свои руки",
+    "url": "https://cloud.mail.ru/public/Fneg/K7eeE8rZZ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Aрсен Мaркaрян] Психосoфия, Психoсoфия 2.0",
+    "url": "https://drive.google.com/open?id=0B4s7OI5KUiH0VGRObF9zZjFXZjg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Чарли Хуперт] Воспитай непоколебимую уверенность в себе (2016)",
+    "url": "https://cloud.mail.ru/public/DCL2/5q5T9mn3a",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как написать стих любимому - Осиповский (2016)",
+    "url": "https://cloud.mail.ru/public/5hgh/9omZYYv3g",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Воля] Улучшайзер Силы Воли",
+    "url": "https://cloud.mail.ru/public/12hD/uaWegT2By/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Система « Мастер Ключ»",
+    "url": "https://cloud.mail.ru/public/QYQz/bvPkV1HSb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Брендон Берчард] Великий мотиватор",
+    "url": "https://cloud.mail.ru/public/MfYB/jUUT4PosV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Чеклецов] Навигатор",
+    "url": "https://cloud.mail.ru/public/Mfo4/nJbhqM3XU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гиллиген Стивен и Роберт Дилтс] Генeрaтивный кoучинг",
+    "url": "https://cloud.mail.ru/public/kd6b/ccouBJB1k",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нина Рубштейн] Инициация: как повзрослеть и стать магом собственной реальности",
+    "url": "https://cloud.mail.ru/public/3imF/vTsbhtRVP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Техника Доведения Дел до Ума",
+    "url": "https://cloud.mail.ru/public/wjZy/eKPW2hpKq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Газарова] Сексуальность и Социальный успех",
+    "url": "https://cloud.mail.ru/public/4gEi/cuzdvrBQH",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Мы — это наш мозг. От матки до Альцгеймера - Свааб",
+    "url": "https://drive.google.com/open?id=0ByOEGJlME1S8c0RZd0xFa2VzbjQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Федоренко] Уверенность в себе",
+    "url": "https://cloud.mail.ru/public/nb16/sbSvA3Ghg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Оксана Илечко] Системный тета-коучинг",
+    "url": "https://cloud.mail.ru/public/416r/5jAnD89eA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Сверхчеловеческий зрительный контакт. Излучай уверенность, привлекательность и харизму",
+    "url": "https://cloud.mail.ru/public/5WN7/jtiAMzdYY/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Роберт Мур, Дуглас Жиллетт] Король, Воин, Маг, Любовник.Король, Воин, Маг, Любовник.",
+    "url": "https://cloud.mail.ru/public/Ac1J/VRBG8p8Hc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Жесткие переговоры - Соловьев (2017)",
+    "url": "https://cloud.mail.ru/public/YeyV/vzUkbUgZV",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Виктор Крючков] Только для проекторов (Дизайн Человека/Human Design)",
+    "url": "https://cloud.mail.ru/public/uiZu/xVur14suk",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Steven Novella] Игры разума: Научное руководство по навыкам критического мышления (Ч.5)",
+    "url": "https://cloud.mail.ru/public/M74j/UhpLn9rXB",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Ляхова] Жизнь в Кайросе",
+    "url": "https://cloud.mail.ru/public/12ea/Ci8nUTcg2",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ирина Ляхова] Как материализовывать события в своей жизни или работа в новой реальности",
+    "url": "https://cloud.mail.ru/public/CbMj/zNVgy4GHy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Кожин] Антиматрица 2.0. Воля и состояние игры",
+    "url": "https://cloud.mail.ru/public/N2Qf/krWFEvvG9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Lee] Тело Творца (часть 1)",
+    "url": "https://cloud.mail.ru/public/3WjJ/sXNpVsTw4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Деньги в семье. Секрет гармоничных отношений с финансами в семье - Левчук (2017) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/KCEb/d24F3Dz5V",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марат Фазылов] Кто Я: в офисе, рабочей повседневности. Работа с образами Я",
+    "url": "https://cloud.mail.ru/public/LbdZ/dpN4LnbhG",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Стелла Чиркова] Как говорить нет",
+    "url": "https://katvin.com/?https://cloud.mail.ru/public/DTDs/NjMq2dF21",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[kleiton] Как тело управляет мозгом? Последняя улучшенная версия",
+    "url": "https://cloud.mail.ru/public/28dp/ihxZUnFJD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гильбо Евгений] Биоэнергетика: рефлексотерапия своими руками",
+    "url": "https://disk.yandex.ru/d/1K12m9-03LEEug",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дольто] Бессознательный образ тела",
+    "url": "https://disk.yandex.ru/i/tnoCDtWr3Gf4f9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Lee] За пределами жизни и смерти",
+    "url": "https://cloud.mail.ru/public/J9Mk/paraqa6W7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Чарли Хуперт] Университет харизмы:Модуль уверенность в себе",
+    "url": "https://cloud.mail.ru/public/Kw5H/ZcXwQjJDR",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Журфак - Марьясова (2016)",
+    "url": "https://cloud.mail.ru/public/bvVe/CpojKNUFb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Время - Lee (2016)",
+    "url": "https://cloud.mail.ru/public/GDFr/bTtAd4GGQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Гильбо Евгений] Цикл вебинаров «Быть русским»",
+    "url": "https://cloud.mail.ru/public/3Msj/ZsRPRJ7Fp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Злата Горохова] Исцеление внутреннего ребенка",
+    "url": "https://cloud.mail.ru/public/Eyvr/sev8CA3Qv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Гильбо] Управление судьбой: биоэнергетика, магические процедуры",
+    "url": "https://disk.yandex.ru/d/l14NkiSBgEaDN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Курпатов Андрей] Производство экзистенции и смысл жизни",
+    "url": "https://cloud.mail.ru/public/k5Em/1c2wbV5wi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Профессиональные сотрудники детского клуба - Тимофеева (2013)",
+    "url": "https://cloud.mail.ru/public/D43G/3T7HtMowq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Детоксикация мозга - Викиум (2016) (Пароль: hLsvVfU7s)",
+    "url": "https://cloud.mail.ru/public/4xCU/38ufJDkW4",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Развитие мышления - Викиум (2016) (Пароль: hLsvVfU7s)",
+    "url": "https://cloud.mail.ru/public/3fLA/4ixswfZGX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как научить мозг учиться - Черниговская",
+    "url": "https://cloud.mail.ru/public/pB5X/Q4LM1M8j3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Личная сила - Шумилов (2016)",
+    "url": "https://cloud.mail.ru/public/9UfL/3qM4WYFqt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалевский А] Работа со стрессом и позитивация будущего",
+    "url": "https://disk.yandex.ru/d/ZNiOt8jM3HS6mM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Мастер Консильери] [Вик Орлов] Сборник «Эффект» - Постоянное обновление.",
+    "url": "https://cloud.mail.ru/public/847p/1bv2KocCA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сборник книг] 2000 книг по саморазвитию",
+    "url": "https://disk.yandex.ru/d/YYYO45APrS4fi",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Наварро] Искусство влияния: Невербальные сигналы для достижения оптимального успеха",
+    "url": "https://cloud.mail.ru/public/r39U/Znb2uNDFM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Эмоциональный интеллект",
+    "url": "https://cloud.mail.ru/public/4Pak/GSrWPrcQW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лара Усова] Убеждения - столпы твоей жизни",
+    "url": "https://cloud.mail.ru/public/Lxa2/9ZaMTCgRX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Вероника Хованская] [Webtrening] Где взять энергию для достижения целей?",
+    "url": "https://cloud.mail.ru/public/879C/WoNaV6hNC",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Евгений Назаренко] Бойцовский клуб. Как побеждать свои страхи",
+    "url": "https://disk.yandex.ru/d/HcP3PMNN3GkUqj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дмитрий Богданов] Структура близости (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/54WQ/3RgFG9eCX",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Чарли Хуперт] Университет харизмы: Модуль Рассказчик. Тренинг (2017)",
+    "url": "https://cloud.mail.ru/public/33Lz/JEfPrTDT7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Мастерство общения - Хуперт (2016)",
+    "url": "https://cloud.mail.ru/public/3yjh/sYGXmixXA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Палиенко] Интуиция благосостояния (2017)",
+    "url": "https://cloud.mail.ru/public/8tp8/g6qWH4XNz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Юрий Ширкин] Считать в уме легко и просто (2016)",
+    "url": "https://disk.yandex.ru/d/i1qgIpKVmehXog?w=1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нина Рубштейн] Психосоматика: как услышать свое тело и разбудить разум? (вебинар)",
+    "url": "https://disk.yandex.ru/i/ncGj8BkOfpnYF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 5 день",
+    "url": "https://drive.google.com/drive/u/1/folders/0B0B_kHoINZ2ESHBsRzZNT1I2VkU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 6 день",
+    "url": "https://drive.google.com/drive/u/1/folders/0B0B_kHoINZ2ES01GVnlxREhDdmc",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 4 день",
+    "url": "https://drive.google.com/drive/u/1/folders/0B0B_kHoINZ2EeGNzN2lQeWoxbTA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 7 день",
+    "url": "https://drive.google.com/drive/u/1/folders/0B0B_kHoINZ2EdjlucHU0OFMwdlE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нина Рубштейн] Вебинар - Деньги в отношениях",
+    "url": "https://disk.yandex.ru/i/cdxhzo7MdpEZu",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Филиппов Сергей Гали] Как решить проблему одиночества в жизни (Пароль: lhepmz)",
+    "url": "https://cloud.mail.ru/public/ydYa/jeRixw2e7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Юмор. Базовый - Шелевей (2016) (Пароль: I-LOVE-Humour!!!)",
+    "url": "https://cloud.mail.ru/public/255R/5nwAAKuav",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Вебинар «Эмоциональный интеллект начинает и выигрывает» - Гандапас (2017)",
+    "url": "https://cloud.mail.ru/public/8rvb/FwDzUxetW",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ольга Фролова] Нестандартное мышление",
+    "url": "https://cloud.mail.ru/public/FcZQ/Bcr9MXf7z",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Борис Литвак] Манипуляции: атакуй и защищайся!",
+    "url": "https://cloud.mail.ru/public/FkDo/Z4oRhNspc/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ричард Дэнсон] Черная риторика. Запрещенные приёмы ведения дискуссий",
+    "url": "https://cloud.mail.ru/public/N342/P1CLHk4xA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Договаривайся выгодно - Филиппов (2015) (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/BUmC/mAGr6vMH3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Секреты ясной головы и продуктивности в интернет-бизнесе - Берестнев (2014)",
+    "url": "https://cloud.mail.ru/public/2U9n/EUpnKi2dE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Курсы писательского мастерства - пиши осознанно - Litcourses (2016)",
+    "url": "https://cloud.mail.ru/public/4zda/49Gi8fDVM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Udemy] Научный способ изменить свои привычки (ч.2) (2016)",
+    "url": "https://cloud.mail.ru/public/FRHi/TxxzKibRZ/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Супер-Интеллект. Мозг на миллион долларов - Домогацкий (2015)",
+    "url": "https://cloud.mail.ru/public/248x/2RH7pjCqo",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как бороться за своё - Зыгмантович (2017)",
+    "url": "https://cloud.mail.ru/public/oh7o/jfbAQyQM9",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Финишируй - Петухов (2015) (Пароль: Lychshiu_Forum_Runeta_INFOBIT.ME>2017)",
+    "url": "https://cloud.mail.ru/public/SLL3/2zEPwNGsU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Геше Макл Роуч] Лекция и семинар Майкла Роуча «Система Алмазного Огранщика»",
+    "url": "https://cloud.mail.ru/public/4B8f/2F15xjAyF",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Еженедельник Номера 1 - Манн (2015)",
+    "url": "https://cloud.mail.ru/public/DZPH/T38rAdZRP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Сэм Вонг] Нейробиология в повседневной жизни. Часть 1,2,3,4 (2016)",
+    "url": "https://cloud.mail.ru/public/q18x/tgoNDC88j",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Развитие правого полушария - Зденек (2016)",
+    "url": "https://cloud.mail.ru/public/2qLi/2zUq5pTqA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Роберт Шейнфилд] Аудиокнига «Освобождение от денежной игры»",
+    "url": "https://cloud.mail.ru/public/7j1r/xohvoo1bD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Твоя светская безупречность - Спиваковская (2016)",
+    "url": "https://cloud.mail.ru/public/3rb1/3NYeAWw39",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Истомин] Техники скрытого воздействия на человека",
+    "url": "https://cloud.mail.ru/public/hR7r/nV487DS43",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Рубштейн] Интеграция",
+    "url": "https://drive.google.com/uc?id=1bC9-GTP4660JF9gMVQWUyzw3JEg5wWhk&export=download",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Катрин Форс] Рождение Богини - Часть 1 (Женские практики)",
+    "url": "https://cloud.mail.ru/public/33xM/zvNmouTW7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[MikeD] Сборник тренингов(12 в 1)",
+    "url": "https://cloud.mail.ru/public/4zKk/pJiv2VV1p",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Как сочинить собственный тренинг - Рубштейн (2015)",
+    "url": "https://cloud.mail.ru/public/DESo/e9z7PuoSv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Нина Рубштейн] Вина и прощение",
+    "url": "https://cloud.mail.ru/public/3E4q/33iEAqJf5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Людмила Петрановская] Экономика семьи",
+    "url": "https://cloud.mail.ru/public/Wr6r/9F5KLNpsj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лариса Суркова] Марафон позитива",
+    "url": "https://cloud.mail.ru/public/as1u/6XGiQiTkP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев Сергей] Интеграция мастерства. Модули управления реальностью (2016)",
+    "url": "https://cloud.mail.ru/public/5xC4/4x3ZRFEJy",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Lее] Аудио-упражнения + Все книги",
+    "url": "https://cloud.mail.ru/public/4ekZ/5CS2NV1a1",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[ИИП С.Ковалёва] Техника входа в состояния COACH (2012)",
+    "url": "https://cloud.mail.ru/public/Awu2/kB4q3sEoq",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Павел Зыгмантович] Прививка от стресса + бонусы",
+    "url": "https://cloud.mail.ru/public/rvQd/KSwcYNMpM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Lee] Как найти свое «Я есть» (2016)",
+    "url": "https://cloud.mail.ru/public/2ht1/8aVvVwpUr",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Клинг] Запрещенные механизмы управления подсознанием",
+    "url": "https://cloud.mail.ru/public/1iji/GvxXf6wDQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Богданов, Клюхин] Матрица денег. Базовый + VIP. Транскрибация (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/Ni7X/yvoNzW4Bv",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Фролова Ольга] Эмоциональный интеллект VIP(2016)",
+    "url": "https://cloud.mail.ru/public/4MMH/6jMqRNBa7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Егор Булыгин и Андрей Кёниг] Денежное мышление. Транскрибация",
+    "url": "https://cloud.mail.ru/public/GFZa/sq81nHYgd",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Р. Гандапас, П. Курьянов, С. Азимов] Мужская конференция №1",
+    "url": "https://cloud.mail.ru/public/iSUP/2455NAbNH/",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Лев Вожеватов] Становление харизматика (Пароль: www.cogamesmoney.ru)",
+    "url": "https://cloud.mail.ru/public/JeMY/21ydnfigj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Модели и техники формирования благополучных событий - Палиенко (2016)",
+    "url": "https://cloud.mail.ru/public/2hqi/ZHuHUkF2s",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Александр Давыдов] Рождённый свободным (2009)",
+    "url": "https://cloud.mail.ru/public/L2jP/koNH86NJb",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 3 день",
+    "url": "https://drive.google.com/drive/u/0/folders/0B0B_kHoINZ2EZDFJX2pmQjlhTlk",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Яна Королева] Эниостиль.Читаем людей за 300 секунд.",
+    "url": "https://cloud.mail.ru/public/3FEC/YCK1Q81qS",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Санчес-Саржина] Мастер «MSF-SISTEM»",
+    "url": "https://cloud.mail.ru/public/23DC/WZKnvbZDA",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алексей Красильников] Учимся рассказывать анекдоты",
+    "url": "https://cloud.mail.ru/public/SYy5/hfRUhZ9hJ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Е.В. Гильбо] Молодежные сетевые структуры",
+    "url": "https://disk.yandex.ru/d/JZ3mcaD5jev9D",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Рамис Япаров] Тайм-менеджмент, или как повысить свою эффективность",
+    "url": "https://cloud.mail.ru/public/3fDW/pR9VdADcP",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Богданов Д.] Матрица здоровья VIP-2016 (Пароль: Open-Hide.biz)",
+    "url": "https://cloud.mail.ru/public/3ahf/26PgVwiG3",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 1 ступень",
+    "url": "https://drive.google.com/drive/u/0/folders/0B0B_kHoINZ2EWnp5aFFHTHY0UWM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[О. Парханович, А. Герасимов, А. Близняков, Ю. Чекчурин] НЛП Практик, Интенсив 2016, 2 день",
+    "url": "https://drive.google.com/open?id=0B-tcChIJcQK8UVlMNlJfZzZrRTQ",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев С. В.] Получение подсказок к игре",
+    "url": "https://disk.yandex.ru/d/5uLb5NeaxCshp",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев С.В.] Жизнь: инструкции по улучшению. 12 шагов в Благополучие",
+    "url": "https://disk.yandex.ru/d/s5aufS31vJAyg",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев Сергей Викторович] Символдрама (2015)",
+    "url": "https://cloud.mail.ru/public/VRNf/DuztcWdri",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[М. Пелехатый, Ю. Чекчурин, А. Герасимов] Манипуляции в переговорах",
+    "url": "https://drive.google.com/drive/u/0/folders/0B6RF5Jn5mRduOXpfRzZpWHJSYU0",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Алуника Добровольская] Женщина, за которой идут",
+    "url": "https://cloud.mail.ru/public/yLYR/7DxWFQRQK",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "Менталист. Настольная книга развития сверхспособностей сознания - Крескин (2010)",
+    "url": "https://cloud.mail.ru/public/3JxL/5ytS2ztm7",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Ковалев] Cпециалист. Взаимоотношения",
+    "url": "https://cloud.mail.ru/public/FoMV/51P6G7HFD",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Дениса Шальнов и Пётр Кузнецов] Харизма 21 века",
+    "url": "https://cloud.mail.ru/public/BFoU/pVrPk4zZY",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Humorial] Развить остроумие за 21 день",
+    "url": "https://disk.yandex.ru/d/8uxyI8HNZArqz",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Неизвестен] Аудиогипноз - Как научиться быстро засыпать",
+    "url": "https://cloud.mail.ru/public/HC1s/aVXCiqseM",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Кoвaлeвcкий] Психотерапия материального благополучия (часть первая) (2016) (Пароль: H7%rF@16&nbT3A)",
+    "url": "https://cloud.mail.ru/public/GyJr/x4iTAH4wt",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Антон Кoвaлeвcкий] Психотерапия материального благополучия (часть вторая) (2016)",
+    "url": "https://cloud.mail.ru/public/CwFD/wg8GqtcDU",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[TutorPlace] Речевые тренировки (2026)",
+    "url": "https://cloud.mail.ru/public/ihY4/sEzXNqKV5",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Елена Грязнова] [TutorPlace] Флирт (2026)",
+    "url": "https://cloud.mail.ru/public/5jXe/LL8c3b2RE",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Анна Литвиненко] [TutorPlace] Публичные выступления (2025)",
+    "url": "https://cloud.mail.ru/public/P2zP/mzGhH1UQa",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Василиса Михайлюта] [TutorPlace] Нейрогимнастика (2026)",
+    "url": "https://cloud.mail.ru/public/FBUo/6snnQkVYj",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Инна Филиппова] [TutorPlace] Аффирмации (2026)",
+    "url": "https://cloud.mail.ru/public/3JiX/Vk89gYJst",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Марина Степанова] [TutorPlace] Как повысить самооценку и уверенность (2025)",
+    "url": "https://cloud.mail.ru/public/rjP1/FrA1ja9XN",
+    "cloud": "Облако",
+    "category": "Развитие и познание себя"
+  },
+  {
+    "title": "[Кристина Тарба, Анастасия Иванова] Нейрогений. Тариф Vip. Август (2025)",
+    "url": "https://cloud.mail.ru/public/xW2Q/ZEcD8KUug",
     "cloud": "Облако",
     "category": "Нейросети"
   },
   {
-    "title": "[Denzl] Нейромания. Март (2026)",
-    "url": "https://cloud.mail.ru/public/maBE/UP857yBRo",
+    "title": "[Евгения Одуд] Claude Code для продактов (2026)",
+    "url": "https://cloud.mail.ru/public/PkGk/zN9CsPaYU",
     "cloud": "Облако",
     "category": "Нейросети"
   },
   {
-    "title": "[Prince Patni] [Udemy] Мастер редактирования изображений в модели Gemini 2.5 Flash (Nano Banana)",
-    "url": "https://cloud.mail.ru/public/xXF2/1MyXnNdQz",
+    "title": "[Анжела Петкова] Воркшоп по ИИ-агентам. Как за 3 часа внедрить себе 3 агентов, которые сэкономят вам 20+ часов в неделю (2026)",
+    "url": "https://cloud.mail.ru/public/iyKc/Eh7vq7cNG",
     "cloud": "Облако",
     "category": "Нейросети"
   },
   {
-    "title": "[Мария Сухоруких] Легкий старт в TG (2025)",
-    "url": "https://cloud.mail.ru/public/YbKJ/L9nsmxZ7K",
+    "title": "[Наталья Иванова] НейроПерезагрузка карьеры и жизни. Тариф Нейросети для заработка (2026)",
+    "url": "https://cloud.mail.ru/public/9mab/dTJ3pzEx6",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Евгений «Chip» Юрченко] Человек 2.0. Воркшоп по вайб-кодингу и созданию ИИ-ассистента (2026)",
+    "url": "https://cloud.mail.ru/public/ZVjp/MKxYyb1ng",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Дарья Булавина] ИИшница: ретушь 2026",
+    "url": "https://cloud.mail.ru/public/G1aA/VGe3co7b3",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Chetan Pujari] [Udemy] Полный курс по Google Veo 3.1: от текстового промпта до создания фильма (2026)",
+    "url": "https://cloud.mail.ru/public/1phR/pH8TWL8uy",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Шамиль Камалиев] [TutorPlace] Вайбкодинг (2025)",
+    "url": "https://cloud.mail.ru/public/L7K8/fLpD3Jivo",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Андрей Савостеев] [TargetPro Siberia] Реклама канала в Max (2026)",
+    "url": "https://cloud.mail.ru/public/pTNi/JBCKL9E8k",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Михаил Тимочко] Клуб Cash You (2025)",
-    "url": "https://cloud.mail.ru/public/ZKve/6euTQCgWr",
+    "title": "[Максим Храповицкий] DrMax: Промптоведение для SEO-стратегов (2026)",
+    "url": "https://cloud.mail.ru/public/Wr7J/2x7yqfvMS",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Елена Червонец] Школа контекстной рекламы. Директолог нарасхват. Тариф Оптимальный. 25 поток (2025)",
-    "url": "https://cloud.mail.ru/public/cT3i/gEC9H1cum",
+    "title": "[Дарья Рейшвиц] Создай свой мультяшный Reels на миллион просмотров (2026)",
+    "url": "https://cloud.mail.ru/public/eu6x/wMeUjSznF",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Наталья Петрова, Елена Ярушкина] [klerk] Пенсия – 2026: как рассчитать, увеличить и не остаться без денег (2026)",
-    "url": "https://cloud.mail.ru/public/xQgv/6VMWoMiiw",
+    "title": "[Ксения Суслова] [TutorPlace] Сценарист прогревов (2026)",
+    "url": "https://cloud.mail.ru/public/3XYi/TcZuVqqjU",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Mike Pritula] [Udemy] Soft skills для HR - развиваем свои гибкие навыки (2026)",
+    "url": "https://cloud.mail.ru/public/dV5U/dYxp3Q6yr",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Михаил Гребенюк] Подписка на телеграм-канал Аномалия. Март (2026)",
-    "url": "https://cloud.mail.ru/public/SPMY/HtTqPX6n6",
+    "title": "[Олег Макаренко] Школа капитализма. Тариф Вольнослушатель. Март (2026)",
+    "url": "https://cloud.mail.ru/public/LnYo/46WiPcfDx",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Полина Карвонен] [TutorPlace] Концепт арт: создание персонажа (2026)",
-    "url": "https://cloud.mail.ru/public/L9Kz/aTWc7crnh",
+    "title": "[Евгений Тохтаров] От одиночки к команде. Тариф С эфирами (2025)",
+    "url": "https://cloud.mail.ru/public/WAfJ/Jj1YFeiZG",
     "cloud": "Облако",
-    "category": "Дизайн и живопись"
+    "category": "Бизнес"
   },
   {
-    "title": "[Полина Зуева] [TutorPlace] Роспись по ткани (2026)",
-    "url": "https://cloud.mail.ru/public/i8hH/SuCRYHQwZ",
+    "title": "[Актион-пресс] Журнал Финансовый директор (Май 2025 - Апрель 2026)",
+    "url": "https://cloud.mail.ru/public/qdCr/zNu8XbTtp",
     "cloud": "Облако",
-    "category": "Дизайн и живопись"
+    "category": "Бизнес"
   },
   {
-    "title": "[Виталий Антипин] Женский образ. Часть 1 (2026)",
-    "url": "https://cloud.mail.ru/public/Eyw4/jhXdVBQdV",
+    "title": "[Актион] Журнал «Упрощенка» (2026)",
+    "url": "https://cloud.mail.ru/public/Rtem/x6WuxPrDt",
     "cloud": "Облако",
-    "category": "Дизайн и живопись"
+    "category": "Бизнес"
   },
   {
-    "title": "[Марсель Сингатуллин] Шепот розовых лепестков (2026)",
-    "url": "https://cloud.mail.ru/public/ey8Q/mFtU4X7yS",
+    "title": "[Николай Сабзир] Бизнес на микрозелени свекла, горчица белая, горошек, кресс-салат, полив (2020)",
+    "url": "https://cloud.mail.ru/public/xV1j/uJRHuXsTR",
     "cloud": "Облако",
-    "category": "Дизайн и живопись"
+    "category": "Бизнес"
   },
   {
-    "title": "[Дмитрий Захаров] База про эндометриоз (2025)",
-    "url": "https://cloud.mail.ru/public/saxN/aeS5BUeyP",
+    "title": "[Элина Жгенти] Курс по продюсированию. Тариф Черный Ящик (2023)",
+    "url": "https://cloud.mail.ru/public/65X5/H1tG3Q9Qb",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Бизнес"
   },
   {
-    "title": "[Евгения Иванова] [TutorPlace] Ленивая йога (2026)",
-    "url": "https://cloud.mail.ru/public/griX/QNrFhkJ1X",
+    "title": "[Элина Жгенти] Интенсив по созданию карточек для маркетплейсов с телефона (2025)",
+    "url": "https://cloud.mail.ru/public/t4ke/VXTRcbfLG",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Бизнес"
   },
   {
-    "title": "[Мария Кузнецова] [TutorPlace] Ягодицы 3D (2026)",
-    "url": "https://cloud.mail.ru/public/jinX/9BeWrCrXc",
+    "title": "[Катерина Лаппа] [TutorPlace] Логистика (2025)",
+    "url": "https://cloud.mail.ru/public/odLQ/ixU9LuDBs",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Бизнес"
   },
   {
-    "title": "[Сергей Новиков] Простата: просто о непростом... (2026)",
-    "url": "https://cloud.mail.ru/public/4Eti/xRHU5JR6r",
+    "title": "[Анжелика Воронкова] [TutorPlace] Личный бренд (2026)",
+    "url": "https://cloud.mail.ru/public/mfu3/oJJuYfF6j",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Бизнес"
   },
   {
-    "title": "[Евгения Назимова] [Стоп климакс] Женский клуб 45+. Этап 5. Энергия на 100% (2025)",
-    "url": "https://cloud.mail.ru/public/h1DA/BfymKR5Uc",
+    "title": "[Наталья Терновская] [TutorPlace] Финансы ВБ и ОЗОН (2026)",
+    "url": "https://cloud.mail.ru/public/Y19P/1vh84hs5n",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Бизнес"
   },
   {
-    "title": "[Дмитрий Диксон] Танцевальный телеграм-канал. Март (2026)",
-    "url": "https://cloud.mail.ru/public/c22w/ZdvHiybF9",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Юлия Крушанова] Здоровье сердечно-сосудистой системы (2026)",
-    "url": "https://cloud.mail.ru/public/chTm/tRD35Phdm",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Юлия Крушанова] Здоровье костей и суставов в течение всей жизни (2026)",
-    "url": "https://cloud.mail.ru/public/rX8W/XbzjDdUvc",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Неоглори] Разблокируйте свои сосуды от головы до ног. Шесть простых шагов к вашему сильному сердцу и сосудам (2026)",
-    "url": "https://cloud.mail.ru/public/rgWN/HoP2rLGhJ",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Школа Диалог] Простой турецкий для жизни. Начальный уровень A1 (2026)",
-    "url": "https://cloud.mail.ru/public/4a5Z/wxBuxvJpr",
-    "cloud": "Облако",
-    "category": "Иностранные языки"
-  },
-  {
-    "title": "[Елизавета Мороз] [pion_zefir] Зефирный флорист. Тариф С рецептом (2025)",
-    "url": "https://cloud.mail.ru/public/3BaL/S6qCcW8Fu",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Ксения Хохлова] Корпусные База. Базовый курс по корпусным Ксении Хохловой (2026)",
-    "url": "https://cloud.mail.ru/public/9sio/X7mADEe1p",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Ася Гильмутдинова] [ketocake39] Другие сладости (Март 2026)",
-    "url": "https://cloud.mail.ru/public/gTbZ/hLuSC4Kga",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Ангелина Коба] [Cake by Angel] Светлая Пасха 3.0. Тариф Профи (2026)",
-    "url": "https://cloud.mail.ru/public/Xbvy/kDy8NoHGp",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Елена Денисова] Курс по ферментации орехов (2026)",
-    "url": "https://cloud.mail.ru/public/Nxzb/XPC3KFRPQ",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Xleb.tartin] Хлеб подовый цельнозерновой Столичный (2026)",
-    "url": "https://cloud.mail.ru/public/LF2V/YzaUWFKJw",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Анатолий Грищенко] [TutorPlace] Диджеинг (2026)",
-    "url": "https://cloud.mail.ru/public/xvdf/maqNHjyQF",
-    "cloud": "Облако",
-    "category": "Музыка"
-  },
-  {
-    "title": "[Юрий Курилов, Александр Ампир] Ваша первая песня. Тариф Запись без условий (2026)",
-    "url": "https://cloud.mail.ru/public/Z5Zv/8uCPmGRXw",
-    "cloud": "Облако",
-    "category": "Музыка"
-  },
-  {
-    "title": "[Dominik F] [Udemy] Мастер-класс N8N 2026 - освойте автоматизацию с помощью ИИ с нуля (2026) (ENG)",
-    "url": "https://cloud.mail.ru/public/ziyS/j863KFoGo",
-    "cloud": "Облако",
-    "category": "Программирование и администрирование"
-  },
-  {
-    "title": "[Роман Сакутин] [ЯЮниор] Первая игра в Roblox за 7 дней (2026)",
-    "url": "https://cloud.mail.ru/public/3Lbx/MWtJSpdGf",
-    "cloud": "Облако",
-    "category": "Программирование и администрирование"
-  },
-  {
-    "title": "[Ксения Березкина, Анастасия Анисимова] Интенсив Деньги через мужчин (2026)",
-    "url": "https://cloud.mail.ru/public/Hm7t/bfNrKNS3h",
-    "cloud": "Облако",
-    "category": "Психология"
-  },
-  {
-    "title": "[Владимир Алипов] Нейробиология силы воли (2026)",
-    "url": "https://cloud.mail.ru/public/uHSj/nBnDDBB9T",
-    "cloud": "Облако",
-    "category": "Психология"
-  },
-  {
-    "title": "[Виктор Мараховский] Подписка на тексты Виктора Мараховского. Март (2026)",
-    "url": "https://cloud.mail.ru/public/Z8FV/B9F6i4dhv",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Кримсон Альтер, Виктор Мараховский] Средство немассовой информации СНМИ (Март 2026)",
-    "url": "https://cloud.mail.ru/public/2L5e/5BNf7UAKK",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Анна Кулакова] [НАрхСИ] Фитодизайн (2026)",
-    "url": "https://cloud.mail.ru/public/fXw6/PDkERoXUa",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Александр Темников] [AtSea] Fuel oil and Lube Oil on board (2025)",
-    "url": "https://cloud.mail.ru/public/HDy9/QYeyukUS4",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Александр Темников] [AtSea] Компрессор рабочего воздуха (2025)",
-    "url": "https://cloud.mail.ru/public/PFg9/xnFygKyp5",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Александр Темников] [AtSea] Установка Осушения Воздуха на борту (2025)",
-    "url": "https://cloud.mail.ru/public/GTmT/5pL8xsEmn",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Александр Темников] [AtSea] Компрессор Пускового Воздуха (2025)",
-    "url": "https://cloud.mail.ru/public/jH1P/qN4KD3Fdr",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Константин Михайлов] Новое время: XVI и XVII века. Лекция 6. На востоке (2026)",
-    "url": "https://cloud.mail.ru/public/UQfn/HWJWf2uhE",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Лука Ебков] Подписка на контент (Март 2026)",
-    "url": "https://cloud.mail.ru/public/c4Z3/trTc67tYb",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Иван Негреев] [Точка интеллекта] Колдовство и магия в истории религий. Дальний Восток. Лекция 9 (2026)",
-    "url": "https://cloud.mail.ru/public/sD9D/nVn51hJps",
-    "cloud": "Облако",
-    "category": "Разное"
-  },
-  {
-    "title": "[Владислав Терзи, Алерон Миленькин] [Stepik] Вайбкодинг: cделай и продай сайт за 3 часа (2025)",
-    "url": "https://cloud.mail.ru/public/jAy1/WBBtnDp8D",
-    "cloud": "Облако",
-    "category": "Создание сайтов"
-  },
-  {
-    "title": "[WebDesign Master] Создание сайта на WordPress (2025)",
-    "url": "https://cloud.mail.ru/public/uSNn/Gsc2gHtNw",
-    "cloud": "Облако",
-    "category": "Создание сайтов"
-  },
-  {
-    "title": "[Алексей Кречетов] Подписка на телеграм канал. Март (2026)",
-    "url": "https://cloud.mail.ru/public/S3AH/DXRMFudGJ",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Арина Веспер] [Vesperfin] Vesperfin&Co.Trading. Март (2026)",
-    "url": "https://cloud.mail.ru/public/jm3H/B74moUgtC",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Razb0rka] Разборка отчётов российских компаний и статистики. Март (2026)",
-    "url": "https://cloud.mail.ru/public/Xh2D/kyTBtz6tz",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Алексей Антонов] Подписка на контент. Тариф Университет Антонова. Март (2026)",
-    "url": "https://cloud.mail.ru/public/tBA5/Lgh24dfwi",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Иван Данилов] Кофе с банкиром. Март (2026)",
-    "url": "https://cloud.mail.ru/public/YHvK/HPjrRrZrN",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Анар Бабаев] Клуб - На пенсию в 35 лет (Март 2026 и ранее)",
-    "url": "https://cloud.mail.ru/public/MH3T/f1TEtZDjM",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Арина Веспер] [Vesperfin] Канал сигналов Vesperfin Stock House (Март 2026)",
-    "url": "https://cloud.mail.ru/public/fZrp/khGGPwstR",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Василий Олейник] Деньги не спят (Март 2026)",
-    "url": "https://cloud.mail.ru/public/8MjZ/a6yoACQwP",
-    "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
-  },
-  {
-    "title": "[Полина Дятлова] Видеoурoк по женскoму позирoванию (2024)",
-    "url": "https://cloud.mail.ru/public/LzDW/nbqnEXTht",
-    "cloud": "Облако",
-    "category": "Фото и видео"
-  },
-  {
-    "title": "[Александр Заморин] [Фотошкола Друзья] Зеркaлкa Canon. Повышение мастерства (2024)",
-    "url": "https://cloud.mail.ru/public/tagw/CnwpZ1Jpe",
-    "cloud": "Облако",
-    "category": "Фото и видео"
-  },
-  {
-    "title": "[Imran Afzal] [Udemy] CapCut Team Accelerator: с нуля до профессионального видеомонтажера за 1 день (2026)",
-    "url": "https://cloud.mail.ru/public/Gy5U/ggHdAvUrm",
-    "cloud": "Облако",
-    "category": "Фото и видео"
-  },
-  {
-    "title": "[Ван Минъин] Спец. структуры карт Ба-цзы. Соединение трёх судеб. 6 том (2026)",
-    "url": "https://cloud.mail.ru/public/FsCJ/Qagw29FVV",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Пол Джеффри Росс] Магическое и экстрасенсорное воздействие (часть 7 из 10)",
-    "url": "https://cloud.mail.ru/public/eAxc/XoT9KNZXj",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Д-р Дейн Хир] Финансовый класс: это не то, что вы думали (2026)",
-    "url": "https://cloud.mail.ru/public/r4fQ/orKvfXCPD",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Дарья Николаева] [TutorPlace] Хиромантия 2.0 (2026)",
-    "url": "https://cloud.mail.ru/public/9vag/FNMUxeHgC",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[mama.astro] Лунный календарь 5.0. Ваша инструкция на каждый день (Апрель 2026)",
-    "url": "https://cloud.mail.ru/public/RvqR/niELhXLDo",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Анастасия Mon] [Сила Таро] Магия талисманов Таро. Младшие арканы Посохи (2026)",
-    "url": "https://cloud.mail.ru/public/ZqiS/QSvJBXm7F",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Анастасия Mon] [Сила Таро] Магия талисманов Таро. Старшие арканы 1-7 (2026)",
-    "url": "https://cloud.mail.ru/public/vsAU/gvz73yYf5",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Марта Николаева-Гарина] Психонавтика (2026)",
-    "url": "https://cloud.mail.ru/public/sG8C/ynDqZqCSo",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Юдола Белимирова] Чтение жизни Ци Мень. Модуль 1 (2025)",
-    "url": "https://cloud.mail.ru/public/6FqU/FLDkSeg8p",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Юдола Белимирова] Чтение жизни Ци Мень. Модуль 2 (2025)",
-    "url": "https://cloud.mail.ru/public/P5Mg/hYLX2rgRs",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Вика Дмитриева] Образ жизни + Пищевое поведение детей и подростков",
-    "url": "https://cloud.mail.ru/public/rDVU/LSjSzBM8v",
+    "title": "[Меседу Булач] Интеллект (2025)",
+    "url": "https://cloud.mail.ru/public/pDWE/kKtA6y6mt",
     "cloud": "Облако",
     "category": "Дети и родители"
+  },
+  {
+    "title": "[Шамиль Ахмадуллин] Апельсиновое дерево. Книга для родителей",
+    "url": "https://cloud.mail.ru/public/FsZd/oaM1GXrKH",
+    "cloud": "Облако",
+    "category": "Дети и родители"
+  },
+  {
+    "title": "[Александр Воеводов] [TutorPlace] Создание анимации (2026)",
+    "url": "https://cloud.mail.ru/public/Xhqu/ptJd6km9z",
+    "cloud": "Облако",
+    "category": "Дизайн и живопись"
+  },
+  {
+    "title": "[Анастасия Газукина] [TutorPlace] Акварельная живопись для начинающих (2025)",
+    "url": "https://cloud.mail.ru/public/8oWh/RkdcDYwWu",
+    "cloud": "Облако",
+    "category": "Дизайн и живопись"
+  },
+  {
+    "title": "[Алла Чеканова] Биохимия старения. Тариф Самостоятельный (2025)",
+    "url": "https://cloud.mail.ru/public/9BDU/4UXCYYWC1",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Владимир Дадали, Анна Чеканова, Елена Ержанова] [EDPRO] Здоровье всей семьи (2024)",
+    "url": "https://cloud.mail.ru/public/a4vT/ZKF2Xv48Q",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Анастасия Лунегова] Клуб легкость и сила. Март (2026)",
+    "url": "https://cloud.mail.ru/public/KeqT/iotpBJEgF",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Марина Корпан] Весеннее преображение. Пакет Стандартный (2026)",
+    "url": "https://cloud.mail.ru/public/n6T5/GZieABfAp",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Виктория Боровская] Нейросlub. Легкое движение, ясный ум, молодое тело. Март (2026)",
+    "url": "https://cloud.mail.ru/public/pv5H/ZoP4LKtAY",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ольга Помойнецкая, Асем Адылбаева] Аюрведа для здоровья, души и тела (2026)",
+    "url": "https://cloud.mail.ru/public/d5pZ/96hEXAWfB",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Миша Сахаров] Остановить хроническую усталость (2026)",
+    "url": "https://cloud.mail.ru/public/cBia/wYQU4doNp",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Галина Турецкая] Пока, бока! 2.0. Весеннее преображение (2026)",
+    "url": "https://cloud.mail.ru/public/bsWT/NbdhH4o8P",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Евгений Харламов] [АТТ] Сегментарное тейпирование. Базовый курс (2026)",
+    "url": "https://cloud.mail.ru/public/23Le/XqewNW31g",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Данила Сусак, Аман Атилов] Клуб здоровья и молодости 3.0. Уроки 24-31 (2026)",
+    "url": "https://cloud.mail.ru/public/Sc36/BZ1Px5uP6",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Элисо Джобава] Сон и стресс (2026)",
+    "url": "https://cloud.mail.ru/public/pwK5/aFx9fQ4Kw",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Антон Копалов] [TutorPlace] Здоровая улыбка (2026)",
+    "url": "https://cloud.mail.ru/public/JKQv/t3SATaKWu",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Михаил Тыдыков] [TutorPlace] ЛФК (2026)",
+    "url": "https://cloud.mail.ru/public/zoXD/PShKtrY7E",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Дмитрий Салищев] [TutorPlace] Домашняя реабилитация (2026)",
+    "url": "https://cloud.mail.ru/public/fHeS/2V6k4teit",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Екатерина Коченгина] [TutorPlace] Домашний комплекс для здоровья (2026)",
+    "url": "https://cloud.mail.ru/public/MJJh/jdWRAQb5f",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Надежда Зимневич] [TutorPlace] Пилатес (2026)",
+    "url": "https://cloud.mail.ru/public/Bt6f/yJyUiB7CX",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Дарья Зубкова] [TutorPlace] Пилатес для начинающих (2026)",
+    "url": "https://cloud.mail.ru/public/Wy1U/HA8T5ug7Y",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Лилия Тынчерова] [TutorPlace] Танцы живота (2026)",
+    "url": "https://cloud.mail.ru/public/ym83/eqWQuPYHe",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Александра Самохлебова] [TutorPlace] Королевская осанка (2026)",
+    "url": "https://cloud.mail.ru/public/DJwX/tvhc8dgcU",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Юлия Алексеева] [TutorPlace] Правильная осанка (2026)",
+    "url": "https://cloud.mail.ru/public/NfW6/GWWLUxQWG",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Наталья Демьяненко] [TutorPlace] Йогатерапия (2026)",
+    "url": "https://cloud.mail.ru/public/ieFF/793s5VmTS",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Валерия Маюшина] [TutorPlace] Йога для начинающих (2026)",
+    "url": "https://cloud.mail.ru/public/whoc/eB1qJyxxt",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Валерия Шарова] [TutorPlace] Шейпинг (2026)",
+    "url": "https://cloud.mail.ru/public/rhtp/nJiykqJkZ",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[TutorPlace] Иммерсивные тренировки (2026)",
+    "url": "https://cloud.mail.ru/public/xPK3/4ovN1xz4p",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Алина Сафиуллина] [TutorPlace] Самомассаж (2026)",
+    "url": "https://cloud.mail.ru/public/SsDk/G8EW3ZeWB",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Анастасия Пылина] [TutorPlace] Саундхилинг (2026)",
+    "url": "https://cloud.mail.ru/public/htDf/9BkgzAmbo",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Игорь Черняев] [TutorPlace] Бачата (2026)",
+    "url": "https://cloud.mail.ru/public/z61Q/6iC5bQEn3",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Светлана Федорова] [TutorPlace] Шпагат (2026)",
+    "url": "https://cloud.mail.ru/public/1NJW/4pQA65ssJ",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Александр Ломеко] [TutorPlace] Цигун (2026)",
+    "url": "https://cloud.mail.ru/public/KoqA/pzpTcsq7R",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Полина Пискун] [TutorPlace] Barre (2026)",
+    "url": "https://cloud.mail.ru/public/1MUa/VU4d5N7Lf",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ксения Шушарина] [TutorPlace] Спортивная сушка (2025)",
+    "url": "https://cloud.mail.ru/public/JQnC/B5bXh4mu3",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Татьяна Соколова] [TutorPlace] Растяжка для новичков (2025)",
+    "url": "https://cloud.mail.ru/public/5Ycn/HDaoXGjtQ",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Ульянов Юрий] Курс Тайского массажа (2015)",
+    "url": "https://cloud.mail.ru/public/SjLm/hp8p35EAG",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Елена Михайлова] [TutorPlace] Домашнее кардио (2026)",
+    "url": "https://cloud.mail.ru/public/2vvx/e4B8fGqxU",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Елена Шведова] Профилактика и лечение почечных заболеваний (2020)",
+    "url": "https://cloud.mail.ru/public/pZ2a/RLra9ZXcx",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Татьяна Холина] [Fit home club] Упругие ягодицы (2026)",
+    "url": "https://cloud.mail.ru/public/s2ST/4JZs9FgP2",
+    "cloud": "Облако",
+    "category": "Здоровье и спорт"
+  },
+  {
+    "title": "[Татьяна Тимофеева] [Школа Шопинга] Гардероб под ключ + Как сочетать цвета (Март 2026)",
+    "url": "https://cloud.mail.ru/public/MknQ/t7d9s1P5h",
+    "cloud": "Облако",
+    "category": "Имидж и стиль"
+  },
+  {
+    "title": "[Жанна Сан-Жак] [Saint-jacques beauty school] Весенняя перезагрузка (2026)",
+    "url": "https://cloud.mail.ru/public/GGhr/qCDa2S54D",
+    "cloud": "Облако",
+    "category": "Имидж и стиль"
+  },
+  {
+    "title": "[Лия Онохова] [TutorPlace] Сам себе визажист (2026)",
+    "url": "https://cloud.mail.ru/public/G8Tc/ajRFw8kAj",
+    "cloud": "Облако",
+    "category": "Имидж и стиль"
+  },
+  {
+    "title": "[Ольга Богатова] Легкий марафон 2.0 (2026)",
+    "url": "https://cloud.mail.ru/public/gHCP/pxbqaGq5B",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Николай Гагарин] [Gift Cookies] Хлебная лавка (2025)",
+    "url": "https://cloud.mail.ru/public/Rnbd/YGvRwoFo5",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Крохмаль] [Pastry-school] Пасхальные куличи с начинкой (2026)",
+    "url": "https://cloud.mail.ru/public/Pbi1/tUuaeayTc",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Алина Макарова] [Cake School] Пасхальный курс. Тариф На заказ (2025)",
+    "url": "https://cloud.mail.ru/public/aGpd/T3hMkA4cW",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Алина Ахмадиева] [Alina2cake School] Пасха как хобби. Тариф Без поддержки (2026)",
+    "url": "https://cloud.mail.ru/public/iHnD/ZSKfirdr7",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Марина Миронова] [ByMironova] Corpus Cakes - Корпусные арт Десерты (2026)",
+    "url": "https://cloud.mail.ru/public/18W3/pMRYNcVxi",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Сергей Леонов] [ЗоЖиГай] ЗОЖигай на кухне (2026)",
+    "url": "https://cloud.mail.ru/public/ekPd/XAvwEyk7p",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Сергей Леонов] [ЗОЖиГай] Anti-Age-кухня (2026)",
+    "url": "https://cloud.mail.ru/public/hz1m/aR3CVALmB",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Скрыган] [Coup de coeur] Кондитерский университет: основа основ для кондитера 6.0. 1 ступень. Тариф С мощной поддержкой (2026)",
+    "url": "https://cloud.mail.ru/public/jZRW/MBDGHjxku",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Ольга Шмукста, Анжелика Телегина] Пироги. Сладкая и несладкая выпечка. Тариф Пироги 5 в 1 (2026)",
+    "url": "https://cloud.mail.ru/public/i2Wp/7aau1aGUf",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Екатерина Завирюха] Сладкая весна. Тариф Светлая пасха (2026)",
+    "url": "https://cloud.mail.ru/public/Wvu6/GVt87TSjK",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Настя Пронина] Что приготовить, чтобы не готовить. Тариф Заготовки для себя (2026)",
+    "url": "https://cloud.mail.ru/public/xsna/C7xGqsumJ",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Наталья Визельберг] Завтраки, которые возвращают энергию, гормональное здоровье и красоту (2026)",
+    "url": "https://cloud.mail.ru/public/LGx9/LpsEMsueo",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Анна Томильчик] Линцерское печенье (2022)",
+    "url": "https://cloud.mail.ru/public/o49A/PJJD8z7Nj",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Рузанова] Сырные трюфели",
+    "url": "https://cloud.mail.ru/public/SHPE/FwAt8T94c",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[zefirina_buket56] Птичье молоко в молдах (2024)",
+    "url": "https://cloud.mail.ru/public/ZXvV/3iSEfoNjb",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Александра Санталова] Авторский курс RAW десертов «Тут не пекут PRO»",
+    "url": "https://cloud.mail.ru/public/yeDu/w1KAnoXE6",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Ольга Богатова] Щербет с фундуком. Апельсиновые ириски (2024)",
+    "url": "https://cloud.mail.ru/public/4im3/PAMXpzAZy",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Ольга Богатова] Коробка сладостей №1 (2023)",
+    "url": "https://cloud.mail.ru/public/vSor/GhudjJ2Pf",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Богданова, Елена Шпак] Курс десертов для детей «Мам, купи!» (2022)",
+    "url": "https://cloud.mail.ru/public/wtEW/a86ttXSjM",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Богданова, Елена Шпак] Пельмени. Вареники. Равиоли (2022)",
+    "url": "https://cloud.mail.ru/public/Pnjq/WKKy2qq6N",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Светлана Аристова] Шоколадные конфеты своими руками (2022)",
+    "url": "https://cloud.mail.ru/public/SKUK/pSkWqri2H",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Дарья Манакова] Вокология. Искусство вокального преподавания (2025)",
+    "url": "https://cloud.mail.ru/public/Sx1D/Z9749AaDh",
+    "cloud": "Облако",
+    "category": "Музыка"
+  },
+  {
+    "title": "[Алекс Мэй] Азбука знакомств для мужчин и женщин (2026)",
+    "url": "https://cloud.mail.ru/public/NUxs/GR4zR9813",
+    "cloud": "Облако",
+    "category": "Пикап, искусство соблазнения"
+  },
+  {
+    "title": "[Анастасия Кузнецова] [Simulative] Осмысленные дашборды (2026)",
+    "url": "https://cloud.mail.ru/public/8ahG/c9Prbp6U8",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Stepik] Unity 6.FNaF с Лабубу: 3D-хоррор игра для ЯндексИгр для новичков (2026)",
+    "url": "https://cloud.mail.ru/public/7fxN/axiubAqPK",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Scott Moss] Фундаментальные принципы AI-инжиниринга (2026) (ENG)",
+    "url": "https://cloud.mail.ru/public/bQ78/zZdp4CXtE",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Алексей Арестович] [Apeiron] Кино-модуль Мир Толкина. Хоббит: нежданное путешествие. Занятие 1 (2026)",
+    "url": "https://cloud.mail.ru/public/xxhi/sqFBkEM4V",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Inna de Almeida] [Ladies School] Мастер-класс «Когда делаю ставку на мужчину, а не на себя» или как выйти замуж? (2026)",
+    "url": "https://cloud.mail.ru/public/cUAY/TD9N6ropL",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Александр Российский] Код фасции (2026)",
+    "url": "https://cloud.mail.ru/public/1Kyz/A9Fys8KcE",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Pareto] [Авторская] Позиция Хозяина: как перестать реагировать на жизнь и начать её создавать (2026)",
+    "url": "https://cloud.mail.ru/public/WFr6/Y3frvkwpQ",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Алексей Арестович] [Apeiron] Семантическое пространство. Занятие 3 (2026)",
+    "url": "https://cloud.mail.ru/public/E32J/sQHxJNBpc",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Таис Крымова] [Apeiron] Архетипы женственности. Занятие 1 (2026)",
+    "url": "https://cloud.mail.ru/public/o17V/fZHsEmHF8",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Алексей Красиков] Неврозы мегаполиса (Январь 2026)",
+    "url": "https://cloud.mail.ru/public/9HnX/DutwAj4in",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Вика Дмитриева] Вебинар «Мотивация» (2021)",
+    "url": "https://cloud.mail.ru/public/sNMM/biuGMDTxC",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Андрей Курпатов] Как работать с внутренними противоречиями клиента? (2025)",
+    "url": "https://cloud.mail.ru/public/bXcH/pJAJ3kjty",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Денис Ткачев] [TutorPlace] Актерское мастерство (2026)",
+    "url": "https://cloud.mail.ru/public/mYqE/Gh6QgvUZq",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Мария Медведева] [TutorPlace] Красиво жить не запретишь Эстетика повседневности (2025)",
+    "url": "https://cloud.mail.ru/public/sBBn/t3gcT1YXi",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Алия Карамуллина] Удаленный Турагент (2025)",
+    "url": "https://cloud.mail.ru/public/Uuid/UAUGUxFwE",
+    "cloud": "Облако",
+    "category": "Путешествия"
+  },
+  {
+    "title": "[Иван Негреев] Философский читательский клуб. Жан Бодрийяр «Симулякры и симуляция». Часть 4 (2026)",
+    "url": "https://cloud.mail.ru/public/uH6d/ssYsD1vnq",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Денис Драгунский] Писательское мастерство (2020)",
+    "url": "https://cloud.mail.ru/public/uW7s/4CUvVLBG7",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Александр Напорко] Живая колода (2023)",
+    "url": "https://cloud.mail.ru/public/U98K/QgrhbviEA",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Александр Напорко] Косая Колода (2026)",
+    "url": "https://cloud.mail.ru/public/hVbV/Tuge41XhC",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Александр Напорко] Ментальные Конверты (2026)",
+    "url": "https://cloud.mail.ru/public/HxUX/xHk1igKnj",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Александр Напорко] Фокус Левитация кредитки (2023)",
+    "url": "https://cloud.mail.ru/public/yRzT/GAyQRrwgY",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Николай Сабзир] [GreenMan] Все о Микрозелени. Хочу все серьезно (2021)",
+    "url": "https://cloud.mail.ru/public/2gpx/8gYPG2gCC",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Сергей Подковальников] [TutorPlace] Грибы (2026)",
+    "url": "https://cloud.mail.ru/public/ToxB/Mv62AhRwj",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Семён Кувшинов] [TutorPlace] ДНД (2026)",
+    "url": "https://cloud.mail.ru/public/5qv2/s6onKY8sy",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Елизавета Карымова] [TutorPlace] Спидкубинг (2026)",
+    "url": "https://cloud.mail.ru/public/i2am/Z3BHanxMe",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Ольга Пирог] [TutorPlace] Расхламление (2025)",
+    "url": "https://cloud.mail.ru/public/yWrc/4ZfCMW5DV",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Александр Дединкин] [TutorPlace] Русская архитектура (2025)",
+    "url": "https://cloud.mail.ru/public/1Nf7/AvG8yazfA",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Виктория Карелина] [Семена Алтая] Бахча (2026)",
+    "url": "https://cloud.mail.ru/public/Havm/AaDfqP4xz",
+    "cloud": "Облако",
+    "category": "Разное"
+  },
+  {
+    "title": "[Михаил Павленко] [RWT] Сварщик: прикладная теория и практические видеоуроки (2026)",
+    "url": "https://cloud.mail.ru/public/tWR6/Ze6FT67SW",
+    "cloud": "Облако",
+    "category": "Ремонт и строительство"
+  },
+  {
+    "title": "[Валерия Гунба] Пальто в стиле Brunello Cucinelli (2026)",
+    "url": "https://cloud.mail.ru/public/xNin/rQNuqoVMn",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Нина Мищенко] Шоколадное суфле для тела (2024)",
+    "url": "https://cloud.mail.ru/public/MTbS/CpSfGRTx6",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Нина Мищенко] Твердый шампунь с лавандой (2024)",
+    "url": "https://cloud.mail.ru/public/h2Lv/pT2N276Gr",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Дарья Петрик] Вырезай зеркала легко",
+    "url": "https://cloud.mail.ru/public/PFaQ/66CTRdoVA",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Оксана Адонина] Курс гальванопластики Премиум (2020)",
+    "url": "https://cloud.mail.ru/public/15kG/3XJGRc1vk",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Татьяна Куксенко] Подписка на группу «Авторский декупаж». Апрель (2024)",
+    "url": "https://cloud.mail.ru/public/WgSK/X6ZmGobTX",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Татьяна Куксенко] Чеканка в старении (с камнями) (2024)",
+    "url": "https://cloud.mail.ru/public/qoW7/4pHrwqqoV",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Ольга Хлуднева] Плетение ювелирного мини-дерева жизни «рода, силы»",
+    "url": "https://disk.yandex.ru/d/_XuSAQLzjQ9KqQ",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Анастасия Астафьева] Коты на кружке (2024)",
+    "url": "https://cloud.mail.ru/public/Ai3S/FTd1PxT7f",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Ксения Панибратова] [TutorPlace] Макраме (2026)",
+    "url": "https://cloud.mail.ru/public/QT3B/U1KaUbmuv",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Анастасия Лобарева] [TutorPlace] Вышивание гладью (2026)",
+    "url": "https://cloud.mail.ru/public/t5eR/TFnByqUA7",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Иван Шашков] [Web3Academy] Преврати свой капитал в машину для генерации прибыли через DeFi. Тариф Базовый (2025)",
+    "url": "https://cloud.mail.ru/public/av3E/Bt6skSERg",
+    "cloud": "Облако",
+    "category": "Форекс, трейдинг и инвестиции"
+  },
+  {
+    "title": "[school.madinaluck] Интенсив «Жизнь в кадре» (2026)",
+    "url": "https://cloud.mail.ru/public/poHn/rpFhiv1Mq",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Полина Дятлова] Съемка: фонарь брызги и дым (2022)",
+    "url": "https://cloud.mail.ru/public/pce3/Liowt12Bk",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Полина Дятлова] Позирование для беременных (2022)",
+    "url": "https://cloud.mail.ru/public/5LvC/t3ViQLe6i",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Полина Дятлова] Парное лайфстайл позирование (2022)",
+    "url": "https://cloud.mail.ru/public/fH6d/EvjRqTVuo",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Полина Дятлова] Парное классическое позирование (2022)",
+    "url": "https://cloud.mail.ru/public/zydE/enDJrnbXw",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Ангелина Рудиан] [rudian] Снимите это немедленно (2026)",
+    "url": "https://cloud.mail.ru/public/sX7b/w5AwRKBuB",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Дарья Кальней] [TutorPlace] Работа на камеру (2026)",
+    "url": "https://cloud.mail.ru/public/so4q/3jLspFFMi",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Екатерина Шмелева] [TutorPlace] Клипмейкер для соц сетей (2025)",
+    "url": "https://cloud.mail.ru/public/D6tY/ep84rV5ZM",
+    "cloud": "Облако",
+    "category": "Фото и видео"
+  },
+  {
+    "title": "[Степан Юсин] Клуб Самурай (Март 2026)",
+    "url": "https://cloud.mail.ru/public/HPSY/q16o1VWap",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Анна Гарсия] [Аквилон] Лилит. Возвращение сакральной женственности (2026)",
+    "url": "https://cloud.mail.ru/public/Za83/3Say3xGRy",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Марина Любинецкая] Молодость и красота (2026)",
+    "url": "https://cloud.mail.ru/public/eGEh/M2KQP3jXz",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Юлия Вястра] [Ци Мэнь] Чтение жизни Ци Мэнь Дунь Цзя (2025)",
+    "url": "https://cloud.mail.ru/public/wXTd/EkYwcABuG",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Юджиния Квант] Коррекция неверия в помощь (2019)",
+    "url": "https://cloud.mail.ru/public/wvzF/ZSMwgL8Ax",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Юджиния Квант] Дисперсия плотности (2019)",
+    "url": "https://cloud.mail.ru/public/4j6r/3vkpEXLsA",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Светлана Таурте, Владимира Николаев] Магия икон (2020)",
+    "url": "https://cloud.mail.ru/public/s3Cz/nLv9uwwfX",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Юлия Хабарова] [TutorPlace] Ченнелинг (2026)",
+    "url": "https://cloud.mail.ru/public/cGEH/nYR24p4G7",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Софья Фарафонова] [TutorPlace] Чакральная диагностика (2026)",
+    "url": "https://cloud.mail.ru/public/M37j/k8fdsodeT",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Марго Ващук] [TutorPlace] Энергетические свечи (2026)",
+    "url": "https://cloud.mail.ru/public/cL6Z/eQMmUro1i",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Ольга Хромова] Нумерология с нуля",
+    "url": "https://cloud.mail.ru/public/jRC8/t6kTu8nFv",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Ольга Веремеева] [Врата Миров] Коды Мироздания: самопознание как ключ к реальности (2026)",
+    "url": "https://cloud.mail.ru/public/Pax7/4UzzdQfoH",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Наталия Цыганова] Оценка приходящих периодов в Ба-цзы. Динамика ци - события и реакция (2026)",
+    "url": "https://cloud.mail.ru/public/4pii/fsBj5c7oY",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
+  },
+  {
+    "title": "[Ольга Фандорина] Предназначение (2026)",
+    "url": "https://cloud.mail.ru/public/EPKV/eenYCv3BD",
+    "cloud": "Облако",
+    "category": "Эзотерика и оккультизм"
   }
 ]
