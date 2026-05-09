@@ -47,6 +47,7 @@
   gap: 16px;
   padding: 9px 0;
 }
+.vpn__items > p,
 .vpn__items-container__block p {
   font-size: 24px;
   line-height: 1.35;
@@ -68,10 +69,19 @@
   color: var(--color-black);
   text-decoration: none;
 }
+.vpn__items-container__block-links div a.tg {
+  background-color: var(--color);
+  border: solid 1px var(--color);
+  color: white;
+  text-align: center;
+}
 .vpn__items-container__block-links div a:hover {
   background-color: var(--color-black);
   color: white;
   transition: .3s ease-in-out;
+}
+.vpn__items-container__block-links div a.tg:hover {
+  color: var(--color)
 }
 .vpn__items-container__block-links .line {
   border-left: solid 1px var(--color-black);
@@ -99,6 +109,7 @@
   .vpn__items-container__block:not(:first-child) {
     padding: 5px 0;
   }
+  .vpn__items > p,
   .vpn__items-container__block p {
     font-size: 20px;
   }
