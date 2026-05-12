@@ -497,3 +497,6 @@ nav details[open] > summary::before {
 #new tr {
   max-width: 1350px;
 }
+#new tr:hover {
+  background-color: #f9f9f9;
+}
