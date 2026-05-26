@@ -693,6 +693,12 @@ $(document).ready(function () {
     renderFavorites()
   })
 
+  // всего курсов в избранном
+  function updateFavoritesCount() {
+    const favorites = getFavorites()
+    $('#favoritesCount').text(favorites.length > 0 ? `Всего: ${favorites.length}` : null) 
+  }
+
   function renderFavorites() {
     let favorites = getFavorites()
     let $favTable = $('#favorites')
@@ -729,6 +735,7 @@ $(document).ready(function () {
     })
 
     toggleEmptyMessage()
+    updateFavoritesCount()
   }
 
   renderFavorites()
