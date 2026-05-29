@@ -52,6 +52,7 @@
   font-size: 24px;
   line-height: 1.35;
 }
+.vpn__items > p > a,
 .vpn__items-container__block a {
   color: var(--color);
 }
@@ -120,7 +121,7 @@
   .vpn__items-container__block-links .line {
     display: none;
   }
-  .vpn__items-container__block-links div a {
+  .vpn__items-container__block-links div a:not(.vpn__items-container__block-links div a.tg) {
     font-size: 16px;
     padding: 9px 14px;
   }
