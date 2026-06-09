@@ -71,6 +71,8 @@ $(document).ready(function () {
     'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=', // Программы и скрипты
     'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg==', // Развитие и познание себя
     'ZGIvYXV0aG9yL3dlYnNpdGVzLmpzb24=', // Создание сайтов
+    'ZGIvYXV0aG9yL2NoZXNzLmpzb24=', // Шахматы
+    'ZGIvYXV0aG9yL29mZmljZS5qc29u', // Офисные программы
     'ZGIvYXV0aG9yL25ldy5qc29u', // NEW
     'ZGIvYXV0aG9yL2FsbC5qc29u', // all
   ]
@@ -105,7 +107,9 @@ $(document).ready(function () {
     'Арбитраж Трафика': 'ZGIvYXV0aG9yL2FyYml0cmF0aW9uLmpzb24=',
     'Программы и скрипты': 'ZGIvYXV0aG9yL3Byb2dyYW1zLmpzb24=',
     'Развитие и познание себя': 'ZGIvYXV0aG9yL3NlbGYtZGV2ZWxvcG1lbnQuanNvbg==',
-    'Создание сайтов': 'ZGIvYXV0aG9yL3dlYnNpdGVzLmpzb24='
+    'Создание сайтов': 'ZGIvYXV0aG9yL3dlYnNpdGVzLmpzb24=',
+    'Шахматы': 'ZGIvYXV0aG9yL2NoZXNzLmpzb24=',
+    'Офисные программы': 'ZGIvYXV0aG9yL29mZmljZS5qc29u'
   }
 
   let files = code.map((file) => atob(file))
