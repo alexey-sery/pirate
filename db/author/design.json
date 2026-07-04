@@ -17523,12 +17523,6 @@
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[Яна Воропаева] Pro Design. Стань лучшим специалистом и перейди на фриланс. Тариф Самостоятельный (2025)",
-    "url": "https://cloud.mail.ru/public/F48K/UUHAtAh6X",
-    "cloud": "Облако",
-    "category": "Дизайн и живопись"
-  },
-  {
     "title": "[Екатерина Чайковская] [Fashion Vector Design] Дизайн одежды с нейросетями (2026)",
     "url": "https://cloud.mail.ru/public/Leog/U1bVfowJd",
     "cloud": "Облако",
@@ -17698,7 +17692,10 @@
   },
   {
     "title": "[Алиса Яковлева] [Design Wonderland] Профессия графический дизайнер. Тариф Самостоятельный (2024)",
-    "url": "https://cloud.mail.ru/public/qS6S/hJwNVZ8is",
+    "url": [
+      "https://www.mediafire.com/file/h8bwkievnmv6jp8",
+      "https://www.mediafire.com/file/3z8zo1gmsmdqus0"
+    ],
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
@@ -17837,6 +17834,12 @@
   {
     "title": "[София Бакланова] [Krona School] Вау-марафон по дофаминовому лендингу (2026)",
     "url": "https://cloud.mail.ru/public/33Fv/8qQJo2ifz",
+    "cloud": "Облако",
+    "category": "Дизайн и живопись"
+  },
+  {
+    "title": "[Евгения Кондакова] [TutorPlace] Дудлинг (2026)",
+    "url": "https://cloud.mail.ru/public/Wz6T/vxANUhSPn",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   }
