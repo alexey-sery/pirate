@@ -1,0 +1,49 @@
+.history {
+    margin: 1rem 1rem 0;
+    width: calc(100% - 2rem);
+    justify-content: center;
+}
+.history-tabs {
+    gap: .5rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+    white-space: nowrap;
+}
+.history-tabs button {
+    flex: 0 0 auto;
+    padding: 8px 14px;
+    border-radius: 20px;
+    border: 1px solid #dcdcdc;
+    background: white;
+    cursor: pointer;
+    transition: .2s;
+}
+.history-tabs button:hover {
+    background: #f9f9f9;
+}
+.history-tabs button.active {
+    background: var(--color-dark);
+    color: white;
+    border-color: var(--color-dark);
+}
+.toggle-categories {
+    padding: 6px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--color);
+    background: white;
+    cursor: pointer;
+    transition: .2s;
+    color: var(--color);
+    margin-top: .5rem;
+}
+.toggle-categories:hover {
+    background: #f9f9f9;
+}
+.toggle-categories.expand-all {
+    background-color: var(--color);
+    color: white;
+}
+.toggle-categories.expand-all:hover {
+    background-color: #007dfedd;
+    border: 1px solid #007dfeee;
+}

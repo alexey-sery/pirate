@@ -1,0 +1,26 @@
+#favoritesCount {
+    font-weight: bold !important;
+    margin: .5rem 0 .5rem !important;
+}
+.favorites-actions button {
+    font-family: "Roboto", sans-serif;
+    margin: 4px;
+    padding: 6px 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid #dcdcdc;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    transition: .2s;
+}
+.favorites-actions button:hover {
+    background-color: var(--color);
+    color: white;
+    border: 1px solid var(--color);   
+}
+.favorites-actions button:hover img {
+    filter: invert(1);
+}

@@ -1,5 +1,7 @@
 $(document).ready(function () {
   let downloadStats = {}
+  let newCoursesCount = 0
+  let categoriesCollapsed = false
 
   const downloadsRef = firebaseRef(firebaseDB, 'downloads')
 
@@ -9,6 +11,7 @@ $(document).ready(function () {
     displayResults(sortByCurrent(currentBaseResults))
     displayNewCourses(newCourses)
     renderFavorites()
+    loadHistoryTabs()
   })
 
   function hasDownloaded(courseId) {
@@ -123,6 +126,10 @@ $(document).ready(function () {
   let files = code.map((file) => atob(file))
   let requests = files.map((file) => $.getJSON(file))
 
+  function updateNewCount(count) {
+    $('#titleCountNew').text(`Всего: ${count}`)
+  }
+
   $.when
     .apply($, requests)
     .done((...responses) => {
@@ -153,7 +160,10 @@ $(document).ready(function () {
       $('#titleCount').text(`Всего курсов: ${courses.length}`)
 
       $.getJSON(atob('ZGIvYXV0aG9yL25ldy5qc29u'), function (data) {
-        $('#titleCountNew').text(`Всего: ${data.length}`)
+        newCoursesCount = data.length
+        newCourses = groupByCategory(data)
+        displayNewCourses(newCourses)
+        updateNewCount(data.length)
       })
 
       let timer
@@ -384,7 +394,6 @@ $(document).ready(function () {
     }, {})
   }
 
-  let newCourses = []
   let newFile = atob('ZGIvYXV0aG9yL25ldy5qc29u')
 
   $.getJSON(newFile, function (data) {
@@ -476,7 +485,96 @@ $(document).ready(function () {
         markAsDownloaded(courseId)
       }
     })
+
+    // восстанавливаем состояние после перерисовки
+    if (categoriesCollapsed) {
+      $('.category-row').each(function () {
+        const targetClass = $(this).data('target')
+        $(`.${targetClass}`).hide()
+        $(this).addClass('collapsed')
+      })
+
+      $('#toggleAllCategories')
+        .text('Развернуть все категории')
+        .addClass('expand-all')
+    } else {
+      $('#toggleAllCategories')
+        .text('Свернуть все категории')
+        .removeClass('expand-all')
+    }
   }
+
+  // история добавления курсов
+  let historyCache = {}
+
+  function loadHistoryTabs() {
+    $.getJSON('db/history/index.json', function (files) {
+      const months = [
+          'января',
+          'февраля',
+          'марта',
+          'апреля',
+          'мая',
+          'июня',
+          'июля',
+          'августа',
+          'сентября',
+          'октября',
+          'ноября',
+          'декабря'
+      ]
+      files
+        .sort((a, b) => b.localeCompare(a))
+        .forEach(file => {
+            const [year, month, day] =
+                file.replace('.json', '').split('-')
+
+            const text =
+                `${Number(day)} ${months[Number(month)-1]}`
+
+            $('#historyTabs').append(`
+                <button
+                    data-file="${file}">
+                    ${text}
+                </button>
+            `)
+        })
+    })
+  }
+
+  $(document).on('click', '#historyTabs button', function () {
+    $('#historyTabs button').removeClass('active')
+    $(this).addClass('active')
+
+    const file = $(this).data('file')
+
+    // Новое
+    if (file === 'new') {
+      displayNewCourses(newCourses)
+      updateNewCount(newCoursesCount)
+      return
+    }
+
+    // Уже загружали
+    if (historyCache[file]) {
+      displayNewCourses(historyCache[file].courses)
+      updateNewCount(historyCache[file].count)
+      return
+    }
+
+    // Загружаем историю
+    $.getJSON('db/history/' + file, function(data) {
+      const grouped = groupByCategory(data)
+
+      historyCache[file] = {
+        courses: grouped,
+        count: data.length
+      }
+
+      displayNewCourses(grouped)
+      updateNewCount(data.length)
+    })
+  })
 
   // Свернуть категорию
   $(document).on('click', '.category-row', function () {
@@ -484,6 +582,32 @@ $(document).ready(function () {
 
     $(`.${targetClass}`).slideToggle(300)
     $(this).toggleClass('collapsed')
+  })
+
+  // Свернуть / развернуть все категории
+  $(document).on('click', '#toggleAllCategories', function () {
+    categoriesCollapsed = !categoriesCollapsed
+
+    $('.category-row').each(function () {
+      const targetClass = $(this).data('target')
+      const rows = $(`.${targetClass}`)
+
+      if (categoriesCollapsed) {
+        rows.stop(true, true).slideUp(300)
+        $(this).addClass('collapsed')
+      } else {
+        rows.stop(true, true).slideDown(300)
+        $(this).removeClass('collapsed')
+      }
+    })
+
+    $(this)
+      .text(
+        categoriesCollapsed
+          ? 'Развернуть все категории'
+          : 'Свернуть все категории'
+      )
+      .toggleClass('expand-all', categoriesCollapsed)
   })
 
   // Выбор категории
@@ -708,12 +832,13 @@ $(document).ready(function () {
   // всего курсов в избранном
   function updateFavoritesCount() {
     const favorites = getFavorites()
-    $('#favoritesCount').text(favorites.length > 0 ? `Всего: ${favorites.length}` : null) 
+    $('#favoritesCount').text(favorites.length > 0 ? `Всего: ${favorites.length}` : null)
   }
 
   function renderFavorites() {
     let favorites = getFavorites()
     let $favTable = $('#favorites')
+    $('#exportFavorites').hide()
 
     $favTable.empty()
 
@@ -722,6 +847,8 @@ $(document).ready(function () {
       const linksDataCourse = encodeURIComponent(linksData)
 
       const views = downloadStats[normalizeId(course.title)] || 0
+
+      $('#exportFavorites').show()
 
       const $row = $(`
       <tr>
@@ -749,6 +876,67 @@ $(document).ready(function () {
     toggleEmptyMessage()
     updateFavoritesCount()
   }
+
+  // экспорт избранного
+  $('#exportFavorites').on('click', function () {
+    const favorites = getFavorites()
+
+    if (favorites.length === 0) return
+
+    const blob = new Blob(
+        [JSON.stringify(favorites, null, 2)],
+        { type: 'application/json' }
+    )
+
+    const url = URL.createObjectURL(blob)
+
+    const a = document.createElement('a')
+    a.href = url
+    a.download = 'favorites.json'
+    a.click()
+
+    URL.revokeObjectURL(url)
+  })
+
+  // импорт избранного
+  $('#importFavorites').on('click', function () {
+    $('#importFile').click()
+  })
+
+  $('#importFile').on('change', function (e) {
+    const file = e.target.files[0]
+    if (!file) return
+
+    const reader = new FileReader()
+
+    reader.onload = function (event) {
+      try {
+        const imported = JSON.parse(event.target.result);
+
+        if (!Array.isArray(imported)) {
+          throw new Error()
+        }
+
+        // объединяем без дубликатов
+        let favorites = getFavorites()
+
+        imported.forEach(course => {
+          if (!favorites.some(f => f.title === course.title)) {
+            favorites.push(course)
+          }
+        })
+
+        saveFavorites(favorites)
+        renderFavorites()
+      } catch {
+        alert('Некорректный файл')
+      }
+    }
+
+    reader.readAsText(file)
+
+    $(this).val('')
+  })
 
   renderFavorites()
 })

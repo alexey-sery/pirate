@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#111" />
-    <title>Сливы курсов | Недавно добавленные курсы</title>
+    <title>Сливы курсов | Новые курсы</title>
     <link href="images/favicon.ico" rel="icon" />
     <link href="images/favicon.ico" rel="apple-touch-icon" />
     <link href="styles/style.css" rel="stylesheet" />
     <link href="styles/search.css" rel="stylesheet" />
+    <link href="styles/new.css" rel="stylesheet" />
     <link href="styles/components/nav.css" rel="stylesheet" type="text/css" />
     <link href="styles/components/menu.css" rel="stylesheet" type="text/css" />
     <link href="styles/components/snow.css" rel="stylesheet" type="text/css" />
@@ -48,9 +49,17 @@
     </div>
     <div class="wrapper">
       <div class="new">
-        <p>Недавно добавленные курсы</p>
+        <p>Новые курсы</p>
         <span style="font-size: 14px; user-select: text;"><b>Нравится подборка?</b> Поддержи меня донатом ❤️<br>2202 2050 4046 4114 сбер или <a href="https://finance.ozon.ru/apps/sbp/ozonbankpay/019e172d-6689-750d-8aa7-edc33663d77e" target="_blank" style="text-decoration: none; color: var(--color)">OZON</a></span>
-        <b id="titleCountNew" style="margin-top: 10px;"></b>
+        <b id="titleCountNew"></b>
+        <div class="history">
+          <div id="historyTabs" class="history-tabs">
+            <button class="active" data-file="new">Новое</button>
+          </div>
+        </div>
+        <button id="toggleAllCategories" class="toggle-categories">
+          Свернуть все категории
+        </button>
         <table id="new"></table>
       </div>
     </div>

@@ -444,6 +444,7 @@ nav details[open] > summary::before {
 /* Объединение в категорию */
 #new {
   padding: 0 10px;
+  margin-top: 0;
 }
 .category-row {
   padding: 1rem 10px;
