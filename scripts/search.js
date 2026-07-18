@@ -80,7 +80,6 @@ $(document).ready(function () {
     'ZGIvYXV0aG9yL2F1dG8tbW90by5qc29u', // Авто-мото
     'ZGIvYXV0aG9yL2ZvY3VzLmpzb24=', // Фокусы
     'ZGIvYXV0aG9yL2dhcmRlbi5qc29u', // Сад и огород
-    'ZGIvYXV0aG9yL25ldy5qc29u', // NEW
     'ZGIvYXV0aG9yL2FsbC5qc29u', // all
   ]
 
@@ -159,7 +158,7 @@ $(document).ready(function () {
 
       $('#titleCount').text(`Всего курсов: ${courses.length}`)
 
-      $.getJSON(atob('ZGIvYXV0aG9yL25ldy5qc29u'), function (data) {
+      $.getJSON(atob('ZGIvaGlzdG9yeS9uZXcuanNvbg=='), function (data) {
         newCoursesCount = data.length
         newCourses = groupByCategory(data)
         displayNewCourses(newCourses)
