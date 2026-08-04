@@ -81,6 +81,7 @@ $(document).ready(function () {
     'ZGIvYXV0aG9yL2ZvY3VzLmpzb24=', // Фокусы
     'ZGIvYXV0aG9yL2dhcmRlbi5qc29u', // Сад и огород
     'ZGIvYXV0aG9yL2Jvb2tzLmpzb24=', // Книги, литература
+    'ZGIvYXV0aG9yL2F1ZGlvYm9va3MuanNvbg==', // Аудиокниги
     'ZGIvYXV0aG9yL2FsbC5qc29u', // all
   ]
 
@@ -121,7 +122,8 @@ $(document).ready(function () {
     'Авто-мото': 'ZGIvYXV0aG9yL2F1dG8tbW90by5qc29u',
     'Фокусы': 'ZGIvYXV0aG9yL2ZvY3VzLmpzb24=',
     'Сад и огород': 'ZGIvYXV0aG9yL2dhcmRlbi5qc29u',
-    'Книги, литература': 'ZGIvYXV0aG9yL2Jvb2tzLmpzb24='
+    'Книги, литература': 'ZGIvYXV0aG9yL2Jvb2tzLmpzb24=',
+    'Аудиокниги': 'ZGIvYXV0aG9yL2F1ZGlvYm9va3MuanNvbg=='
   }
 
   let files = code.map((file) => atob(file))
