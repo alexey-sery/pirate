@@ -1,662 +1,2672 @@
 [
   {
-    "title": "[Наталья Киреева] Нейросети при написании научных статей (2026)",
-    "url": "https://cloud.mail.ru/public/o6Xd/PSimruNDs",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Маргарита Захарова] Закрытый клуб AI-Лаб. Август (2026)",
-    "url": "https://cloud.mail.ru/public/iuED/XhFoPbkpk",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Андрей Пешков] Сбежавшая нейросеть. Подписка на контент (Июль-Август 2026)",
-    "url": "https://cloud.mail.ru/public/YfBR/JWnH6XnjW",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Алексей Евдокимов] [Magisteria] Искусственный интеллект. Рождение нового мира (2026)",
-    "url": "https://cloud.mail.ru/public/HW9g/AwVJjUb2m",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Кирилл Пшинник] [Zerocoder] Как установить DeepSeek на свой ПК, чтобы пользоваться ИИ бесплатно и без интернета (2026)",
-    "url": "https://cloud.mail.ru/public/w5PY/cvy5JBgTf",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Robert Gillespie] Claude для маркетологов: полный мастер-класс по AI-маркетингу (2026)",
-    "url": "https://cloud.mail.ru/public/NWVd/JxC8xJo18",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Ринат Абдуллин, Айгиз Кунафин] [LLM под капотом] Разработка с AI-агентами: что реально работает (2026)",
-    "url": "https://cloud.mail.ru/public/w6KW/iXEBoe4tv",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Avan Kumar, Manish Patel] [Udemy] Создавайте ИИ-приложения с помощью Lovable: Vibe Coding для веб-разработчиков (2026)",
-    "url": "https://cloud.mail.ru/public/FB2z/f765voPRi",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Navin B] [Udemy] Курс поэзии по искусственному интеллекту: пишите красивые стихи с помощью ChatGPT (2026)",
-    "url": "https://cloud.mail.ru/public/eRCj/TUR4MMxKT",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Галия Злачевская] Нейросети для швейников (2026)",
-    "url": "https://cloud.mail.ru/public/3MpB/fqoZqAPiw",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Метабилдум] Строительство с ИИ: контроль, расчёты, документы (2026)",
-    "url": "https://cloud.mail.ru/public/zLMx/oCgF5ovUu",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Владимир «ПовелИИтель» Толгский] Нейротворцы PRO. Август (2026)",
-    "url": "https://cloud.mail.ru/public/GYYL/u7jGaMdqR",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Диана Палаш] Нейроконтент. Тариф Нейфропрофи (2026)",
-    "url": "https://cloud.mail.ru/public/B1jf/drixvtFZa",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Neyrograph] Искусственный интеллект для творчества и заработка (Август 2026)",
-    "url": "https://cloud.mail.ru/public/RtRC/cjnZ84j89",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Олег Конюков] [Orex] Подписка на контент Погружаемся в ИИ - в прямом эфире. Июль (2026)",
-    "url": "https://cloud.mail.ru/public/SyJe/D7m7BP9sm",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Jason R. Miller] [Arcana Academy] Как создать вирусный музыкальный клип с помощью AI (2026)",
-    "url": "https://cloud.mail.ru/public/JMr3/n3jee8ZKq",
-    "cloud": "Облако",
-    "category": "Нейросети"
-  },
-  {
-    "title": "[Галина Мельникова] Все о рилс от А до Я (2026)",
-    "url": "https://cloud.mail.ru/public/6Zhe/WeH5aimeG",
+    "title": "[Yaroslav Ilyashenko] [Udemy] Реклама в Фейсбук и Инстаграм с нуля (2019)",
+    "url": "https://cloud.mail.ru/public/44qp/n7fiicyBG",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Тома Суворова] [Tomatschool] SMM-менеджер ВК и Макс + нейросети. Тариф Нейро СММ ВК + Макс (2026)",
-    "url": "https://cloud.mail.ru/public/dC8N/DHDhN2CMA",
+    "title": "[lebedeva_blog] Гайд «Instagram - профессии» (2020)",
+    "url": "https://cloud.mail.ru/public/vVqZ/4AEFyY38Q",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Adriano Luchetti] TikTok Shop с нуля: система поиска прибыльных товаров и продаж на миллионы (2026)",
-    "url": "https://cloud.mail.ru/public/2sEi/GDCqUEbd7",
+    "title": "[tyutyurina_] Гайд «По заработку в Instagram» (2020)",
+    "url": "https://cloud.mail.ru/public/26tc/5NNAGDTVu",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Ася Фуллер, Юрий Касимцев, Алексей Яковлев] [МИФ Курсы] Доля шутки: Как создавать комический эффект в текстах (2026)",
-    "url": "https://cloud.mail.ru/public/VhAF/oXxFdn7Lk",
+    "title": "[laizafox7] Гайд «Я - менеджер блогера» (2020)",
+    "url": "https://cloud.mail.ru/public/3ETb/2w9C9znyU",
     "cloud": "Облако",
     "category": "SEO & SMM"
   },
   {
-    "title": "[Влад Петренко] Еврейская школа финансов (2026)",
-    "url": "https://cloud.mail.ru/public/wTcE/ABMiRk77E",
+    "title": "[Валерия Чекалина, ler_chek] Ваше время зарабатывать в Instagram (2020)",
+    "url": "https://cloud.mail.ru/public/F3mv/2CXTs447v",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Александр Турлаков] Чек-лист | Монетизация в TikTok (2020)",
+    "url": "https://cloud.mail.ru/public/2GoJ/7rT8djnry",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[BAND] Как писать сильные тексты: посты, лонгриды, свою книгу. Литературная мастерская (2019)",
+    "url": "https://cloud.mail.ru/public/ZJwj/YgfBuVjHQ",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Анна Синалеева] Тик-Ток Марафон - 7 дней практики по успешному старту в Тик-Ток (2020)",
+    "url": "https://cloud.mail.ru/public/cvuF/h67dqFh7G",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Матвей Северянин] Яндекс Дзен. Быстрый старт (2020)",
+    "url": "https://cloud.mail.ru/public/m3TH/RJREESWN4",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Анна Синалеева] Тик-Ток для экспертов и предпринимателей (2020)",
+    "url": "https://cloud.mail.ru/public/WcNJ/vx8pNbEaP",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Зуши Плетнев] Instagram в + (2020)",
+    "url": "https://cloud.mail.ru/public/4Xik/4XbjNpBGE",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Матвей Северянин] Монетизация Яндекс Дзен (2020)",
+    "url": "https://cloud.mail.ru/public/JTD8/es8sq3VJt",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Алексей Морусов] Обновлённый дзен (2020)",
+    "url": "https://cloud.mail.ru/public/36kM/5d1tYH9wA",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Анатолий Власов] YouTube Business Class (2020)",
+    "url": "https://cloud.mail.ru/public/4zDv/2A8b2KPTg",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Алла Титова] Мануал по работе на Яндекс.Дзен (2020)",
+    "url": "https://cloud.mail.ru/public/57wd/EJk4wsrkc",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Карина Сахаува] Марафон по копирайтингу (2020)",
+    "url": "https://cloud.mail.ru/public/pkSg/UvFjCqLcH",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Ольга Киреенко] Как выйти из ступора и начать писать (2020)",
+    "url": "https://cloud.mail.ru/public/3bEw/3o48hiZMH",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Константин Енютин] Продвижение в телеграм (2020)",
+    "url": "https://cloud.mail.ru/public/EKje/2hfVbu7YK",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Загородников, Платонов] Прибыльная реклама ВКонтакте своими руками от А до Я (2020)",
+    "url": "https://cloud.mail.ru/public/5tV2/2fZuv8BfG",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Александр Чайковский] Тренинг «3олотое Перо: атомный копирайтинг»",
+    "url": "https://disk.yandex.ru/d/kFDPD63piKChV",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Регина Орехова] Научись писать тексты, рассказывать истории, которые будут ждать! (2020)",
+    "url": "https://cloud.mail.ru/public/kidP/WhamEQjDJ",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Павел Берестнев] Как пишется статья: Мастер-класс в реальном времени (2020)",
+    "url": "https://cloud.mail.ru/public/4WsH/2WSCBvacf",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Мария Солодар] Ментальные триггеры для эффективного копирайтинга (2020)",
+    "url": "https://wdfiles.ru/jda1",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Александр Ампир] Мастер-класс «Копирайтинг соцсетей для психолога и коуча» (2020)",
+    "url": "https://cloud.mail.ru/public/2aT4/RFhyESxXm",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Александр Иванищев] Блог в ВК, чтобы зарабатывать 100-200 тысяч в месяц (2020)",
+    "url": "https://cloud.mail.ru/public/WecB/z22KzfVvi",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Вадим Борода] Инста-ПЧЁЛКА Как продавать в Instagram. Пакет «ИНСТА-УЛЕЙ» (2020)",
+    "url": "https://cloud.mail.ru/public/Nyi2/QNyPtmMwk",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Богатый школьник] Начни зарабатывать в Tik Tok с полного нуля. Пакет «Продвинутый» (2020)",
+    "url": "https://cloud.mail.ru/public/3PHK/Fu9gjuoct",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Екатерина Чубукина] Юмор в текстах (2020)",
+    "url": "https://cloud.mail.ru/public/4YJG/3AsfNdoNt",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Паша Молянов, Леша Рожков] Научим писать (2020)",
+    "url": "https://cloud.mail.ru/public/55yW/eVLX2jsjC",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Константин Долгов] Свой канал в Telegram: как заработать, не выходя из дома (2020)",
+    "url": "https://cloud.mail.ru/public/7u9K/AZ7csVrPw",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Степан Михальчук] Telegram как бизнес от 1000 до 10000 долларов в месяц (2020)",
+    "url": "https://cloud.mail.ru/public/4B6g/3zJymf3N6",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Hedu (ИРС)] Онлайн-курс по сторителлингу (2020)",
+    "url": "https://cloud.mail.ru/public/4Fph/krm7v1T4N",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Сергей Загородников, Денис Платонов] Продающая личная страница ВКонтакте от А до Я (2020)",
+    "url": "https://cloud.mail.ru/public/3RuN/5Lde6gTrq",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Gambling.pro] Обучение по работе с Фейсбуком (2020)",
+    "url": "https://cloud.mail.ru/public/xGcP/BpiL3bASv",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Сергей Балыков] [OMHOME] Искрометный копирайтинг (2020)",
+    "url": "https://cloud.mail.ru/public/38xu/2dNf4XRRR",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Марта Коронкевич] Прибыльные тексты (2020)",
+    "url": "https://cloud.mail.ru/public/jLRw/5N9cSghde",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Михаил Грибов] Большой нетворкинг 2.0. Как развивать и монетизировать блог в Инстаграм (2020)",
+    "url": "https://cloud.mail.ru/public/C2Bs/j9xaefPtZ",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Петр Панда] LSI-копирайтинг: мастер контента",
+    "url": "https://cloud.mail.ru/public/teFG/vrn3nJpue",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Тома Саркулова] [TomatSchool] Чат-бот без забот (2025)",
+    "url": "https://cloud.mail.ru/public/W7yQ/f36F3D4ZN",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Денис Платонов] Взлом конкурентов (2026)",
+    "url": "https://cloud.mail.ru/public/qHWD/caQitSAXu",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Андрей Андреев] Hey Sash! Challenge (2026)",
+    "url": "https://cloud.mail.ru/public/sbsq/jRw1BagYa",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Татьяна Аристова] [Iskra Project] Authentic TG (2026)",
+    "url": "https://cloud.mail.ru/public/8QoC/jTBrBfoZx",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Галина Иевлева] 12 разгневанных читателей (2026)",
+    "url": "https://cloud.mail.ru/public/7zXw/XRwWuXRHY",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[Яков Осипенков] Ответы сертификации Яндекс Директ Профессиональный (Август 2026)",
+    "url": "https://cloud.mail.ru/public/b1pd/cx8v22jrS",
+    "cloud": "Облако",
+    "category": "SEO & SMM"
+  },
+  {
+    "title": "[RE:ACTOR | Товарка и Арбитраж] 3-х Дневный интенсив (2020)",
+    "url": "https://cloud.mail.ru/public/5kJt/3rLHVW2Ds",
+    "cloud": "Облако",
+    "category": "Арбитраж Трафика"
+  },
+  {
+    "title": "[moneybag] Буржуазный арбитраж трафика сотни $ в день (2020)",
+    "url": "https://cloud.mail.ru/public/PEu2/RsKQgWbSd",
+    "cloud": "Облако",
+    "category": "Арбитраж Трафика"
+  },
+  {
+    "title": "[Road 2 Cashtown] Район профитных связок (2020)",
+    "url": "https://cloud.mail.ru/public/FY4Z/KTpCsD67y",
+    "cloud": "Облако",
+    "category": "Арбитраж Трафика"
+  },
+  {
+    "title": "[Free adult] Обучение в высокодоходном Adult Бизнесе (2020) (Пароль: supersliv.biz)",
+    "url": "https://cloud.mail.ru/public/2yGf/52p66veub",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Егор Астахов] Заработок в Телеграме на крипто-новостях (2026)",
-    "url": "https://cloud.mail.ru/public/FRAH/TjdhqJ21b",
+    "title": "[Вадим Шабалин, Сергей Прокофьев] Как вычислить проблемный объект с 4-х нот (2020)",
+    "url": "https://cloud.mail.ru/public/4KGN/4Yw7keLmE",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[uncleTommy] Современная школа стартапов от бизнес-инкубатора Y Combinator. Часть 11 из 11 (2023-24)",
-    "url": "https://cloud.mail.ru/public/bnSX/JKa8JiRZQ",
+    "title": "[Signum] Зарождающиеся тренды и хайпы (Cентябрь 2020)",
+    "url": "https://cloud.mail.ru/public/5hQi/3EJvuuNdG",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Александр Пуминов] Курс-реалити Запуск проекта с доходностью от 300.000. Тариф Базовый (2026)",
-    "url": "https://cloud.mail.ru/public/zDuf/N6SafaRKC",
+    "title": "[Артур Абдуллин] Авитолог (2020)",
+    "url": "https://cloud.mail.ru/public/2zL6/r5tzCH748",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Олег Макаренко] Школа капитализма. Тариф Вольнослушатель. Август (2026)",
-    "url": "https://cloud.mail.ru/public/Goir/CcbWA3Mru",
+    "title": "[Роман Сеймур-Коннов] CLUB 1% ebay, поставщик парфюма (2020)",
+    "url": "https://cloud.mail.ru/public/i3rY/2N6HhdJ32",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Илья Карпухин] B2B Интенсив (2026)",
-    "url": "https://cloud.mail.ru/public/SvEP/G9i2H9ZGm",
+    "title": "[Павел Берестнев] Бизнес лень: Правильная концепция лени (2020)",
+    "url": "https://cloud.mail.ru/public/4mgh/4mu8XBXNq",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Марина Ритцу] Гайд как продавать фото ног Королева ножек (2026)",
-    "url": "https://cloud.mail.ru/public/J9WS/rePzTTHM8",
+    "title": "[DARS] Полный курс по Wildberries (2020)",
+    "url": "https://cloud.mail.ru/public/4dzM/3aSyNnvid",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Евгения Идиатуллина] [Invest Privet] Манипуляции в финансовой отчетности: как их распознать? (2026)",
-    "url": "https://cloud.mail.ru/public/zujm/ieWKGLdDn",
+    "title": "[Ирина Мурадова, Роман Мурадо] Арсенал директолога 2.0 (2020) (Пароль: supersliv.biz)",
+    "url": "https://cloud.mail.ru/public/5k1i/5KbwXkVbg",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Henrik Wold] Как превратить дропшиппинг в стабильный бизнес с оборотом 8 цифр (2026)",
-    "url": "https://cloud.mail.ru/public/dNhA/pMQNL7WCw",
+    "title": "[Константин Григорьев] Подорожник (2020)",
+    "url": "https://cloud.mail.ru/public/4Bbh/39YJDNutm",
     "cloud": "Облако",
     "category": "Бизнес"
   },
   {
-    "title": "[Артем Морозов] Гиперактивный ребенок на уроке: от хаоса к сотрудничеству (2026)",
-    "url": "https://cloud.mail.ru/public/wwgk/cBmzx5yVT",
+    "title": "[Андрей Цыганков] Как узнать, что люди хотят купить на самом деле? Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/4Sse/34LNQUacv",
     "cloud": "Облако",
-    "category": "Дети и родители"
+    "category": "Бизнес"
   },
   {
-    "title": "[Валентина Паевская] Путеводитель по подготовке к учебному году 2026 (2026)",
-    "url": "https://cloud.mail.ru/public/EK1P/VvofjSWtV",
+    "title": "[Владимир Якуба] Дожим клиента: 28 способов продавать день в день",
+    "url": "https://cloud.mail.ru/public/FGur/57CM2K2jr",
     "cloud": "Облако",
-    "category": "Дети и родители"
+    "category": "Бизнес"
   },
   {
-    "title": "[Юлия Клим] К школе готов. От 3 до 7 лет (2022)",
-    "url": "https://cloud.mail.ru/public/7ppu/Mk98J2aUp",
+    "title": "[Марина Кирзнер, Елена Сабельникова] Цена без страха и упрёка (2020)",
+    "url": "https://cloud.mail.ru/public/2Pju/56TvY2owk",
     "cloud": "Облако",
-    "category": "Дети и родители"
+    "category": "Бизнес"
   },
   {
-    "title": "[Jeffrey Dalrymple] [Lytbox Academy] Бизнес веб-дизайнера под ключ: от первых клиентов до стабильного дохода (2026)",
-    "url": "https://cloud.mail.ru/public/yvMc/awExWxEBb",
+    "title": "[Кристина Курепина] Как открыть прибыльный инста-магазин. Тариф #2 (2020)",
+    "url": "https://cloud.mail.ru/public/3186/vt4J9UsQQ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Monster Marketing] Live - запуск бизнеса на партнерстве. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/38gB/2LhNj6Mc7",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Business] Бизнес с Китаем. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/4vsc/2jUrU9H6Y",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Старостина, Сергей Устяхин] PRO Скрипт (2020)",
+    "url": "https://cloud.mail.ru/public/DREE/nwU4q3epZ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ксения Злотникова] Учись обучать в онлайн (2020)",
+    "url": "https://cloud.mail.ru/public/RAK2/YKLhYG98m",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алексей Колоколов] HR-аналитика. Быстрый старт (2020)",
+    "url": "https://cloud.mail.ru/public/y6FV/t3VP6ZEDQ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алексей Артемкин] [Udemy] Amazon FBA Мастер Класс (2020)",
+    "url": "https://wdfiles.ru/10cfa5",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[infostart] Онлайн-митап Оценка компетенций специалистов (2020)",
+    "url": "https://cloud.mail.ru/public/2GVw/5Sg1mk7He",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игорь Рызов, Игорь Манн, Максим Батырев] Онлайн-форум Диктатор, лидер, менеджер, 3 стиля управления (2020)",
+    "url": "https://cloud.mail.ru/public/dSmf/2cXXHa271",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Виталий Говорухин] Комплект вебинаров. Продажи по переписке (2020)",
+    "url": "https://cloud.mail.ru/public/NTr3/z7mET4cQD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Edhar ProAirbnb] [Udemy] Как начать зарабатывать на аренде не имея своего жилья (2020)",
+    "url": "https://cloud.mail.ru/public/hC5q/75HZb488V/",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Вадим Бекетов, Ирина Баржак] Как убедить клиента за 60 секунд? (2020)",
+    "url": "https://cloud.mail.ru/public/AdkG/Gd8nn18KL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Арина Высоцкая] Продаём рукоделие и мастер-классы на Etsy (2020)",
+    "url": "https://cloud.mail.ru/public/3vk8/MRK4JQSEe",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Берестнев] Разработка стратегии бизнеса (2020)",
+    "url": "https://cloud.mail.ru/public/4W9X/AbuYQcKST",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аркадий Морейнис, Алексей Черняк] От идеи до продукта без программиста за 15 дней (2020)",
+    "url": "https://cloud.mail.ru/public/S6Zi/hkyX8zgzL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Капустин] Как создать автоматизированную онлайн-школу с нуля. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/5fj9/3wJfqAkN2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аркадий Морейнис, Алексей Черняк] От идеи до продукта (2020)",
+    "url": "https://cloud.mail.ru/public/S6Zi/hkyX8zgzL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Берестнев] Мастер-класс «Управление проектами для предпринимателя» (2020)",
+    "url": "https://cloud.mail.ru/public/rEcV/8h9WMDrEy",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Павлова] Рекрутинг. Все способы. Особенности и конверсии. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/2ZiY/5JyaRLHqy",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Быстрые деньги в образовательном бизнесе (2020)",
+    "url": "https://cloud.mail.ru/public/wAY3/wyNNSJz6w",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Цыганков] Курсы по различным аспектам инфобизнеса (2020)",
+    "url": "https://cloud.mail.ru/public/3bc7/3TVzuysVG",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анна Ломакина, Александр Слободской] Как заработать творчеством? Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/5JZB/22bqDbshc",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аяз Шабутдинов] Чит-код 11 (2020)",
+    "url": "https://cloud.mail.ru/public/N5Jf/LVNCytGTJ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Дрягин] Риэлторский бизнес на карантине. Как работать в новых условиях (2020)",
+    "url": "https://cloud.mail.ru/public/2v4b/24dqstMFG",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ирина Гелд] Покупки на Taobao (2020)",
+    "url": "https://cloud.mail.ru/public/BsBr/L1vLjF787",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ксения и Валерий Секиро] Востребованная интернет-профессия. 29 поток (2019)",
+    "url": "https://cloud.mail.ru/public/KTDt/E7hte4ifN",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Ершов] Miracle - Технология достижения результата (2019)",
+    "url": "https://cloud.mail.ru/public/3mcW/c7mzgJf12",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игорь Рызов] Жесткие переговоры (2020)",
+    "url": "https://cloud.mail.ru/public/32da/4EYq2fBrt",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алексей Резников] Курс по заработку на Avito (2020)",
+    "url": "https://cloud.mail.ru/public/5taN/2RD1qT4Dm",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алексей Черняк] [Tweekly] Тренды и бизнес-модели каждую неделю (июль-август 2020)",
+    "url": "https://cloud.mail.ru/public/m5s2/zmCDevKQp",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анна Костылева] Специалист по чат-ботам (2020)",
+    "url": "https://cloud.mail.ru/public/PD5b/TQb1Zsq2L",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артем Черепанов] Богатый человек. Ритуалы и убеждения",
+    "url": "https://cloud.mail.ru/public/riHQ/DAscV4ayu",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Лиля Нилова] Money camp 3.0 (2020)",
+    "url": "https://cloud.mail.ru/public/rXNG/p4YwBGtFb",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Федорив] Папа бренда. Выжимка курса (2020)",
+    "url": "https://cloud.mail.ru/public/3CDP/YeBBLLFLF",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александра Гуреева] Продажа онлайн-курсов. Выжимка курса (2020)",
+    "url": "https://cloud.mail.ru/public/4pX1/4qoCMMBh1",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[ZennoPoster] Антикризисный интенсив: заработок вручную и на автомате в РСЯ (2020)",
+    "url": "https://cloud.mail.ru/public/SmYB/pNrhjiQmz",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алина Свирепова] Обучалка «Самостоятельные покупки из Китая» (2020)",
+    "url": "https://cloud.mail.ru/public/HUwA/8AhDKWqdH",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Каролина Мякова] Как продавать партнерам, клиентам, руководителям и друзьям (2020)",
+    "url": "https://cloud.mail.ru/public/Md5S/oiKtcsY6P",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Fashion Factory School] Личный бренд как инструмент продаж в соцсетях (2020)",
+    "url": "https://cloud.mail.ru/public/BTVf/QsWmJbMhn",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Шептухов] Повышение дохода фитнес-тренеров (2020)",
+    "url": "https://cloud.mail.ru/public/3hSm/u2C2P2cKT",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Svetlana Scutelniciuc] [Udemy] Performance Management: основы и стратегическое планирование (2020)",
+    "url": "https://cloud.mail.ru/public/6H4p/rtVftukv8",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Иван Шаферо] Развитие ландшафтного бизнеса (2020)",
+    "url": "https://cloud.mail.ru/public/X5XV/WPPyUZMZj",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Михаил Дашкиев] Построение системы в бизнесе. Запись+Транскрибация (2020)",
+    "url": "https://cloud.mail.ru/public/5B7W/44PkSgvng",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Москаленко] Товарная кухня. Тариф Продвинутый (2020)",
+    "url": "https://cloud.mail.ru/public/ihAk/2GCxJkuLx",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Чепик] Секретная технология быстрого запуска чат-ботов и первые платежоспособные клиенты (2020)",
+    "url": "https://cloud.mail.ru/public/5iBm/DJPeKDKkm",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Мария Губина, Наталья Мудрик] Самоопределение и поиск бизнес-идеи (2020)",
+    "url": "https://cloud.mail.ru/public/4hVq/4r4caLSgX",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Яков Кветкин] Товарная отбивная PRO (2020)",
+    "url": "https://cloud.mail.ru/public/3MGa/33pVZXf9k",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Максим Маршал] Переговоры в мессенджерах: безотказные приёмы и скрипты для риелторов (2020)",
+    "url": "https://cloud.mail.ru/public/3DoF/2geaNABPw",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Иван Зимбицкий] Мышление 10х (2020) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/2xt5/5x5C43VGC",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анна Жук] Выявление уникальности для продажи своих услуг (2020)",
+    "url": "https://cloud.mail.ru/public/2jMz/58HdDRt5H",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Михаил Григорьев] «Бизнес на подписках» 10000 - 50000 прибавки (2020)",
+    "url": "https://cloud.mail.ru/public/i9ai/SDKDQpKGR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Цыганков] Система инфобизнеса (2020)",
+    "url": "https://cloud.mail.ru/public/3jDc/xBE1WzgYv",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[uncleTommy] Антикризис-2020. Бесплатный доступ к Lynda, Pressreader, Mango Languages",
+    "url": "https://cloud.mail.ru/public/3G2Q/vRh7Rmqdq",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Максим Авдеев] Реактивный старт в бизнесе на Amazon (2020)",
+    "url": "https://cloud.mail.ru/public/3tx5/4EtrYGJ9d",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дарья Игнатович] Как перестать бояться продавать свои услуги? (2020)",
+    "url": "https://cloud.mail.ru/public/GGoi/LnETQsedC",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Вероника Берениче] Интернет-магазин С Нуля - НаЧистоту! (2020)",
+    "url": "https://cloud.mail.ru/public/5Lme/3hiMhobN8",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Михаил Хазин] Что говорит теория о современном кризисе (2020)",
+    "url": "https://cloud.mail.ru/public/UEj8/23JWucPYR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Кивокурцева] Сохранение клиента до сделки (2020)",
+    "url": "https://cloud.mail.ru/public/qCuS/YZXmL9Tjn",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аркадий Морейнис, Алексей Черняк] [Product University] Бизнес с нуля за 15 дней (2020)",
+    "url": "https://cloud.mail.ru/public/2ZXL/3T1ocG6tN",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Курилов,Краснов, Чипижко, Трикси и другие] Дерзкий инфобизнес. Выживание. Конференция (2020)",
+    "url": "https://cloud.mail.ru/public/3vbU/2NafUJhXd",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Константин Холстинин] Стратегия Голубого океана: как создать новый рынок",
+    "url": "https://cloud.mail.ru/public/wQ5A/dYhJNZxJ8/",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Alex Nekrashevich] [Udemy] Как подготовить курс к размещению на ЮДЕМИ? (2020)",
+    "url": "https://cloud.mail.ru/public/5NSx/SYdpid4ra",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Реалити-шоу в новом формате «Упаковщик смыслов» (2020)",
+    "url": "https://cloud.mail.ru/public/3W9m/fLWVRGHyr",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Высотский] Инструменты управления бизнесом (2020)",
+    "url": "https://cloud.mail.ru/public/5iYc/2f7gyDSXr",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "Антикризисная онлайн-конференция. Выбор возможностей - варианты действий (2020)",
+    "url": "https://cloud.mail.ru/public/GGK3/2iKbLRfy5",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Роберт Кийосаки] Как разбогатеть после пандемии и карантина (2020)",
+    "url": "https://cloud.mail.ru/public/zVNN/85u9zyYBt",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Чистов] [BotHelp] Специалист по автоворонкам и чат-ботам в мессенджерах 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/3oco/1sJXWxMaG",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[jonn22] Социальный капитал 3 (2020)",
+    "url": "https://cloud.mail.ru/public/5hzg/4y2DQiEWN",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Геннадий Бабинцев, Ласло Габани] Клуб на миллион (2020)",
+    "url": "https://cloud.mail.ru/public/RCSe/2SJ626rLL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Богданов] Делай деньги (2020)",
+    "url": "https://cloud.mail.ru/public/BLjM/FNUUNRyeA",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Олег Селифанов] Как зарабатывать на торгах по банкротству по методу Шерлока Холмса (GOLD) (2020)",
+    "url": "https://cloud.mail.ru/public/7R8C/1C3311pfH",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аяз Шабутдинов] Скорость 8",
+    "url": "https://cloud.mail.ru/public/MgCP/dvfFe62P3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Краснов, Гена Бабинцев] Дерзкий Инфобизнес (2020)",
+    "url": "https://cloud.mail.ru/public/2qLn/L3oLXu55T",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аннa Радченко] На шaг впереди. 2 ступень (2020)",
+    "url": "https://cloud.mail.ru/public/JH8p/XB1gkjoQk",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Берестнев] Интернет-магазин своими руками",
+    "url": "https://cloud.mail.ru/public/2XyW/4YmG9BSmf",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Иванов] B2B. Законы тендеров. Как продавать себя и свой продукт (2020)",
+    "url": "https://cloud.mail.ru/public/42CM/2kLDHWxNS",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Антон Ельницкий] Пакет мастер-классов «Продающий сайт»",
+    "url": "https://cloud.mail.ru/public/8zr2/HMAsELj1M",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Джордан Белфорт] Эффективные продажи в кризис (2020)",
+    "url": "https://cloud.mail.ru/public/DFwg/5fJMM4pRt",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Олешко] «Открой Рот» (2020)",
+    "url": "https://cloud.mail.ru/public/cjxo/nweeENoAr",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Кристина Сорокун] Скрипты продаж в переписке (мессенджерах) (2020)",
+    "url": "https://cloud.mail.ru/public/bydV/D7fGsDdn9",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Роберт Наумов] Прибыльный Авито (2020)",
+    "url": "https://cloud.mail.ru/public/3EEb/2eAHGM6yi",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Марафон на миллион (2020)",
+    "url": "https://cloud.mail.ru/public/6xDd/eBAvQiJba",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Пётр Осипов] [Бизнес молодость] Результат (2020)",
+    "url": "https://cloud.mail.ru/public/415M/BCJH2n41t",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Fashion Factory School] Как сформулировать УТП для вашего бренда (2020)",
+    "url": "https://cloud.mail.ru/public/2koM/3kWRMnee1",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анастасия Якушева] Создайте свой успешный бренд и выйди на Wildberries (2020)",
+    "url": "https://cloud.mail.ru/public/naeQ/c9rJTtkvN",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Julia Monastyriova] [Udemy] Как стать лидером в своей сфере уже в 2020 году",
+    "url": "https://cloud.mail.ru/public/2Gv1/2YSPJpV5h",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игорь Рызов] Онлайн-курс - Переговоры с «монстрами». Пакет Стандарт (2019)",
+    "url": "https://cloud.mail.ru/public/4BQd/4kgVM3cH8",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Центр Технологий Федора Сокирянского] Дoступ к зaкpытым мaтepиaлaм (2020)",
+    "url": "https://cloud.mail.ru/public/4AJs/5FmBiC9db",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Иванищев] 29 видео-инструкций по GetCourse и Бизон365 (2020)",
+    "url": "https://cloud.mail.ru/public/31py/4auePMPmj",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алина Рязанова] Выбор ниши и выход на маркетплейсы (2020)",
+    "url": "https://cloud.mail.ru/public/38CE/4EvvtU6TB",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Пётр Осипов] [Бизнес молодость] Наука целей (2020)",
+    "url": "https://cloud.mail.ru/public/32xZ/5KHhDLyvR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Росс] Управление Проектами в MindManager. Up To Date (2020)",
+    "url": "https://cloud.mail.ru/public/4Aa1/2bPd6jaZX",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Вадим Шабалин, Сергей Прокофьев] Алиби добросовестного приобретателя (2020)",
+    "url": "https://cloud.mail.ru/public/2ifD/JBHHNLQks",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Николай Латанский] Онлайн тренинг «Как Продавать, НЕ Продавая™»",
+    "url": "https://cloud.mail.ru/public/4G2C/2ADebDeK3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Иванищев] «461 день» (2020)",
+    "url": "https://cloud.mail.ru/public/3hu2/2yzehTUAs",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Михаил Делягин] Мир на развилке между коммунизмом и феодализмом (2020)",
+    "url": "https://cloud.mail.ru/public/4PGW/5P4BdXwA4",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Чипижко] Танцы 5.0 (2020)",
+    "url": "https://cloud.mail.ru/public/4trM/4GyC51Tid",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Точки прибыли (2020)",
+    "url": "https://cloud.mail.ru/public/32a9/4DTZV5GkJ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Загородников] Манимейкинг 4.0 (2020)",
+    "url": "https://cloud.mail.ru/public/3yex/3WsggQtgh",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Никита Сергеев] [Udemy] Организационный дизайн (2020)",
+    "url": "https://cloud.mail.ru/public/Mnh6/2FTKh2dbF",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аркадий Морейнис, Алексей Черняк] [Product University] B2B-продажи для стартапов (2020)",
+    "url": "https://cloud.mail.ru/public/4To3/4QodQmQKm",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анна Громова] «Продажи на Авито: от шкафа до денег» (2020)",
+    "url": "https://cloud.mail.ru/public/3Uwo/MrwNvcA4V",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Горный] [United Investors] Презентация для инвестора за 2 часа (2020)",
+    "url": "https://cloud.mail.ru/public/bkDQ/AqkStyStE",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Максим Курбан] Профессиональный продавец (2019)",
+    "url": "https://cloud.mail.ru/public/2TY9/sxDPV9s6t",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Берестнев] Мышление предпринимателя за 31 день (2020)",
+    "url": "https://cloud.mail.ru/public/R8jW/Ch4Uhd36L",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игаль Маргулис] Марафон. Бизнес с Китаем за 5 дней (2019)",
+    "url": "https://cloud.mail.ru/public/4Pza/4PUPizp6A",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Udemy] Google Classroom 2020 для создания онлайн класса / курса (2020)",
+    "url": "https://cloud.mail.ru/public/4G28/5g6kW4xRh",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Загородников] Инфобизнес в теме отношений от А до Я (2020)",
+    "url": "https://cloud.mail.ru/public/3VKm/5mGk6Fcvp",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Лилия Нилова] Anti-Crisis camp (2020)",
+    "url": "https://cloud.mail.ru/public/qv2s/rfg7oneKs",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юлий Тай] Практические рекомендации по составлению искового заявления и отзывы на иск (2020)",
+    "url": "https://cloud.mail.ru/public/VjPx/T7Aj3ua1h",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[EdMarket] Продюсер онлайн-курсов (2020)",
+    "url": "https://cloud.mail.ru/public/Aq5Q/gYeWxH8L9",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Анна Радченко] На шаг впереди. Первая ступень (2020)",
+    "url": "https://cloud.mail.ru/public/vhbE/rgF9ZUh4P",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Илья Волк] 5 дневный практикум по личным продажам (2020)",
+    "url": "https://cloud.mail.ru/public/bvnJ/rsXg3fe1v",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Алексей Сумин] [Packmy.Biz] Видео-курс: Как упаковать свою франшизу самостоятельно (2020)",
+    "url": "https://cloud.mail.ru/public/2jhX/2hJGmvyPx",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Ардонская] Как продавать на авито (2020)",
+    "url": "https://cloud.mail.ru/public/5N4L/yGBjJmirx",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Николай Сабзир] Организация и правильные продажи бизнеса микрозелени (2020)",
+    "url": "https://cloud.mail.ru/public/28go/3mgsZwrCy",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Краснов] Основа 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/3eSy/4s9oJWRk5",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[ПРОФБУХ8] Бухгалтерский и налоговый учет в 1С:Бухгалтерия 8 ред. 3 от А до Я (2020)",
+    "url": "https://cloud.mail.ru/public/pyXx/5haZ8pFdD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юлия Резникова] Как зарабатывать деньги в сфере альтернативной медицины (2020)",
+    "url": "https://cloud.mail.ru/public/uUZv/DgSNNPwp5",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Nikita Sergeev] Управление трансформационными проектами преобразований (2020)",
+    "url": "https://cloud.mail.ru/public/Lhni/hhmWXnDSR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Полина Пушкарёва] Марафон по заработку «Миллионерята» (2020)",
+    "url": "https://cloud.mail.ru/public/2DgG/49FtGA7oB",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Борисов] Запуск интернет-проекта всего за 5 дней (2020)",
+    "url": "https://cloud.mail.ru/public/3cEE/2rBXEm7SW",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Булат Максеев] Как запустить трафик для заработка за 2 часа! (2020)",
+    "url": "https://cloud.mail.ru/public/5fWs/5khtzR9CK",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артем Нестеренко] Генератор партнеров в МЛМ (2019)",
+    "url": "https://cloud.mail.ru/public/25GE/21YZL7qr9",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Play System] Готовый бизнес в Google Play за 2 дня (2020)",
+    "url": "https://cloud.mail.ru/public/CnZW/36AcNdoKr",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Азат Валеев] Мышление миллионера (2019)",
+    "url": "https://cloud.mail.ru/public/6A3A/GgvCWEcxe",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артём Карапетов] Расторжение нарушенного договора: путеводитель по проблемным вопросам (2020)",
+    "url": "https://cloud.mail.ru/public/2ep6/4wuFdwHnF",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игорь Рызов] Эволюция продаж. Тариф Базовый (2020)",
+    "url": "https://cloud.mail.ru/public/2afa/33eeSpj9h",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Потапенко] Безжалостный менеджмент в кризис (2020)",
+    "url": "https://cloud.mail.ru/public/2tnx/FYEz7cMGL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Азамат Ушанов] Создание востребованного онлайн-продукта шаг за шагом (2020)",
+    "url": "https://cloud.mail.ru/public/3xkX/rWFCdeodL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Мастер Консильери] Боевая Виртуорика (2019)",
+    "url": "https://cloud.mail.ru/public/5nBy/2yGJPagMj",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Морошка] Онлайн-конференция «Комьюнити» (2020)",
+    "url": "https://cloud.mail.ru/public/whTQ/2mLeV2FP2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Павел Берестнев] Мастер-класс «Как быстро разгрести инфозавалы и начать внедрять» (2020)",
+    "url": "https://cloud.mail.ru/public/4jCD/5pmfdri3G",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Интенсив Модель для эксперта (2020)",
+    "url": "https://cloud.mail.ru/public/4NA9/5mNNbvzDV",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Волошин] Интернет-магазин за 15 часов (2019)",
+    "url": "https://cloud.mail.ru/public/CSQS/fPf65KSEV",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Модуль] Unit-экономика с куратором за 3 часа (2020)",
+    "url": "https://cloud.mail.ru/public/Lafs/4bCDcGLrQ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Франкель] Удаленные команды: как управлять бизнесом из любой точки мира (2020) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/584W/2zpEsK3ag",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наташа Панова] Быстрый запуск онлайн-школы (2020)",
+    "url": "https://cloud.mail.ru/public/4xBG/CrmLo6jWD",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[GetCourse] Космический курс по процессам (2020)",
+    "url": "https://cloud.mail.ru/public/3u2A/2KkjB6p4i",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Илья Балахнин] Менеджмент «на удаленке» (2020)",
+    "url": "https://cloud.mail.ru/public/3soJ/4Kqzh7MBb",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Наталья Ардонская] Доходные гаражи (2020)",
+    "url": "https://cloud.mail.ru/public/56nY/2PH3whSPp",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[SETTERS] Конференция «Коллеги» (2020)",
+    "url": "https://cloud.mail.ru/public/svek/54Cs4JNiR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Коренко] Царский разогрев (2020)",
+    "url": "https://cloud.mail.ru/public/4sVs/32ekCKZk3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Дьяков] Товарный бизнес от «А до Я» (2020)",
+    "url": "https://cloud.mail.ru/public/iGQz/tRF7DwzDZ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Lana Belova] Как вывести свой бизнес на Амазон Великобритании и Европы 2.0 (2020) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/5rEA/4273PNPbx",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Таша Лео] Микрозапуск 3.0 (2020)",
+    "url": "https://cloud.mail.ru/public/SsuG/5mRGfxXWU",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Шалаев] [Business Inside] Реалити-курс «Собственный товарный бренд с нуля» (2020)",
+    "url": "https://cloud.mail.ru/public/6WUn/yzyounoxc",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[jonn22] 96 часов в сутках 3 (2020)",
+    "url": "https://cloud.mail.ru/public/26Zs/286caG6Bh",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Олег Малышев] Старт в бизнесе с нуля. Первые деньги на своем деле (2020)",
+    "url": "https://cloud.mail.ru/public/GeBf/4gCnDVVM3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Этичные продажи на консультациях (2020)",
+    "url": "https://cloud.mail.ru/public/2nSa/32g4eud8C",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Всеволод Татаринов] Как заработать, находясь в карантине (2020)",
+    "url": "https://cloud.mail.ru/public/3dQm/4RK1g3YZm",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Нелли Армани] Воркбук 2.0 по продажам (2020)",
+    "url": "https://cloud.mail.ru/public/4FXL/CCpVTR4SJ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Фетисов, Александр Кривов] Удаленка с результатом (2020)",
+    "url": "https://cloud.mail.ru/public/3qGQ/3SRDwbrYJ",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Лиза Бербер] Как создать свой мастермайнд (2020)",
+    "url": "https://cloud.mail.ru/public/4s2y/gzJ1h8R95",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Шевага] [Udemy] Как продавать дорогие услуги с конверсией до 75% (2020)",
+    "url": "https://cloud.mail.ru/public/G9KH/uo7dzzfy2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артем Черепанов] Бизнес-среда (Февраль 2020)",
+    "url": "https://cloud.mail.ru/public/4Tq5/3riiTCvDR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артем Черепанов] Бизнес-среда (Январь 2020)",
+    "url": "https://cloud.mail.ru/public/5cBS/wKsrw6Adw",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Олег Иванов] Как за полчаса найти недорогой земельный участок на аукционе? (2020)",
+    "url": "https://cloud.mail.ru/public/LWGA/gMDSLi3En",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "Свой бот (в Вайбере, Фейсбуке и Телеграме) для информирования и сопровождения команды (2019)",
+    "url": "https://cloud.mail.ru/public/3F7G/5E4pDZG9E",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Ампир] Запуски курсов и тренингов от А до Я (2020)",
+    "url": "https://cloud.mail.ru/public/3AHW/8ASnVYAXz",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ирина Дмитриева] Онлайн-бухгалтер (2019)",
+    "url": "https://cloud.mail.ru/public/mL1z/eBrKx3w3j",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юлиана Бондаренко, Михаил Бондарь] Легальный beauty-бизнес. Всё о школах красоты (2020)",
+    "url": "https://cloud.mail.ru/public/hiqA/hN6vj8bDd",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Вадим Борода] Товарный боец. Версия «Товарный стратег» (2020)",
+    "url": "https://cloud.mail.ru/public/2pSE/uggFRM161",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Денис Сорокин, Кристина Сорокина] Курс «Вне офиса», пакет «Я сам»",
+    "url": "https://cloud.mail.ru/public/4bn2/2ejYb7Fzw",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Лина Залевская] Как платить налоги при сдаче своего и чужого жилья (2019)",
+    "url": "https://cloud.mail.ru/public/4Fsu/4pqP6ixHb",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[QA PROJECT] Обучение Crowdtesting (2020)",
+    "url": "https://cloud.mail.ru/public/48n1/3uHbSbWUi",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Андрей Цыганков] Мини-видеокурс «2 кейса на миллион» (2020)",
+    "url": "https://cloud.mail.ru/public/qkmf/7JkSmG9CS",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Михаил Хазин] Идеи современной экономики: анализ и прогноз (2020)",
+    "url": "https://cloud.mail.ru/public/EigF/br7kH2Bgn",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ирина Малыхина] Как работать с площадками Booking.com и Airbnb.com (2020)",
+    "url": "https://cloud.mail.ru/public/3HNa/4vhveRtrM",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Udemy] Как Продавать на Ebay (2020)",
+    "url": "https://cloud.mail.ru/public/2sdk/5CNzuZ4vM",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Машковцев] Продажи на маркетплейсе Озон. Заработать может каждый (2020)",
+    "url": "https://cloud.mail.ru/public/K2dR/4V5cjTvvt",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Кот] Работай с клиентом в комфорте (2020)",
+    "url": "https://cloud.mail.ru/public/2kz9/2hLQZyaCh",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ирина Кречетова] Что сделать сегодня, чтобы клиент пришел завтра (2020)",
+    "url": "https://cloud.mail.ru/public/4rHd/2nW2tonFS",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Пугачев] 50++ эффективных функций WhatsApp (2020)",
+    "url": "https://cloud.mail.ru/public/oCjk/TpMDd8R8A",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Оксана Киселева] Как зарабатывать на прямых эфирах даже новичку (2020)",
+    "url": "https://cloud.mail.ru/public/47ex/WVn9vEwKv",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Давид Ризаев, Павел Куксенко] 12 шаговая система заработка на торгах по банкротству (2018)",
+    "url": "https://cloud.mail.ru/public/4QoP/56xVDcrto",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Матвей Северянин] Коронастрим. Как выжить во время кризиса (2020)",
+    "url": "https://cloud.mail.ru/public/2dFX/2GQMdoHxL",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[CENTURY 21] Психология холодных звонков и техники снятия напряжения при общении с собственником (2020)",
+    "url": "https://cloud.mail.ru/public/2rDZ/2zQFQeUYn",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Гуриев] Что теперь будет с экономикой (2020)",
+    "url": "https://cloud.mail.ru/public/4whc/3HrLqp1ZE",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[United Investors] Как разглядеть бизнес, способный выйти на зарубежный рынок (2019)",
+    "url": "https://cloud.mail.ru/public/39oo/2AvQN2u3V",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Загородников] Техника безопасности в продюсировании экспертов (2020)",
+    "url": "https://cloud.mail.ru/public/neqd/5p6vJm8k2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[SaleBot] Создание продающих чат-ботов в мессенджерах 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/LHHz/42NvDwd1D",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "Бизнес на реставрации обуви (2020)",
+    "url": "https://cloud.mail.ru/public/wmAA/qvZLPT73f",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Закхайм, Краснов] Открытое заседание 23.02.2020 Ассоциации Инвест Ангелы",
+    "url": "https://cloud.mail.ru/public/8FU8/2vMgaK5tN",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Дмитрий Вашешников] Ответы про деньги (2020)",
+    "url": "https://cloud.mail.ru/public/ZHT9/pDeLHwtU5",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юрий Курилов] Интенсив чек-лист запуска онлайн-школы 2 (2020)",
+    "url": "https://cloud.mail.ru/public/t2Js/uDNSg3e5F",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "Турпродукт 2.0: продвижение нишевых, авторских и тематических туров и экскурсий (2020)",
+    "url": "https://cloud.mail.ru/public/3Pex/DB5zoZoJz",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Тимур Евлоев] Авито для Профессоналов (2020)",
+    "url": "https://cloud.mail.ru/public/4dnp/2zh56UdqR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Арина Высоцкая] Продающий магазин рукоделия на Etsy: от А до Я за 4 недели (2020)",
+    "url": "https://cloud.mail.ru/public/4rvN/2K83q37Nt",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ярослав Федорюк] Старт инфобизнеса. Как дойти до миллионных запусков (2020)",
+    "url": "https://cloud.mail.ru/public/3rc1/FHXW322Gq",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Загородников] Готовый контент-план за 1 день (2020)",
+    "url": "https://cloud.mail.ru/public/t1DM/48AHyDSry",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Артем Дурицын] [Heartbeat Education] Виртуальные продажи (2020)",
+    "url": "https://cloud.mail.ru/public/4fvc/3Z2erWdFP",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Давыдов] DA-марафон: личность, люди, идеология, система, контент (2020)",
+    "url": "https://cloud.mail.ru/public/53eB/3dYJ2HfrR",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Аркадий Морейнис, Алексей Черняк] [Product University] Экономика бизнеса и юнит-анализ (2020)",
+    "url": "https://cloud.mail.ru/public/3MZK/5Doi4GoEg",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Краснов] Интенсив «КПСС». Комфортные продажи на Скайп-сессии (2020)",
+    "url": "https://cloud.mail.ru/public/xAnp/3HgN94XR3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Полина Пушкарева] [nioly] Создание инфопродуктов с нуля (2020)",
+    "url": "https://cloud.mail.ru/public/49Gb/51kBBHY2n",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Юлиана Бондаренко] Легальный Beauty-Бизнес. Санпин и Проверки (2020) (Пароль: boominfo.ru)",
+    "url": "https://cloud.mail.ru/public/xFGp/AKb9ZZ691",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Молчанов] Налоги за 14 дней (2020)",
+    "url": "https://cloud.mail.ru/public/idev/KgTb6qXr3",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Швыряев] Марафон по адалту Pro (2020)",
+    "url": "https://cloud.mail.ru/public/w5U8/sFNrdHMgM",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Людмила Ганичева] ИП и самозанятые: налоги, отчетность, проверки (2019)",
+    "url": "https://cloud.mail.ru/public/9KkN/binHTdtuC",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Александр Чипижко и Сергей Краснов] Как делать запуски на миллионы (2020)",
+    "url": "https://cloud.mail.ru/public/57kw/tFNT4QYfK",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Игорь Манн] Почему вы: онлайн мастер-класс (2020)",
+    "url": "https://cloud.mail.ru/public/Xc5T/B1nWPZi5J",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Fashion Factory School] Продающий фотоконтент для маркетплейсов (2020)",
+    "url": "https://cloud.mail.ru/public/5qqA/4L6yqeAki",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Тимур Кадыров] Трех-ходовка (2020)",
+    "url": "https://cloud.mail.ru/public/4k36/4RjHPhym2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Ирина Белочкина] [Специалист] Бухгалтерский учет 2026. Теория и практика (2026)",
+    "url": "https://cloud.mail.ru/public/kxJK/22qSGaPmG",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Громов] [B-Major] Золотая осень вашего центра (2026)",
+    "url": "https://cloud.mail.ru/public/wDkn/Ro7hwbWLu",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Татьяна Тюрикова] Авито на миллион (2025)",
+    "url": "https://cloud.mail.ru/public/jyT4/kpeXfSB7f",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Полина Пылева] Троян-система 2.0 (2026)",
+    "url": "https://cloud.mail.ru/public/Pvgn/u98ENP8Z2",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Антон Назаров] Подписка на контент Осознанная меркантильность. Тариф Волчара. Август (2026)",
+    "url": "https://cloud.mail.ru/public/7hSV/ksqqPRybf",
+    "cloud": "Облако",
+    "category": "Бизнес"
+  },
+  {
+    "title": "[Сергей Искра] Океан заказов для дизайнера (2020)",
+    "url": "https://cloud.mail.ru/public/4Tj5/4xTuNS1jT",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[Максим Кузнецов, Виктор Апасов, Алексей Попов] [Videosmile] Профессия UI/UX-дизайнер. Модуль 2. Базовые правила дизайна (2026)",
-    "url": "https://cloud.mail.ru/public/mjsy/xwiMyVLaP",
+    "title": "[Надежда Бейнер] Электрика в Archicad (2022)",
+    "url": "https://cloud.mail.ru/public/quoA/8GeXPuDSP",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[murari-design] Профессия инфографика Продвинутый (2026)",
-    "url": "https://cloud.mail.ru/public/woKW/g12uLMJt8",
+    "title": "[Надежда Бейнер] [Учебный центр AMS] Визуализация и дизайн интерьера в HOMESTYLER (2023)",
+    "url": "https://cloud.mail.ru/public/PCuD/1mosLy7SY",
     "cloud": "Облако",
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[Галина Гарбузова] [garbuzova.pro] Гиперплазия эндометрия (2026)",
-    "url": "https://cloud.mail.ru/public/mPH5/qwBn8k9oy",
+    "title": "[Вероника Садретдинова] [TutorPlace] Full body pilates (2026)",
+    "url": "https://cloud.mail.ru/public/LpRr/bjPnmhm1K",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Алесь Улищенко] Клуб омоложения и оздоровления. Расслабь шею и подтяни овал лица (Август 2026)",
-    "url": "https://cloud.mail.ru/public/YVfU/iERThNsia",
+    "title": "[Татьяна Федоркова] [Fitstars] Горячий экспресс (2026)",
+    "url": "https://cloud.mail.ru/public/QZwD/X5RGsUmFa",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[ShtDY] NeuroAge Control - рефлексы молодости для мозга и тела (2026)",
-    "url": "https://cloud.mail.ru/public/nx1v/JzBU8ZzWU",
+    "title": "[Вероника Садретдинова] [TutorPlace] Нежная растяжка (2026)",
+    "url": "https://cloud.mail.ru/public/od3X/F48PAAEMw",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Елена Нестерова] Онлайн курс на глаза (2025)",
-    "url": "https://cloud.mail.ru/public/EgwG/LKzXqT949",
+    "title": "[Ангелина Яковлева] [Fitstars] Сексуальное здоровье. Часть 2 (2026)",
+    "url": "https://cloud.mail.ru/public/p1fZ/Lqc5aMno8",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Вячеслав Дубынин] [МГУ имени М.В.Ломоносова] Физиология центральной нервной системы (2026)",
-    "url": "https://cloud.mail.ru/public/XaD7/MAXYmyBdF",
+    "title": "[Ольга Корякина] [TutorPlace] Тай-чи: ходьба для похудения (2026)",
+    "url": "https://cloud.mail.ru/public/ZTrz/1swnxRBpQ",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Виктория Боровская] Нейросlub. Легкое движение, ясный ум, молодое тело (Август 2026)",
-    "url": "https://cloud.mail.ru/public/5YXu/2rWpXhdMu",
+    "title": "[Ольга Дерендеева] [Fitstars] Тренировки для подростков (2026)",
+    "url": "https://cloud.mail.ru/public/B5Zt/QNiGsKUSb",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[НАЗОЖ] Форум пептидных инноваций (2026)",
-    "url": "https://cloud.mail.ru/public/KZG8/863yt3rDp",
+    "title": "[Дарья Персикова] [TutorPlace] Убираем выпирающий живот (2026)",
+    "url": "https://cloud.mail.ru/public/yz9v/vrdRV9AR9",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Анастасия Дубинская] [Ревитоника] Ревитоника. Закрытый клуб (Июнь - Август 2026)",
-    "url": "https://cloud.mail.ru/public/Bcr5/obF8Hb1bW",
+    "title": "[Алёна Решетова] Таз — всему голова (2026)",
+    "url": "https://cloud.mail.ru/public/LQq5/AboYXKKob",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Сеченовский Университет, Skillbox] Профессиональная переподготовка «Нутрициология». Модуль 4 (2026)",
-    "url": "https://cloud.mail.ru/public/d5be/gLWJALRw7",
+    "title": "[Synapse] Интерпретация УЗ-изображений (2023)",
+    "url": "https://cloud.mail.ru/public/K4Bq/2baPrYcua",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Сеченовский Университет, Skillbox] Профессиональная переподготовка «Нутрициология». Модуль 5 (2026)",
-    "url": "https://cloud.mail.ru/public/HbD3/HnKdCigFN",
+    "title": "[Таня С. Глейзер] Поговорим о зрении. Всё о наших глазах (2024)",
+    "url": "https://cloud.mail.ru/public/tYGj/n7RoP75hp",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Виктор Картавенко, Татьяна Картавенко] [Академики Картавенко] Ноги и мочеполовая система + Энергия водного баланса. Тариф Пакет 3 (2026)",
-    "url": "https://cloud.mail.ru/public/95Ro/eo3nemQiA",
+    "title": "[Ольга Степанова] Глазные болезни. Современный взгляд на лечение и профилактику (2019)",
+    "url": "https://cloud.mail.ru/public/j3K2/PWVnmHEpg",
     "cloud": "Облако",
     "category": "Здоровье и спорт"
   },
   {
-    "title": "[Михаил Советов] [Школа Долгой Жизни] Развитие ‌‌Сексуальной ‌Энергии. Тариф Основной (2026)",
-    "url": "https://cloud.mail.ru/public/88zo/Utb1yek6k",
+    "title": "[ParisNail] Пленки + экспресс-педикюр (2026)",
+    "url": "https://cloud.mail.ru/public/pcNW/Xe55PyqMX",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Имидж и стиль"
   },
   {
-    "title": "[Анна Марон, Михаил Касаткин] [Meducation] Конференция по реабилитации тазового региона (2026)",
-    "url": "https://cloud.mail.ru/public/yT39/6AzJYpsT6",
+    "title": "[Анна Рева, Наталья Шарыгина] [TutorPlace] Японский язык (2026)",
+    "url": "https://cloud.mail.ru/public/xgZA/3kNBHhJb2",
     "cloud": "Облако",
-    "category": "Здоровье и спорт"
+    "category": "Иностранные языки"
   },
   {
-    "title": "[Алесь Улищенко] Убери живот за 7 дней (2026)",
-    "url": "https://cloud.mail.ru/public/gMmA/uVL4syA2V",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Алесь Улищенко] PRO.Зрение (2026)",
-    "url": "https://cloud.mail.ru/public/D5Tr/9MZxpeyGC",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Дмитрий Чебанов] Как снизить риск рака за 14 дней (2026)",
-    "url": "https://cloud.mail.ru/public/hznu/BG6Vrork9",
-    "cloud": "Облако",
-    "category": "Здоровье и спорт"
-  },
-  {
-    "title": "[Ирина Таро] Летний лагерь для вареньеваров (2026)",
-    "url": "https://cloud.mail.ru/public/wcdq/pFsQjfo5c",
+    "title": "[Олеся Шубина] Клуб премиум «Вкусно Doma» (Август 2026)",
+    "url": "https://cloud.mail.ru/public/GCMF/GoxH8c8n7",
     "cloud": "Облако",
     "category": "Кулинария"
   },
   {
-    "title": "[Алина Ахмадиева, Айдар Ханнанов] [Alina2cake School] Домашние заготовки (2026)",
-    "url": "https://cloud.mail.ru/public/vehC/1SV5ykHTp",
+    "title": "[Роня Белова, Андрей Дубовик] Курс современных кондитерских техник Pastronomy (2023)",
+    "url": "https://cloud.mail.ru/public/cz8x/K4FfUbqQn",
     "cloud": "Облако",
     "category": "Кулинария"
   },
   {
-    "title": "[Анастасия Вашкевич] [Wow buket] Осеннее wow-вдохновение (2026)",
-    "url": "https://cloud.mail.ru/public/ZJ7z/Vz3gF22Kn",
+    "title": "[Анна Виленская] [Страдариум] Музыка Средневековья и Возрождения (2026)",
+    "url": "https://cloud.mail.ru/public/DcZs/FLx5sZg2e",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Лекторий"
   },
   {
-    "title": "[Анастасия Политыкина] Первоклашка (2026)",
-    "url": "https://cloud.mail.ru/public/K4TS/VLKivEjEj",
+    "title": "[Таша Лео] Вся воронка продаж. 3-й Сезон (2020)",
+    "url": "https://cloud.mail.ru/public/tVVm/2cWxYAwkK",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Анастасия Воронова] [LaFarine school] Корпусный какао боб (2026)",
-    "url": "https://cloud.mail.ru/public/71nX/NjQyaZk3z",
+    "title": "[Василий Смирнов] Интенсив по Маркетингу Для Психологов (МДП)",
+    "url": "https://cloud.mail.ru/public/BoL3/KRgAoWsn5/",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Мария Комелькова] Ешь много, вкусно и сытно. Авторские ПП-рецепты. База рецептов. Август (2026)",
-    "url": "https://cloud.mail.ru/public/HVNY/BJi9Pxvu6",
+    "title": "[Александр Ампир] Поток клиентов на консультации. VIP (2020)",
+    "url": "https://cloud.mail.ru/public/5bKY/3wX98rHW4",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Ксения Нохрина] [Konfect] Зефир на алкоголе (2026)",
-    "url": "https://cloud.mail.ru/public/iXXW/PtgRgbSHY",
+    "title": "[Юлия Зацаринна] Чат-боты и мессенджер-маркетинг для вашего бизнеса и коммуникаций (2020)",
+    "url": "https://cloud.mail.ru/public/XqbS/2Q9mjKfwr",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Анастасия Паклина] Фуршетные пирамиды (2026)",
-    "url": "https://cloud.mail.ru/public/KWQt/TFxwUrHUx",
+    "title": "[Edston] Онлайн-курс: «Методы привлечения клиентов при отсутствии рекламного бюджета» (2020)",
+    "url": "https://cloud.mail.ru/public/NuXr/vmemcq6Wf/",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Олеся Поступкина] Самое вкусное меню для всей семьи. Сборники 1–12​ (2025)",
-    "url": "https://cloud.mail.ru/public/YPXM/ikzMcFex9",
+    "title": "[Сергей Загородников] Продающий контент-план для VIP-клиентов (2020)",
+    "url": "https://cloud.mail.ru/public/icLs/gdVsfLfSS",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Анастасия Паклина] Гастрономическое путешествие: фуршет-боксы разных стран (2026)",
-    "url": "https://cloud.mail.ru/public/w8mY/6xAfsLnt8",
+    "title": "[Светлана Еремина] Звездный сценарий игровой воронки продаж прямо на аккаунте Инстаграм (2020)",
+    "url": "https://cloud.mail.ru/public/2pY2/D4717xkZE",
     "cloud": "Облако",
-    "category": "Кулинария"
+    "category": "Маркетинг и реклама"
   },
   {
-    "title": "[Максим Вердикт] Как забыть бывшую? (2026)",
-    "url": "https://cloud.mail.ru/public/F7Ls/pi1mJxZKj",
+    "title": "[Иван Шумайлов] «Квиз-сайт + 5х3»: как удвоить отдачу от рекламы в 2020 году.",
+    "url": "https://cloud.mail.ru/public/kQ7H/NbvyPojLH",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Игорь Манн, Кирилл Горский] Рекомендательный маркетинг (2020)",
+    "url": "https://cloud.mail.ru/public/qUfW/chgXKMWNX",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Александр Бакин] 60 способов бесплатной рекламы (2020)",
+    "url": "https://cloud.mail.ru/public/kewU/jtNdWvGe3",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Татьяна Филюкова] Кто на самом деле твоя целевая аудитория? (2020)",
+    "url": "https://cloud.mail.ru/public/DrcM/2E5CB84dM",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Convert Monster] Интернет-маркетолог за 80 дней",
+    "url": "https://cloud.mail.ru/public/31xS/EJQRdqJH6",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Митя Воскресенский] Изучаем потребности аудитории. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/2Mhn/3HcPKdZHV",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Николас Коро] Нейромаркетинг и нейротехнологии в брендинге. Выжимка курса (2020)",
+    "url": "https://cloud.mail.ru/public/4368/4FgJWH4D7",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Александра Гуреева] Цена, которая продает. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/246N/E19Hba981",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Шалаев] Как заткнуть конкурентов за пояс и продавать много и дорого. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/BzW6/3CLRZp5iQ",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Кот] +1 к продажам. Приемы создания убедительных преимуществ (2020)",
+    "url": "https://cloud.mail.ru/public/NtMq/noaHsixyt",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Андрей Гавриков] Конкурентная разведка в digital-маркетинге (2020)",
+    "url": "https://cloud.mail.ru/public/XNFM/5Z7MztLhm",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Мария Полевара] [Udemy] Маркетинг и психология: наука о влиянии (2020)",
+    "url": "https://cloud.mail.ru/public/Grs9/cdkCVWWoz",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Игорь Алимов] Денежные тексты (2020)",
+    "url": "https://cloud.mail.ru/public/34GZ/pRy47Bjut",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Коренко] Как продавать услуги через Инстаграм? (2020)",
+    "url": "https://cloud.mail.ru/public/ei4b/25nSGDxBR",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Владимир Макулов] Секреты продвижения в условиях кризиса (2020)",
+    "url": "https://cloud.mail.ru/public/x3XA/rRLwNJY8L",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[iamaffiliate.com] Топ 1 форум по аффилейт (партнерскому) маркетингу от эксперта iAmAttila (2019)",
+    "url": "https://cloud.mail.ru/public/vp2B/TjQ2z4Fx7",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Андрей Цыганков] Автоворонки по-новому (2020)",
+    "url": "https://cloud.mail.ru/public/TH6q/62z9UqJA4",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Марта Коронкевич] 5 секретов продаж курсов в соцсетях на небольших охватах через прогрев и запуски (2020)",
+    "url": "https://cloud.mail.ru/public/34bF/HQnRy6fjN",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Станислав Литвиненко] НЕЛЬЗЯ ОТКАЗАТЬСЯ! — интенсив по упаковке маркетинговых услуг (2020)",
+    "url": "https://cloud.mail.ru/public/3iEB/2Hwi9VJ63",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Дьяков] Инструкция по рекламе на Авито и Юле (2020)",
+    "url": "https://cloud.mail.ru/public/yxoD/2598SWVqq",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Анелия Мухамедкаримова] [Udemy] Стратегический маркетинг (2020)",
+    "url": "https://cloud.mail.ru/public/RZBT/7HNbVJnVA",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Юрий Курилов] Реклама чужими руками (2020)",
+    "url": "https://cloud.mail.ru/public/7BzK/YHBbGjJy5",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Константин Зимен, Никита Кравченко, Владимир Лоцманов] Маркетинг доставки еды 2020. Онлайн марафон",
+    "url": "https://cloud.mail.ru/public/5aVe/4VgzHPwzr",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Andrew Borysenko] Маркетинг мобильных приложений (2020)",
+    "url": "https://cloud.mail.ru/public/aDy9/PrZuuXR1E",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Сергей Загородников] Простая автоворонка с нуля (2020)",
+    "url": "https://cloud.mail.ru/public/7r9C/HQd5Ye7Az",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Кристина Бондаровец] Гайд по автоматизации продаж инфопродуктов (2020)",
+    "url": "https://cloud.mail.ru/public/HoY3/2phBw5GKw",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Полина Забродская] [SKVOT] Кому нужна ваша реклама? (2020)",
+    "url": "https://wdfiles.ru/jrbG",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Сергей Копыленко] Хитрый лис: продвижение партнерок ВК (2020)",
+    "url": "https://cloud.mail.ru/public/ftZN/3RzQJDcDH",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Мария Солодар] Школа интернет-маркетологов",
+    "url": "https://cloud.mail.ru/public/EjNZ/ZrFstrEqy",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Матвей Северянин] Маркетинг на пальцах",
+    "url": "https://cloud.mail.ru/public/t893/n6MZSnynb",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Татьяна Андреева] Личный профиль-магнит для привлечения клиентов (2020)",
+    "url": "https://cloud.mail.ru/public/5ACG/2bWiDB89S",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Анна Устюгова] Продвижение Etsy-магазина 2.0 (2020)",
+    "url": "https://cloud.mail.ru/public/Pwpz/1crwMUWet",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Антон Рожин] [Udemy] Курс по настройке и ведению Яндекс.Директ для малого бизнеса (2020)",
+    "url": "https://cloud.mail.ru/public/3zWX/41i82i3Bg",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Александр Ампир] Как с помощью одного текста продать ваш курс (2020)",
+    "url": "https://cloud.mail.ru/public/QjUa/ff32u1jMP",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Юрий Курилов] Реалити-шоу Оффер для клуба (2020)",
+    "url": "https://cloud.mail.ru/public/5evP/5z7bXhGsY",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[IMWeek] Неделя Интернет Маркетинга (2020)",
+    "url": "https://cloud.mail.ru/public/BhyT/2yduUsXkG",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Анатолий Милов] Семинар для интернет маркетологов «Как и что продавать в кризис» (2020)",
+    "url": "https://cloud.mail.ru/public/3sKZ/5wV7igNEG",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[MCOM] Конференция о создании, развитии и поиске точек роста маркетплейсов (2020)",
+    "url": "https://cloud.mail.ru/public/Gjov/R7SUoErcV",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Д. Кустов, Ю. Островский, В. Локотков] Mobile marketing. PRO. LVL80 (2020)",
+    "url": "https://cloud.mail.ru/public/gQaH/2sbVZRAoL",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Коренко] Цепочка писем на миллион (2020)",
+    "url": "https://cloud.mail.ru/public/EVuF/c4pm1aaWc",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "Курс по email рассылкам (Обучение Октябрь 2019 + Годовое обучение + Уроки Бучалкина + Конференции)",
+    "url": "https://cloud.mail.ru/public/2Wfk/TNrY5bWeJ",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Морейнис, Черняк] 15 каналов продаж для увеличения количества клиентов за 15 дней (2020)",
+    "url": "https://cloud.mail.ru/public/3epZ/3gbyFE4d3",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Ярослав Федорюк] Папа автоворонок (2019)",
+    "url": "https://cloud.mail.ru/public/5kuF/2mZUy3a9S",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Никита Строков] Видеокурс «Директ без воды» (2019)",
+    "url": "https://cloud.mail.ru/public/2FG8/S8LZ1Q51i",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Зверев] Сервисы и программы для инфомаркетинга (2020)",
+    "url": "https://cloud.mail.ru/public/5ESv/jmFVpL2iV",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Михаил Сабанин] Мини-курс «Правильный ретаргетинг» (2020)",
+    "url": "https://cloud.mail.ru/public/4p1Q/2RBdZwNi9",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Константин Шереметьев] Малобюджетный маркетинг (2020)",
+    "url": "https://cloud.mail.ru/public/43VW/3bfcR4zsx",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Егор Гонин] [Сумасшедший маркетер] Станция «ЛИДовая»",
+    "url": "https://cloud.mail.ru/public/4fTJ/2P8UVQoa4",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[WebPromoExperts] Paid Traffic Day (2020)",
+    "url": "https://cloud.mail.ru/public/2yr4/5BxLdtbsT",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Виталий Шелест] Независимые рассылки 2020 PRO",
+    "url": "https://cloud.mail.ru/public/4ypK/2bTWBCRqZ",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Всеволод Козлов] Настройка Яндекс.Директ в нише «Ремонт квартир» (2020)",
+    "url": "https://cloud.mail.ru/public/zCjz/ZkTeschr1",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Дмитрий Воробьев] Автоматические воронки продаж для инфобизнеса и заработка на партнерках (2020) (Пароли: 1dayAuto, 2dayAuto)",
+    "url": "https://cloud.mail.ru/public/3L74/FAPS3Le81",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Nimax] Онлайн-курс по Digital PR (2020)",
+    "url": "https://cloud.mail.ru/public/TNtD/566QeWwVV",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Павел Гуров] Основы маркетинга в Instagram, Facebook, Twitter и Telegram (2020)",
+    "url": "https://cloud.mail.ru/public/KGXG/jotKBS74M",
+    "cloud": "Облако",
+    "category": "Маркетинг и реклама"
+  },
+  {
+    "title": "[Allie K. Miller] AI First Academy: стань специалистом нового поколения с искусственным интеллектом (2026)",
+    "url": "https://cloud.mail.ru/public/46N5/a8zs2nG4V",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Pride] Zenno-Универ AI (2025)",
+    "url": "https://cloud.mail.ru/public/Zima/NW8ytkxj5",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Тома Суворова (Саркулова)] [Tomatschool] Нейросети для ВКонтакте. Тариф Vip (2026)",
+    "url": "https://cloud.mail.ru/public/dzGD/pShUEd145",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Юлия Голыгина] Claude на максимум. Тариф С поддержкой (2026)",
+    "url": "https://cloud.mail.ru/public/gRay/tbtqBytLj",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Игорь Зуевич] Сообщество умных ИИ помощников (Август 2026)",
+    "url": "https://cloud.mail.ru/public/U6Sc/8qKYks9LP",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Артур Хорошев] [Ковчег] Make.com: автоматизация, промпт-инжиниринг, нейросети (Август 2026)",
+    "url": "https://cloud.mail.ru/public/dHPR/12AzBJDhi",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Миша Розов] [WannaBe] Design-system in Claude Code (2026)",
+    "url": "https://cloud.mail.ru/public/bbVc/gSnv56Rom",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Олег Конюков] [Orex] Подписка на контент Погружаемся в ИИ - в прямом эфире (Август 2026)",
+    "url": "https://cloud.mail.ru/public/6nF3/xUPkMK6mt",
+    "cloud": "Облако",
+    "category": "Нейросети"
+  },
+  {
+    "title": "[Tatiana Romanova, Anna Yurchenko] [Udemy] Microsoft PowerPoint - Magic PowerPoint (2020)",
+    "url": "https://cloud.mail.ru/public/MvV8/81XtSmfF4",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[Udemy] Анализ данных с применением надстройки Excel «Пакет анализа»",
+    "url": "https://cloud.mail.ru/public/2Txb/1BzJSbp7S",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[Николай Павлов] [Планета Excel] Прожиточный минимум в Microsoft Excel (2020)",
+    "url": "https://cloud.mail.ru/public/BN3V/pAxQg2R5z",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[Денис Мушинский] Финансовые фишки Excel (2020) (Пароль: X))2j8)",
+    "url": "https://cloud.mail.ru/public/qxcs/g8r4qBWGF",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[Alex Nekrashevich] [Udemy] Google Формы с нуля (2020)",
+    "url": "https://cloud.mail.ru/public/3Sdp/3HdxXkVhr",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[David Kunela] [Udemy] Промежуточный курс обучения по Excel (2020)",
+    "url": "https://cloud.mail.ru/public/Lhk6/gXXWMgenm",
+    "cloud": "Облако",
+    "category": "Офисные программы"
+  },
+  {
+    "title": "[Эриксон Низигийимана] [Темная комната] Эрекция под контролем (2026)",
+    "url": "https://cloud.mail.ru/public/8nuA/dBVehLV5f",
     "cloud": "Облако",
     "category": "Пикап, искусство соблазнения"
   },
   {
-    "title": "[Валерия Скоробогатько] [EduNote] Круглый стол. Новая клиника, модные диагнозы и старый добрый психоанализ (2026)",
-    "url": "https://cloud.mail.ru/public/GaSn/HVNYUjCqk",
+    "title": "[Арина Веспер] [Vesperfin] VesperfinCode: поддержка. 17-й поток (2026)",
+    "url": "https://cloud.mail.ru/public/XQbL/DvDBwQsnv",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Skypro] Python-разработчик с нуля (2024-2025)",
+    "url": "https://cloud.mail.ru/public/wnrb/tL1N3bdCt",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Vektor T13] [Detect.Expert Academy] Универсальный конструктор: ваш инструмент для создания анонимных сетей (2026)",
+    "url": "https://cloud.mail.ru/public/neA8/tSAauTRwc",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Вадим Шабалин, Сергей Прокофьев] Манипуляции, НЛП, ТРАНС: как аферисты влезают в душу своих жертв (2020)",
+    "url": "https://cloud.mail.ru/public/4Edr/5yBn2jLaA",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Псидваноль] [Psy2.0] Профессиональная переподготовка. Практический психолог. PSY2.0-консультант. Модули 1-8. Тариф Диплом (2025)",
-    "url": "https://cloud.mail.ru/public/xQ6k/rgRWGL17X",
+    "title": "[СПб ИДПО] Коммуникация и контракт в КПТ. Позиция КПТ психотерапевта. Модуль 2 (2024)",
+    "url": "https://cloud.mail.ru/public/kaAb/NSSVLVj8W",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Андрей Курпатов] [Академия смысла] Победи прокрастинацию (2026)",
-    "url": "https://cloud.mail.ru/public/AV3Q/DRKw4vN6m",
+    "title": "[Светлана Осипова] [АПП] Когнитивно-поведенческая терапия. Cтупень 1. Основы поведенческой терапии (2024)",
+    "url": "https://cloud.mail.ru/public/cueL/yEQoaWfF7",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Алексей Арестович] [Apeiron] Кино-модуль 17 мгновений весны. Занятие 1 (2026)",
-    "url": "https://cloud.mail.ru/public/vuWQ/VL5QRAaog",
+    "title": "[Charisma School] Убери внутренние блоки и раскрой свою харизму (2026)",
+    "url": "https://cloud.mail.ru/public/vGUW/djYRuTKrm",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Мила Левчук] Кто такая мама-плюс, и как ею стать (2026)",
-    "url": "https://cloud.mail.ru/public/14ni/Ex55GXXZf",
+    "title": "[Алена Ефремова] [TutorPlace] Когнитивные искажения (2026)",
+    "url": "https://cloud.mail.ru/public/ucuY/t47MwYCKG",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Алексей Арестович] [Apeiron] Искусство принимать решения. Занятие 7 (2026)",
-    "url": "https://cloud.mail.ru/public/oiCc/zjayYSiwG",
+    "title": "[Дарья Шестакова] [TutorPlace] Рефлексия: как стать осознанным (2026)",
+    "url": "https://cloud.mail.ru/public/BQpU/V2wsbz476",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Андрей Яценко] [Транс-лаборатория] Как принимать лучшие решения (2026)",
-    "url": "https://cloud.mail.ru/public/YPgd/4M3d1HW6w",
+    "title": "[Алена Ефремова] [TutorPlace] Самокритика (2026)",
+    "url": "https://cloud.mail.ru/public/JaPY/XcpuGKJ2r",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Надежда Майн] Почему и как психотерапия разрушает семьи (2026)",
-    "url": "https://cloud.mail.ru/public/8kET/mmmmQcbXb",
+    "title": "[Елизавета Сергачева, Анна Сапега] [TutorPlace] Типы привязанности 2.0 (2026)",
+    "url": "https://cloud.mail.ru/public/L7MR/NFaw27m71",
     "cloud": "Облако",
     "category": "Психология"
   },
   {
-    "title": "[Валерий Соловей] Судьба. Везение. Удача (2026)",
-    "url": "https://cloud.mail.ru/public/A62C/ntB3dU4VF",
+    "title": "[Алексей Арестович] [Apeiron] Полдень, XXII век: разбор книг братьев Стругацких. Киносеминар «Шири» (2026)",
+    "url": "https://cloud.mail.ru/public/PKnk/yQhyNjLMz",
     "cloud": "Облако",
-    "category": "Лекторий"
+    "category": "Психология"
   },
   {
-    "title": "[Константин Михайлов] Путеводитель паломника. Отцы и братья. Лекция 4 (2026)",
-    "url": "https://cloud.mail.ru/public/nD89/HTTsFLGFN",
+    "title": "[Таис Крымова] [Apeiron] Эволюция женских архетипов. Занятие 2 (2026)",
+    "url": "https://cloud.mail.ru/public/Wryu/eqvXpHgdq",
     "cloud": "Облако",
-    "category": "Лекторий"
+    "category": "Психология"
   },
   {
-    "title": "[Иван Негреев] Колдовство и магия в истории религий. Лекция 8. Возрождение высокого магизма (2026)",
-    "url": "https://cloud.mail.ru/public/4Txz/f6r2EVcRG",
+    "title": "[Константин Логинов, Галина Каменецкая] Глубинная работа с нарциссическим опытом: стыд, грандиозность и уязвимость. Тариф Профессиональный (2026)",
+    "url": "https://cloud.mail.ru/public/a4nj/kyGRKTsLF",
     "cloud": "Облако",
-    "category": "Лекторий"
+    "category": "Психология"
   },
   {
-    "title": "[Виктор Мараховский] Подписка на тексты Виктора Мараховского. Август (2026)",
-    "url": "https://cloud.mail.ru/public/gyZm/VQWvQUfHS",
+    "title": "[Ярослава Рындина] [ЯРКО] Теловек. Тариф Я сам (2026)",
+    "url": "https://cloud.mail.ru/public/Dg2S/qzVpM6ASX",
     "cloud": "Облако",
-    "category": "Разное"
+    "category": "Психология"
   },
   {
-    "title": "[Юнна Лукинских] Канал Потрясные находки (2026)",
-    "url": "https://cloud.mail.ru/public/ut3k/zZG2Sh6f8",
+    "title": "[Дарья Шестакова] [TutorPlace] Чувство вины (2026)",
+    "url": "https://cloud.mail.ru/public/h8na/hYRzLjvTe",
     "cloud": "Облако",
-    "category": "Ремонт и строительство"
+    "category": "Психология"
   },
   {
-    "title": "[Татьяна Дубровская] Мороженое (2026)",
-    "url": "https://cloud.mail.ru/public/Nqri/z15ojhjeF",
+    "title": "[Дарья Шестакова] [TutorPlace] Эмпатия: как понимать других (2026)",
+    "url": "https://cloud.mail.ru/public/oq6Z/sMEQ4coBb",
+    "cloud": "Облако",
+    "category": "Психология"
+  },
+  {
+    "title": "[Wladislaw Jachtchenko] [Udemy] Pиторикa Мастеркласс: Уверенно коммуницировать и убеждать!",
+    "url": "https://cloud.mail.ru/public/KCfq/yxQ75imzF",
+    "cloud": "Облако",
+    "category": "Развитие и познания себя"
+  },
+  {
+    "title": "[Алексей Тимофеев] Профессия ТИМОФЕЕВ: Монетизация жизни (2020)",
+    "url": "https://cloud.mail.ru/public/26CN/2CwngkUxv",
+    "cloud": "Облако",
+    "category": "Развитие и познания себя"
+  },
+  {
+    "title": "[Андрей Цыганков] Как найти свое предназначение (2020)",
+    "url": "https://cloud.mail.ru/public/2p17/56H7VB7ti",
+    "cloud": "Облако",
+    "category": "Развитие и познания себя"
+  },
+  {
+    "title": "[Эллина Дейли] 10 тонкостей поиска работы и построения карьеры – в Европе и не только (2019)",
+    "url": "https://cloud.mail.ru/public/7eLu/FMmBpFEa6",
+    "cloud": "Облако",
+    "category": "Развитие и познания себя"
+  },
+  {
+    "title": "[Николай Сабзир] Микрозелень проростки, брокколи, редис (2020)",
+    "url": "https://cloud.mail.ru/public/xm9g/Kqpe6KqND",
+    "cloud": "Облако",
+    "category": "Сад и огород"
+  },
+  {
+    "title": "[Оксана Гареева] [Roksimoda] Пошив платья с корсетом без заломов и дефектов (2026)",
+    "url": "https://cloud.mail.ru/public/yU6h/p2GGLsDEn",
     "cloud": "Облако",
     "category": "Сделай сам"
   },
   {
-    "title": "[Василий Олейник] Деньги не спят (Август 2026)",
-    "url": "https://cloud.mail.ru/public/HfP8/grfxYPY6y",
+    "title": "[Лилия Дроздова] Сумка Спорт (2026)",
+    "url": "https://cloud.mail.ru/public/P66x/2MGrFMCRq",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Лилия Дроздова] Колор блок (2026)",
+    "url": "https://cloud.mail.ru/public/cquo/dXkB7LnoP",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Лилия Дроздова] Косуха. 2 модели - из экокожи на подкладке и из джинсы без подкладки (2024)",
+    "url": "https://cloud.mail.ru/public/9sML/93Qqtmqyy",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Нагрудная вытачка в рельефных линиях на разные формы груди и разбор сложной фигуры (2026)",
+    "url": "https://cloud.mail.ru/public/vr8e/rEwKfMjbo",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Комбинированная блуза с оригинальным вырезом, переходящим в стойку (2026)",
+    "url": "https://cloud.mail.ru/public/TDXP/E7fTgtYQK",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Белое платье в стиле бохо, свободного кроя с декором по полочке (2026)",
+    "url": "https://cloud.mail.ru/public/5k1E/NpwioMvbL",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Моделирование платье-рубашки с оборкой (2026)",
+    "url": "https://cloud.mail.ru/public/9Bba/nuQnG2mRr",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Построение и крой боди сразу на ткани (2026)",
+    "url": "https://cloud.mail.ru/public/yStR/s9NmepGFe",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Лекала по основе полочки, спинки на большой размер груди (2026)",
+    "url": "https://cloud.mail.ru/public/W3U5/PXBfFKn3S",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Ценообразование в индивидуальном пошиве (2026)",
+    "url": "https://cloud.mail.ru/public/WyxG/PPHvyMPwV",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Моделирование и технология пошива трикотажного платья (2026)",
+    "url": "https://cloud.mail.ru/public/rKcV/nSYPrS9Xb",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Пошив костюма спорт-шик (2026)",
+    "url": "https://cloud.mail.ru/public/Mskq/urgLDziSE",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Построение и моделирование пальто (2026)",
+    "url": "https://cloud.mail.ru/public/fKGj/BNEp2m4i6",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Женский халат (2026)",
+    "url": "https://cloud.mail.ru/public/bNmc/TKoq7cpew",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Мужские трусы (2026)",
+    "url": "https://cloud.mail.ru/public/aXDp/t99LTczFh",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Конструктивное моделирование платьев (2026)",
+    "url": "https://cloud.mail.ru/public/Sd9V/7TT44i5xY",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Олеся Строганова] Технология пошива боди (2026)",
+    "url": "https://cloud.mail.ru/public/GeD8/7F3XTFY1d",
+    "cloud": "Облако",
+    "category": "Сделай сам"
+  },
+  {
+    "title": "[Юрий Курилов] Интенсив «Лендинг для онлайн-курса» для поднятия продаж (2019)",
+    "url": "https://cloud.mail.ru/public/vJ3P/4sjoeXDr4",
+    "cloud": "Облако",
+    "category": "Создание сайтов"
+  },
+  {
+    "title": "[Олег Быков] [CURSOR Технологии] Как Сделать Лендинг Самому (2020)",
+    "url": "https://cloud.mail.ru/public/Kpoq/hyJyHS4Ke",
+    "cloud": "Облако",
+    "category": "Создание сайтов"
+  },
+  {
+    "title": "[TrueDad] Steam - заработок на трейде с нуля + инвестор (2020)",
+    "url": "https://cloud.mail.ru/public/EF1K/e3E8VNdK6",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[novikovamua] Гайд «Сиди дома и зарабатывай» (2020)",
+    "url": "https://cloud.mail.ru/public/4qpT/Cnsti4erB",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[Яндекс Дзен] Как зарабатывать от 15 тысяч рублей в месяц. Выжимка курса (2019)",
+    "url": "https://cloud.mail.ru/public/2Uo1/9QL2cebLm",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[Жанна Пятирикова] Антихлам. Как заработать, избавляясь от ненужного (2020)",
+    "url": "https://cloud.mail.ru/public/2zZT/5jRzJ4ykf",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "Заработок на гипсовых фигурках от 200000 рублей в месяц (2020)",
+    "url": "https://cloud.mail.ru/public/KsDt/59tJkrR6b",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[Елена Новосельцева] Я.Асессор - от 10$ в день без специальных знаний (2020)",
+    "url": "https://cloud.mail.ru/public/vrrb/pmx4Cj7kn",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "Руководство по пассивному заработку SerfMoney 9.0",
+    "url": "https://cloud.mail.ru/public/3ER9/3NqT98F4M",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[Akitory Mr-Grey] Деньги из сетки белых СРА сайтов (2019)",
+    "url": "https://cloud.mail.ru/public/4pVp/29vynLNL7",
+    "cloud": "Облако",
+    "category": "Схемы заработка"
+  },
+  {
+    "title": "[Наталья Смирнова] Обучение Финансам. On-line Школа Финансового Советника (Пароль: 1234)",
+    "url": "https://cloud.mail.ru/public/1C6N/ag2kh5VjC",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Тимофей Мартынов] [Smartlab Premium] Подписка на аналитические материалы. Август (2026)",
-    "url": "https://cloud.mail.ru/public/c8nL/jeam9kWBF",
+    "title": "[Галия Бердникова] Финансовая грамотность за 3 недели (2020)",
+    "url": "https://cloud.mail.ru/public/rE3r/bByicG1Q9",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Михаил Хазин] Итоги недели (с марта 2026)",
-    "url": "https://cloud.mail.ru/public/N4vX/ew7BGAofK",
+    "title": "[Александр Чипижко] Мини-запуск по инвестициям (2020)",
+    "url": "https://cloud.mail.ru/public/AvrD/5tszV3ALp",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Денис Сучилин] [Ecworld.fund] Скрытые записи. Август (2026)",
-    "url": "https://cloud.mail.ru/public/vTVE/3usEwfwdB",
+    "title": "[Наталья Ардонская] Гаражные инвестиции: Новая реальность (2020)",
+    "url": "https://cloud.mail.ru/public/3bHB/2GQ8b39jc",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Алексей Антонов] Подписка на контент. Тариф Университет Антонова. Август (2026)",
-    "url": "https://cloud.mail.ru/public/Sdv8/vDFah3NfB",
+    "title": "[United Investors] Как инвестировать в рынок страхования? (2019)",
+    "url": "https://cloud.mail.ru/public/dp1E/kZKe4Tfpo",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Алексей Кречетов] Подписка на телеграм канал. Август (2026)",
-    "url": "https://cloud.mail.ru/public/oRV6/kkQmHkDzc",
+    "title": "[Сергей Бриз] [Город Инвесторов] Повелитель кризиса (2020)",
+    "url": "https://cloud.mail.ru/public/4aGy/43f13HDei",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Анар Бабаев] Клуб - На пенсию в 35 лет. Июнь - Август (2026)",
-    "url": "https://cloud.mail.ru/public/FhRL/TL6hrKWnA",
+    "title": "[Дмитрий Черемушкин] Стратегический вебинар по рынку США. Глобальный (Сентябрь 2026)",
+    "url": "https://cloud.mail.ru/public/YTm5/5w6Fp9f4j",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Арина Веспер] [Vesperfin] Канал сигналов Vesperfin Stock House. Август (2026)",
-    "url": "https://cloud.mail.ru/public/Adp6/gGuH6DpJY",
+    "title": "[Евгений Коган] [bitkogan] Подписка на приложение Bitkogan. Все портфели (Июнь - Август 2026)",
+    "url": "https://cloud.mail.ru/public/L1Zh/yuzNKQVw9",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Кримсон Альтер, Виктор Мараховский] Средство немассовой информации СНМИ. Август (2026)",
-    "url": "https://cloud.mail.ru/public/rbVf/Krw7SqMbp",
+    "title": "[Кирилл Захаров] Zakharov Invest - закрытый канал по облигациям. Март - Август (2026)",
+    "url": "https://cloud.mail.ru/public/7ueU/SGBjQLSJn",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Razb0rka] Разборка отчётов российских компаний и статистики. Август (2026)",
-    "url": "https://cloud.mail.ru/public/tYox/uE6XerVhS",
+    "title": "[Дмитрий Черемушкин] [The Wall Street Pro] Подписка на аналитические материалы. Март - Август (2026)",
+    "url": "https://cloud.mail.ru/public/D3we/UVHu5Pq5Y",
     "cloud": "Облако",
     "category": "Форекс, трейдинг и инвестиции"
   },
   {
-    "title": "[Тимофей Баффетов] Даёшь $100 забираешь $1000 X100 на крипте. Тариф Папкин инвестор (Январь - Август 2026)",
-    "url": "https://cloud.mail.ru/public/L9Qh/QddzpTkB1",
+    "title": "[Bang Bang Education] Режиссер монтажа (2025)",
+    "url": "https://cloud.mail.ru/public/gDzv/YaUbpc3ca",
     "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
+    "category": "Фото и видео"
   },
   {
-    "title": "[Николай Мячин] Простые финансы (март 2025 - август 2026)",
-    "url": "https://cloud.mail.ru/public/2L1X/ixNAHQExd",
+    "title": "[sekiro.ru] Путь к свободе. 7 онлайн-профессий за неделю (2020)",
+    "url": "https://cloud.mail.ru/public/HwCy/3k5Jnya1a",
     "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
+    "category": "Фриланс"
   },
   {
-    "title": "[Евгений Воронин] [Подписка Про] Фонды недвижимости. Рейтинг ЗПИФ недвижимости. 1 месяц (2026)",
-    "url": "https://cloud.mail.ru/public/gf46/UFFtFyZ33",
+    "title": "[nioly] Чек-лист «Фриланс» (2020)",
+    "url": "https://cloud.mail.ru/public/39v8/4hBhNUE1u",
     "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
+    "category": "Фриланс"
   },
   {
-    "title": "[Павел Гогаладзе] Инвестиции в долларах (2025)",
-    "url": "https://cloud.mail.ru/public/vS6j/g4bf1SmZS",
+    "title": "[Школа Монта] Боевой курс фрилансера и секрет на 100 тысяч рублей (2020)",
+    "url": "https://cloud.mail.ru/public/FzpS/BeDhoQ8Dn",
     "cloud": "Облако",
-    "category": "Форекс, трейдинг и инвестиции"
+    "category": "Фриланс"
   },
   {
-    "title": "[Артем Толоконин] Исцеление силы рода. Психосоматика родовых связей (2020)",
-    "url": "https://cloud.mail.ru/public/Qcqo/Nsdzn5ZDN",
+    "title": "[Евгений Фридман] [Школа МОНТА] Как заработать на бирже Кворк (2020)",
+    "url": "https://cloud.mail.ru/public/uMPT/3FcVZmpaA",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Академия Интернет-профессий FEEDBACK] Где и как искать клиентов online? (2020)",
+    "url": "https://cloud.mail.ru/public/knQM/YqSaTwD1c",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Мила Котлярова] Зарубежный фриланс (2020)",
+    "url": "https://cloud.mail.ru/public/2eZ3/351xvNpCS",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Валентина Дервисис] [Udemy] Upwork. Самый полный и актуальный курс для фрилансеров (2020)",
+    "url": "https://cloud.mail.ru/public/honA/RXH7WpLoy",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Илья Емельянов] «Фриланс. Зарабатывай больше» (2020)",
+    "url": "https://cloud.mail.ru/public/2t3S/5pTcvgMZu",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Сергей Коваль] Успешный фриланс на американской бирже Fiverr (2020)",
+    "url": "https://cloud.mail.ru/public/5u5B/B23Du6Nxj",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Оксана Давыдова] Зарабатывайте на биржах фриланса СРАЗУ - стартуйте быстро (2020)",
+    "url": "https://cloud.mail.ru/public/mC8c/56AD6vmSF",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Alex Nekrashevich] Как стать фрилансером с нуля без опыта - первый этап (2020)",
+    "url": "https://cloud.mail.ru/public/vpRG/c3g1h72EY",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Skill School] Удаленный Помощник (2019)",
+    "url": "https://cloud.mail.ru/public/3Uvn/2EN41bmFs",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[WebSarafan] Системная удаленная работа (2020)",
+    "url": "https://cloud.mail.ru/public/kLZS/SqumKtZPd",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Nioly] Менеджерята. Освой трендовые профессии и зарабатывай от 35 тысяч из любой точки мира (2019)",
+    "url": "https://cloud.mail.ru/public/uoEp/zGTj74F2M",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Alex Nekrashevich] [Udemy] Freelance для заказчика. Как найти и нанять фрилансера? (2020) (Пароль: kirn-Casziel-enounce)",
+    "url": "https://cloud.mail.ru/public/3kis/2hosuQNc5",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[WebForMySelf] Фриланс - Мастер.Как продавать свои услуги онлайн (2020)",
+    "url": "https://cloud.mail.ru/public/UDWw/5ym2hygDH",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Лидия Васильева, Лина Залевская] Как уйти во фриланс бухгалтеру и начать зарабатывать (2020)",
+    "url": "https://cloud.mail.ru/public/yuVJ/iGHtHqk5N",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Alex Nekrashevich] [Udemy] Курс для фрилансеров: 28 вредных совета, которым вы следуете (2020) (Пароль: Dilemi-Tauri-blurrer)",
+    "url": "https://cloud.mail.ru/public/5h46/2eX4MCGyD",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Лидия Васильева, Лина Залевская] Бухгалтер на фрилансе (2020)",
+    "url": "https://cloud.mail.ru/public/8tbc/4YbdaAA8F",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Константин Григорьев] Пир Духа 2. Как фрилансеру выстроить очередь из клиентов применяя грамотный пиар (2020)",
+    "url": "https://cloud.mail.ru/public/448J/2Rz2pszvs",
+    "cloud": "Облако",
+    "category": "Фриланс"
+  },
+  {
+    "title": "[Константин Дараган] Подписка на контент Комментарий астролога. Тариф Секстиль (август 2026 и ранее)",
+    "url": "https://cloud.mail.ru/public/AT5H/Mani8osY8",
     "cloud": "Облако",
     "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Ольга Веремеева] [Врата Миров] Взросление и детские травмы (2026)",
-    "url": "https://cloud.mail.ru/public/NyvL/CMVZnRN4X",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Марина Смолянинова] [Homebazi] Здоровье в бацзы (2026)",
-    "url": "https://cloud.mail.ru/public/HbvY/9xDRkfVRy",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Светлана Драган] Подписка на закрытые материалы. Август (2026)",
-    "url": "https://cloud.mail.ru/public/NS8X/juySSNju1",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Joey Yap] Cтруктура в ци мэнь: Четырежды расставленные Небесные Сети (2026)",
-    "url": "https://cloud.mail.ru/public/3CK7/vDsmJwxkq",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Наталья Гедике] Ночь Жертв с Гекатой (2026)",
-    "url": "https://cloud.mail.ru/public/rDQn/X6bwS8kaG",
-    "cloud": "Облако",
-    "category": "Эзотерика и оккультизм"
-  },
-  {
-    "title": "[Виктория К] Claude с нуля до уверенного пользователя (2026)",
-    "url": "https://cloud.mail.ru/public/Rq5V/afKbaTPKf",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Цзян Лю] [ДМК] OpenClaw. Как разработать собственного ИИ-агента за час (2026)",
-    "url": "https://cloud.mail.ru/public/tjUy/JxT6xWbGR",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Максим Мищенко] Как выжить пациенту в российской поликлинике (2026)",
-    "url": "https://cloud.mail.ru/public/4qy8/jcCTrWXrM",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Алексей Тищенко] Дневник тёмного психолога. Техники и инструментарий (2026)",
-    "url": "https://cloud.mail.ru/public/Adst/EgTrpsUWj",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Влад Тёмный] Тёмная психология влияния. Скрытые команды (2026)",
-    "url": "https://cloud.mail.ru/public/s7Jm/ek37UkHfy",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Елена Ермакова] Активное воображение для автора текстов. Занимательная охота на истории (2026)",
-    "url": "https://cloud.mail.ru/public/7Jp8/CcuDt3Fwo",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Николай Сорокин] Искусство задавать вопросы ИИ. Как докопаться до гениальных ответов (2026)",
-    "url": "https://cloud.mail.ru/public/s82P/QLkn5Kz4V",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Келли Чой] Деньги, которые живут в моем кармане. Корейская методика мышления для достижения безумного богатства (2026)",
-    "url": "https://cloud.mail.ru/public/YdSH/G6CaMhhPx",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Томаш Новак] Тёмная магия голоса. Команды под видом комплиментов (2026)",
-    "url": "https://cloud.mail.ru/public/sFgm/YWjkEGkrG",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Маркус Цуккиний] Словарь дзен-минимализма. Японские концепты для жизни без шума и суеты (2026)",
-    "url": "https://cloud.mail.ru/public/jpM1/vH59Xvy2A",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Мария Ракитина] Симптом и психосоматика. Расшифруй свою боль (2026)",
-    "url": "https://cloud.mail.ru/public/VVa9/WwJzzE6b9",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Константин Котенко] Природные геропротекторы. Анализ 25 природных соединений, способных замедлить процессы старения и улучшить качество жизни (2026)",
-    "url": "https://cloud.mail.ru/public/3RKj/dsLbg3R94",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Константин Жук] Аэрогриль. 50 рецептов вкусной курочки (2026)",
-    "url": "https://cloud.mail.ru/public/oGBM/sL64724o7",
-    "cloud": "Облако",
-    "category": "Книги, литература"
-  },
-  {
-    "title": "[Михаил Тарасов] Вайб-кодер от нуля до мастера в эпоху AI (2026)",
-    "url": "https://cloud.mail.ru/public/cCS5/xqWpm2mUU",
-    "cloud": "Облако",
-    "category": "Книги, литература"
   }
 ]
