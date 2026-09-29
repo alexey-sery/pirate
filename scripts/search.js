@@ -200,19 +200,19 @@ $(document).ready(function () {
       // Нормализация символов поиска
       function normalize(str) {
         return str
-          .replace(/[\u0421\u0441]/g, 'c')
-          .replace(/[\u041E\u043E]/g, 'o')
-          .replace(/[\u0041\u0061\u0410\u0430]/g, 'a')
-          .replace(/[\u0045\u0065\u0415\u0435]/g, 'e')
-          .replace(/[\u0048\u0068\u041D\u043D]/g, 'h')
-          .replace(/[\u004B\u006B\u041A\u043A]/g, 'k')
-          .replace(/[\u004D\u006D\u041C\u043C]/g, 'm')
-          .replace(/[\u0050\u0070\u0420\u0440]/g, 'p')
-          .replace(/[\u0054\u0074\u0422\u0442]/g, 't')
-          .replace(/[\u0042\u0062\u0412\u0432]/g, 'b')
-          .replace(/[\u0058\u0078\u0425\u0445]/g, 'x')
-          .replace(/[\u0059\u0079\u0423\u0443]/g, 'y')
-          .toLowerCase()
+          .replace(/[\u0421\u0441]/g, "c")
+          .replace(/[\u041E\u043E]/g, "o")
+          .replace(/[\u0041\u0061\u0410\u0430]/g, "a")
+          .replace(/[\u0045\u0065\u0415\u0435\u0401\u0451]/g, "e")
+          .replace(/[\u0048\u0068\u041D\u043D]/g, "h")
+          .replace(/[\u004B\u006B\u041A\u043A]/g, "k")
+          .replace(/[\u004D\u006D\u041C\u043C]/g, "m")
+          .replace(/[\u0050\u0070\u0420\u0440]/g, "p")
+          .replace(/[\u0054\u0074\u0422\u0442]/g, "t")
+          .replace(/[\u0042\u0062\u0412\u0432]/g, "b")
+          .replace(/[\u0058\u0078\u0425\u0445]/g, "x")
+          .replace(/[\u0059\u0079\u0423\u0443]/g, "y")
+          .toLowerCase();
       }
 
       function escapeRegExp(str) {
