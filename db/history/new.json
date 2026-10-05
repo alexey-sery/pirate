@@ -186,12 +186,6 @@
     "category": "Дизайн и живопись"
   },
   {
-    "title": "[Keerti Purswani] [Educosys] Практический High-Level System Design (2026)",
-    "url": "https://cloud.mail.ru/public/FyGv/bNZrTXD2t",
-    "cloud": "Облако",
-    "category": "Дизайн и живопись"
-  },
-  {
     "title": "[Мария Моргунова] ЗОЖ и биохакинг: Мифы XXI века. Великий детокс превентивной индустрии (2026)",
     "url": "https://cloud.mail.ru/public/5m18/SrpYfMKVH",
     "cloud": "Облако",
@@ -458,6 +452,12 @@
   {
     "title": "[Дмитрий Соболев] [Stepik] RAG-системы на векторных базах данных (2026)",
     "url": "https://cloud.mail.ru/public/GLjM/5Xv4Ve2jW",
+    "cloud": "Облако",
+    "category": "Программирование и администрирование"
+  },
+  {
+    "title": "[Keerti Purswani] [Educosys] Практический High-Level System Design (2026)",
+    "url": "https://cloud.mail.ru/public/FyGv/bNZrTXD2t",
     "cloud": "Облако",
     "category": "Программирование и администрирование"
   },
