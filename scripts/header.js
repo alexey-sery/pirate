@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $('.preloader').after(`
+  $(".preloader").after(`
       <!--<div id="snow"></div>-->
       <div class="nav">
         <div class="nav__items">
@@ -9,7 +9,21 @@ $(document).ready(function () {
           <a href="search.html">Поиск</a>
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
-          <a href="vpn.html">VPN</a>
+          <a href="https://t.me/wynne_vpn">VPN <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ preserveAspectRatio="xMidYMid meet" class="main__links">
+
+<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
+fill="white" stroke="none">
+<path d="M574 795 c-13 -34 3 -45 68 -45 l63 0 -159 -159 c-158 -159 -179
+-190 -132 -199 13 -3 65 42 177 154 l158 158 3 -65 c3 -61 4 -64 28 -64 l25 0
+0 115 0 115 -113 3 c-93 2 -113 0 -118 -13z"/>
+<path d="M140 670 c-19 -19 -20 -33 -20 -265 0 -232 1 -246 20 -265 19 -19 33
+-20 265 -20 232 0 246 1 265 20 19 19 20 33 20 217 l0 197 -30 -29 -30 -29 0
+-158 0 -158 -225 0 -225 0 0 225 0 225 158 0 158 0 29 30 29 30 -197 0 c-184
+0 -198 -1 -217 -20z"/>
+</g>
+</svg></a>
         </div>
         <div class="nav__items">
           <a href="favorites.html">        
@@ -41,7 +55,21 @@ $(document).ready(function () {
           <a href="search.html">Поиск</a>
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
-          <a href="vpn.html">VPN</a>
+          <a href="https://t.me/wynne_vpn">VPN <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ preserveAspectRatio="xMidYMid meet" class="main__links">
+
+<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
+fill="black" stroke="none">
+<path d="M574 795 c-13 -34 3 -45 68 -45 l63 0 -159 -159 c-158 -159 -179
+-190 -132 -199 13 -3 65 42 177 154 l158 158 3 -65 c3 -61 4 -64 28 -64 l25 0
+0 115 0 115 -113 3 c-93 2 -113 0 -118 -13z"/>
+<path d="M140 670 c-19 -19 -20 -33 -20 -265 0 -232 1 -246 20 -265 19 -19 33
+-20 265 -20 232 0 246 1 265 20 19 19 20 33 20 217 l0 197 -30 -29 -30 -29 0
+-158 0 -158 -225 0 -225 0 0 225 0 225 158 0 158 0 29 30 29 30 -197 0 c-184
+0 -198 -1 -217 -20z"/>
+</g>
+</svg></a>
         </div>
         <div class="menu__container">
           <div>
@@ -79,7 +107,7 @@ $(document).ready(function () {
         </div>
       </div>
       <div class="menubg"></div>
-  `)
+  `);
 
   const page = location.pathname.split('/').pop()
 
