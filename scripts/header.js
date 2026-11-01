@@ -10,7 +10,7 @@ $(document).ready(function () {
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
           <a href="https://t.me/wynne_vpn">VPN <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ width="20px" height="20px" viewBox="0 0 90.000000 90.000000"
  preserveAspectRatio="xMidYMid meet" class="main__links">
 
 <g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
@@ -56,7 +56,7 @@ fill="white" stroke="none">
           <a href="new.html">Новые курсы</a>
           <a href="manual.html">Инструкция</a>
           <a href="https://t.me/wynne_vpn">VPN <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ width="20px" height="20px" viewBox="0 0 90.000000 90.000000"
  preserveAspectRatio="xMidYMid meet" class="main__links">
 
 <g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
