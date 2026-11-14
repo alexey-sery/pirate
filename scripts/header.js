@@ -24,6 +24,11 @@ fill="white" stroke="none">
 0 -198 -1 -217 -20z"/>
 </g>
 </svg></a>
+
+<div class="donate-yoomoney">
+<iframe class="donate-yoomoney-pc" src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1LHU573P3GF.261114&" width="170" height="42" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<iframe class="donate-yoomoney-mobile" src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1LHULKVT7TG.261114&" width="140" height="36" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+</div>
         </div>
         <div class="nav__items">
           <a href="favorites.html">        
