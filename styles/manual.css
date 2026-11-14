@@ -163,3 +163,25 @@ details {
 .boldtext {
   font-weight: bold;
 }
+
+/* Юмани */
+.donate-yoomoney {
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+}
+.donate-yoomoney-mobile {
+  display: none;
+}
+
+@media screen and (max-width: 400px) {
+  .donate-yoomoney {
+    margin: 0;
+  }
+  .donate-yoomoney-pc {
+    display: none;
+  }
+  .donate-yoomoney-mobile {
+    display: block;
+  }
+}
