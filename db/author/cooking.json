@@ -164,11 +164,6 @@
     "cloud": "Облако"
   },
   {
-    "title": "[Светлана Саисламова] Система Домашнее ПП (2025)",
-    "url": "https://cloud.mail.ru/public/pbhT/MVKoxbtpj",
-    "cloud": "Облако"
-  },
-  {
     "title": "[Алексей Сотников] [Сыровер] Большой кисломолочный курс. Тариф Вип (2024)",
     "url": "https://cloud.mail.ru/public/pSd4/shVSCRS6d",
     "cloud": "Облако"
@@ -1001,11 +996,6 @@
   {
     "title": "[Надежда Архипова] Sweet box 2.0. Тариф Оптимальный (2023)",
     "url": "https://cloud.mail.ru/public/zHt4/oxt5T6s34",
-    "cloud": "Облако"
-  },
-  {
-    "title": "[Светлана Саисламова] Система быстрого приготовления ПП. Заморозка ПП (2024)",
-    "url": "https://cloud.mail.ru/public/4PAM/QSwV13NqX",
     "cloud": "Облако"
   },
   {
@@ -5661,11 +5651,6 @@
   {
     "title": "[Елена Крохмаль] Меренговые торты и десерты (2022)",
     "url": "https://cloud.mail.ru/public/gvKk/JyHEdNQ25",
-    "cloud": "Облако"
-  },
-  {
-    "title": "[Светлана Саисламова] ПП выпечка (2023)",
-    "url": "https://cloud.mail.ru/public/rP2Z/Td9CsFLWW",
     "cloud": "Облако"
   },
   {
@@ -11934,12 +11919,6 @@
     "category": "Кулинария"
   },
   {
-    "title": "[Светлана Саисламова] Видеокнига. ПП выпечка (2024)",
-    "url": "https://cloud.mail.ru/public/nRVy/VwYsh4nDw",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
     "title": "[Мария Манахова] Медовик карамельный с апельсиновой пастой (2024)",
     "url": "https://cloud.mail.ru/public/eWiJ/q7YJEJmL6",
     "cloud": "Облако",
@@ -12156,20 +12135,8 @@
     "category": "Кулинария"
   },
   {
-    "title": "[Светлана Саисламова] Сбалансированное здоровое меню ПП. Тариф 1 Всё сама (2024)",
-    "url": "https://cloud.mail.ru/public/appz/9TA48wJEH",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
     "title": "[Ольга Шмукста] [Love Cake] Новогодняя и рождественская выпечка. Тариф С поддержкой (2023)",
     "url": "https://cloud.mail.ru/public/K51C/9eJJ9yyyP",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Светлана Саисламова] Видеокнига ПП десертов (2023)",
-    "url": "https://cloud.mail.ru/public/t9F8/JWDeUyhVe",
     "cloud": "Облако",
     "category": "Кулинария"
   },
@@ -12212,12 +12179,6 @@
   {
     "title": "[Вера Никандрова] Курс «Классика 3.0» (2023)",
     "url": "https://cloud.mail.ru/public/nEuN/3KrJpV6JH",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Светлана Саисламова] Книга рецептов «Заготовки ПП» (2022)",
-    "url": "https://cloud.mail.ru/public/RcFj/AkcyufegW",
     "cloud": "Облако",
     "category": "Кулинария"
   },
@@ -12266,12 +12227,6 @@
   {
     "title": "[Полина Филимонова] [Pauline School] Начинающий кондитер. Продолжение",
     "url": "https://cloud.mail.ru/public/z2qG/dmKHc94N3",
-    "cloud": "Облако",
-    "category": "Кулинария"
-  },
-  {
-    "title": "[Светлана Саисламова] Энциклопедия ПП 300 рецептов (2021)",
-    "url": "https://cloud.mail.ru/public/iYuF/KdgeG1CLR",
     "cloud": "Облако",
     "category": "Кулинария"
   },
@@ -13196,6 +13151,24 @@
   {
     "title": "[Томас Теффри-Шамбелланд] Трактат о выпечке на закваске (2026)",
     "url": "https://cloud.mail.ru/public/MMtw/YAfdQybgy",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Галина Якушева] [Я-фуршет] Сборник Топовый бокс от фуршетного мастера (2026)",
+    "url": "https://cloud.mail.ru/public/yeyM/FvsdTpt5Q",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Мария Коваленко] Хороший вкус. Лучшие ресторанные блюда на вашей кухне (2026)",
+    "url": "https://cloud.mail.ru/public/T9Wo/V14A5jmvR",
+    "cloud": "Облако",
+    "category": "Кулинария"
+  },
+  {
+    "title": "[Елена Крохмаль] [Pastry-school] Знаменитые Синнабоны (2026)",
+    "url": "https://cloud.mail.ru/public/2JEb/rfsHtmZSv",
     "cloud": "Облако",
     "category": "Кулинария"
   }
